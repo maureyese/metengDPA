@@ -10,6 +10,8 @@ _(The following activities may not be ordered exactly as described in the final 
 
 ## Key resources
 
+TODO: Add WSL and other stuff info
+
 Databases:
 
 1. KEGG: https://www.kegg.jp/
@@ -20,6 +22,28 @@ Databases:
 Python libraries:
 
 1. COBRApy: https://cobrapy.readthedocs.io/en/latest/index.html
+
+We selected the following model:
+
+> Henry2009 - Genome-scale metabolic network of Bacillus subtilis (iBsu1103): https://www.ebi.ac.uk/biomodels/MODEL1507180015#Files
+
+The model provides:
+
+1. 1,437 reactions associated with 1,103 genes.
+2. Includes Gibbs free energy values for 1,403 reactions.
+3. 653 irreversible reactions.
+4. validation against an experimental dataset of 1,500 distinct conditions (Model accuracy: 89.7 - 93.1%).
+
+We downloaded the model using:
+
+```shell
+wget "https://www.ebi.ac.uk/biomodels/services/download/get-files/MODEL1507180015/2/MODEL1507180015_url.xml" -O "model/MODEL1507180015_url.xml
+"
+```
+
+## Activity 1: Identification of key reactions
+
+Prior any modeling analysis, we selecting our key reactions using KEGG.
 
 ## Activity 1: Simulation of precursor production under normal conditions
 
