@@ -37,7 +37,7 @@ The model provides:
 We downloaded the model using:
 
 ```shell
-wget "https://www.ebi.ac.uk/biomodels/services/download/get-files/MODEL1507180015/2/MODEL1507180015_url.xml" -O "model/MODEL1507180015_url.xml
+wget "https://www.ebi.ac.uk/biomodels/services/download/get-files/MODEL1507180015/2/MODEL1507180015_url.xml" -O "model/MODEL1507180015_url.xml"
 "
 ```
 
