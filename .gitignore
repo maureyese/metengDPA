@@ -1,2 +1,7 @@
 .metengdpa/
 __pycache__/
+# Testing custom functions (Not added on GOGEC Report)
+scripts/01_InitialAnalysis.ipynb
+scripts/brenda_2025_1.json
+scripts/match_names.py
+scripts/names_by_kegg.py

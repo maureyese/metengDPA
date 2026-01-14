@@ -1,0 +1,1251 @@
+id,name,reaction,lower_bound,upper_bound,compartment,gene_reaction
+EX_etha_e,Ethanolamine exchange,etha_e --> ,,999999.0,{'e'},
+EX_drib_e,Deoxy D Ribose exchange,drib_e --> ,,999999.0,{'e'},
+EX_csn_e,Cytosine exchange,csn_e --> ,,999999.0,{'e'},
+EX_5mtr_e,5-Methylthio-D-ribose exchange,5mtr_e --> ,,999999.0,{'e'},
+EX_dtmp_e,DTMP exchange,dtmp_e --> ,,999999.0,{'e'},
+EX_6pgc_e,6 Phospho D gluconate exchange,6pgc_e --> ,,999999.0,{'e'},
+EX_ctbt_e,Crotonobetaine exchange,ctbt_e --> ,,999999.0,{'e'},
+EX_cu2_e,Cu2+ exchange,cu2_e --> ,,999999.0,{'e'},
+EX_Larab_e,Alpha L Arabinan exchange,Larab_e --> ,,999999.0,{'e'},
+EX_ectoine_e,Ectoine exchange,ectoine_e --> ,,999999.0,{'e'},
+EX_cys__D_e,D-Cysteine exchange,cys__D_e --> ,,999999.0,{'e'},
+EX_cys__L_e,L-Cysteine exchange,cys__L_e --> ,,999999.0,{'e'},
+EX_eths_e,Ethanesulfonate exchange,eths_e --> ,,999999.0,{'e'},
+EX_cyst__L_e,L Cystine exchange,cyst__L_e --> ,,999999.0,{'e'},
+EX_Lcyst_e,L-Cysteate exchange,Lcyst_e --> ,,999999.0,{'e'},
+EX_cytd_e,Cytidine exchange,cytd_e --> ,,999999.0,{'e'},
+EX_abt__L_e,L Arabinitol exchange,abt__L_e --> ,,999999.0,{'e'},
+EX_etoh_e,Ethanol exchange,etoh_e --> ,,999999.0,{'e'},
+EX_dad_2_e,Deoxyadenosine exchange,dad_2_e --> ,,999999.0,{'e'},
+EX_dcyt_e,Deoxycytidine exchange,dcyt_e --> ,,999999.0,{'e'},
+EX_fe2_e,Fe2+ exchange,fe2_e --> ,,999999.0,{'e'},
+EX_dextrin_e,Dextrin exchange,dextrin_e --> ,,999999.0,{'e'},
+EX_dha_e,Dihydroxyacetone exchange,dha_e --> ,,999999.0,{'e'},
+EX_ac_e,Acetate exchange,ac_e --> ,,999999.0,{'e'},
+EX_acac_e,Acetoacetate exchange,acac_e --> ,,999999.0,{'e'},
+EX_fe3_e,Fe3+ exchange,fe3_e <=> ,-999999.0,999999.0,{'e'},
+EX_ferrich_e,Ferrichrome exchange,ferrich_e --> ,,999999.0,{'e'},
+EX_diact_e,Diacetyl exchange,diact_e --> ,,999999.0,{'e'},
+EX_djenk_e,Djenkolate exchange,djenk_e --> ,,999999.0,{'e'},
+EX_ferxa_e,Ferroxamine exchange,ferxa_e --> ,,999999.0,{'e'},
+EX_fol_e,EX fol LPAREN e RPAREN,fol_e --> ,,999999.0,{'e'},
+EX_acgam_e,N-Acetyl-D-glucosamine exchange,acgam_e --> ,,999999.0,{'e'},
+EX_acmana_e,N-Acetyl-D-mannosamine exchange,acmana_e --> ,,999999.0,{'e'},
+EX_acnam_e,N-Acetylneuraminate exchange,acnam_e --> ,,999999.0,{'e'},
+EX_for_e,Formate exchange,for_e --> ,,999999.0,{'e'},
+EX_fru_e,D-Fructose exchange,fru_e --> ,,999999.0,{'e'},
+EX_actn__R_e,EX actn R LPAREN e RPAREN,actn__R_e --> ,,999999.0,{'e'},
+EX_ade_e,Adenine exchange,ade_e --> ,,999999.0,{'e'},
+EX_adn_e,Adenosine exchange,adn_e --> ,,999999.0,{'e'},
+EX_akg_e,2-Oxoglutarate exchange,akg_e --> ,,999999.0,{'e'},
+EX_ala_B_e,Beta-Alanine exchange,ala_B_e --> ,,999999.0,{'e'},
+EX_ala__D_e,D-Alanine exchange,ala__D_e --> ,,999999.0,{'e'},
+EX_ala_L_Thr__L_e,Ala L Thr L exchange,ala_L_Thr__L_e --> ,,999999.0,{'e'},
+EX_ala_L_asp__L_e,Ala L asp L exchange,ala_L_asp__L_e --> ,,999999.0,{'e'},
+EX_ala__L_e,L-Alanine exchange,ala__L_e --> ,,999999.0,{'e'},
+EX_ala_L_gln__L_e,Ala Gln exchange,ala_L_gln__L_e --> ,,999999.0,{'e'},
+EX_ala_L_glu__L_e,Ala L glu L exchange,ala_L_glu__L_e --> ,,999999.0,{'e'},
+EX_L_alagly_e,Ala L gly exchange,L_alagly_e --> ,,999999.0,{'e'},
+EX_ala_L_his__L_e,Ala His exchange,ala_L_his__L_e --> ,,999999.0,{'e'},
+EX_ala_L_leu__L_e,Ala Leu exchange,ala_L_leu__L_e --> ,,999999.0,{'e'},
+EX_g6p_e,D-Glucose 6-phosphate exchange,g6p_e --> ,,999999.0,{'e'},
+EX_gal_e,D-Galactose exchange,gal_e --> ,,999999.0,{'e'},
+EX_galctr__D_e,D Galactarate exchange,galctr__D_e --> ,,999999.0,{'e'},
+EX_galt_e,Galactitol exchange,galt_e --> ,,999999.0,{'e'},
+EX_galur_e,D-Galacturonate exchange,galur_e --> ,,999999.0,{'e'},
+EX_gam6p_e,D-Glucosamine 6-phosphate exchange,gam6p_e --> ,,999999.0,{'e'},
+EX_gam_e,D-Glucosamine exchange,gam_e --> ,,999999.0,{'e'},
+EX_gbbtn_e,Gamma-butyrobetaine exchange,gbbtn_e --> ,,999999.0,{'e'},
+EX_glc__D_e,D-Glucose exchange,glc__D_e <=> ,-1.7,999999.0,{'e'},
+EX_glcn__D_e,D Gluconate exchange,glcn__D_e --> ,,999999.0,{'e'},
+EX_glcr_e,D-Glucarate exchange,glcr_e --> ,,999999.0,{'e'},
+EX_glcur_e,D-Glucuronate exchange,glcur_e --> ,,999999.0,{'e'},
+EX_gln__L_e,L-Glutamine exchange,gln__L_e --> ,,999999.0,{'e'},
+EX_glu__D_e,D Glutamate exchange,glu__D_e --> ,,999999.0,{'e'},
+EX_alaala_e,D-Alanyl-D-alanine exchange,alaala_e --> ,,999999.0,{'e'},
+EX_alltn_e,Allantoin exchange,alltn_e --> ,,999999.0,{'e'},
+EX_amp_e,AMP exchange,amp_e --> ,,999999.0,{'e'},
+EX_amylase_e,Mature Bacillus subtilis amylase exchange,amylase_e --> ,,999999.0,{'e'},
+EX_fum_e,Fumarate exchange,fum_e --> ,,999999.0,{'e'},
+EX_antim_e,Antimonite exchange,antim_e --> ,,999999.0,{'e'},
+EX_g1p_e,D-Glucose 1-phosphate exchange,g1p_e --> ,,999999.0,{'e'},
+EX_glu__L_e,L-Glutamate exchange,glu__L_e --> ,,999999.0,{'e'},
+EX_arab__D_e,D Arabinose exchange,arab__D_e --> ,,999999.0,{'e'},
+EX_arab__L_e,L-Arabinose exchange,arab__L_e --> ,,999999.0,{'e'},
+EX_arbt_e,Arbutin exchange,arbt_e --> ,,999999.0,{'e'},
+EX_arg__L_e,L-Arginine exchange,arg__L_e --> ,,999999.0,{'e'},
+EX_argp_e,L Arginine phosphate exchange,argp_e --> ,,999999.0,{'e'},
+EX_arsenb_e,ARSENOBETAINE exchange,arsenb_e --> ,,999999.0,{'e'},
+EX_arsna_e,Arsenate exchange,arsna_e --> ,,999999.0,{'e'},
+EX_arsni2_e,Arsenite exchange,arsni2_e --> ,,999999.0,{'e'},
+EX_asn__L_e,L-Asparagine exchange,asn__L_e --> ,,999999.0,{'e'},
+EX_asp__L_e,L-Aspartate exchange,asp__L_e --> ,,999999.0,{'e'},
+EX_bilea_e,Bile acid exchange,bilea_e --> ,,999999.0,{'e'},
+EX_btd_RR_e,R R  2 3 Butanediol exchange,btd_RR_e --> ,,999999.0,{'e'},
+EX_glx_e,Glyoxylate exchange,glx_e --> ,,999999.0,{'e'},
+EX_buts_e,Butanesulfonate exchange,buts_e --> ,,999999.0,{'e'},
+EX_ca2_e,Calcium exchange,ca2_e <=> ,-999999.0,999999.0,{'e'},
+EX_cbl2_e,Cob II alamin exchange,cbl2_e --> ,,999999.0,{'e'},
+EX_pur_e,Puromycin exchange,pur_e --> ,,999999.0,{'e'},
+EX_pyr_e,Pyruvate exchange,pyr_e --> ,,999999.0,{'e'},
+EX_cd2_e,Cadmium exchange,cd2_e --> ,,999999.0,{'e'},
+EX_gly_asn__L_e,Gly asn L exchange,gly_asn__L_e --> ,,999999.0,{'e'},
+EX_cellb_e,Cellobiose exchange,cellb_e --> ,,999999.0,{'e'},
+EX_cgly_e,Cys-Gly exchange,cgly_e --> ,,999999.0,{'e'},
+EX_raffin_e,Raffinose exchange,raffin_e --> ,,999999.0,{'e'},
+EX_rib__D_e,D-Ribose exchange,rib__D_e --> ,,999999.0,{'e'},
+EX_gly_asp__L_e,Gly asp L exchange,gly_asp__L_e --> ,,999999.0,{'e'},
+EX_ribflv_e,Riboflavin exchange,ribflv_e --> ,,999999.0,{'e'},
+EX_chitob_e,Chitobiose exchange,chitob_e --> ,,999999.0,{'e'},
+EX_gly_e,Glycine exchange,gly_e --> ,,999999.0,{'e'},
+EX_chol_e,Choline exchange,chol_e --> ,,999999.0,{'e'},
+EX_rmn_e,L-Rhamnose exchange,rmn_e --> ,,999999.0,{'e'},
+EX_gly_gln__L_e,Gly Gln exchange,gly_gln__L_e --> ,,999999.0,{'e'},
+EX_chols_e,EX chols LPAREN e RPAREN,chols_e --> ,,999999.0,{'e'},
+EX_chor_e,Chorismate exchange,chor_e --> ,,999999.0,{'e'},
+EX_cit_e,Citrate exchange,cit_e --> ,,999999.0,{'e'},
+EX_salcn_e,Salicin exchange,salcn_e --> ,,999999.0,{'e'},
+EX_gly_glu__L_e,Gly glu L exchange,gly_glu__L_e --> ,,999999.0,{'e'},
+EX_sbt__D_e,D-Sorbitol exchange,sbt__D_e --> ,,999999.0,{'e'},
+EX_ser__D_e,D-Serine exchange,ser__D_e --> ,,999999.0,{'e'},
+EX_citr__L_e,L-Citrulline exchange,citr__L_e --> ,,999999.0,{'e'},
+EX_cmp_e,CMP exchange,cmp_e --> ,,999999.0,{'e'},
+EX_ser__L_e,L-Serine exchange,ser__L_e --> ,,999999.0,{'e'},
+EX_gly_met__L_e,Gly Met exchange,gly_met__L_e --> ,,999999.0,{'e'},
+EX_so4_e,Sulfate exchange,so4_e <=> ,-5.0,999999.0,{'e'},
+EX_spmd_e,Spermidine exchange,spmd_e --> ,,999999.0,{'e'},
+EX_co2_e,CO2 exchange,co2_e <=> ,-999999.0,999999.0,{'e'},
+EX_cobalt2_e,Co2+ exchange,cobalt2_e --> ,,999999.0,{'e'},
+EX_crn_e,L-Carnitine exchange,crn_e --> ,,999999.0,{'e'},
+EX_cro4_e,Chromate exchange,cro4_e --> ,,999999.0,{'e'},
+EX_srb__L_e,L Sorbose exchange,srb__L_e --> ,,999999.0,{'e'},
+EX_starch_e,Starch exchange,starch_e --> ,,999999.0,{'e'},
+EX_subtilisin_e,Mature Bacillus subtilis subtilisin exchange,subtilisin_e --> ,,999999.0,{'e'},
+EX_succ_e,Succinate exchange,succ_e --> ,,999999.0,{'e'},
+EX_sucr_e,Sucrose exchange,sucr_e --> ,,999999.0,{'e'},
+EX_gly_pro__L_e,Gly pro L exchange,gly_pro__L_e --> ,,999999.0,{'e'},
+EX_sula_e,Sulfoacetate exchange,sula_e --> ,,999999.0,{'e'},
+EX_taur_e,Taurine exchange,taur_e --> ,,999999.0,{'e'},
+EX_glyb_e,Glycine betaine exchange,glyb_e --> ,,999999.0,{'e'},
+EX_thiog_e,Thioglycolate exchange,thiog_e --> ,,999999.0,{'e'},
+EX_glyc3p_e,Glycerol 3-phosphate exchange,glyc3p_e --> ,,999999.0,{'e'},
+EX_glyc_e,Glycerol exchange,glyc_e --> ,,999999.0,{'e'},
+EX_glyclt_e,Glycolate exchange,glyclt_e --> ,,999999.0,{'e'},
+EX_glycogen_e,Glycogen exchange,glycogen_e --> ,,999999.0,{'e'},
+EX_gmp_e,GMP exchange,gmp_e --> ,,999999.0,{'e'},
+EX_gsn_e,Guanosine exchange,gsn_e --> ,,999999.0,{'e'},
+EX_thr__L_e,L-Threonine exchange,thr__L_e --> ,,999999.0,{'e'},
+EX_gthox_e,Oxidized glutathione exchange,gthox_e --> ,,999999.0,{'e'},
+EX_thym_e,Thymine exchange,thym_e --> ,,999999.0,{'e'},
+EX_gthrd_e,Reduced glutathione exchange,gthrd_e --> ,,999999.0,{'e'},
+EX_thymd_e,Thymidine exchange,thymd_e --> ,,999999.0,{'e'},
+EX_gua_e,Guanine exchange,gua_e --> ,,999999.0,{'e'},
+EX_tmp_e,Trimetaphosphate exchange,tmp_e --> ,,999999.0,{'e'},
+EX_tre_e,Trehalose exchange,tre_e --> ,,999999.0,{'e'},
+EX_trp__L_e,L-Tryptophan exchange,trp__L_e --> ,,999999.0,{'e'},
+EX_h2o2_e,Hydrogen peroxide exchange,h2o2_e --> ,,999999.0,{'e'},
+EX_tyr__L_e,L-Tyrosine exchange,tyr__L_e --> ,,999999.0,{'e'},
+EX_h2o_e,H2O exchange,h2o_e <=> ,-999999.0,999999.0,{'e'},
+EX_ump_e,UMP exchange,ump_e --> ,,999999.0,{'e'},
+EX_ura_e,Uracil exchange,ura_e --> ,,999999.0,{'e'},
+3UMPt6,3  UMP transport in via proton symport,3ump_e + h_e <=> 3ump_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+EX_h_e,H+ exchange,h_e <=> ,-999999.0,999999.0,{'e'},
+5MTRt2,5 Methylthio D ribose transport inout via proton symport,5mtr_e + h_e <=> 5mtr_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+6PGCt6,6 Phospho D gluconate transport inout via proton symport,6pgc_e + h_e <=> 6pgc_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+EX_urate_e,Urate exchange,urate_e --> ,,999999.0,{'e'},
+2HXMPt6,2  hydroxymethyl phenol transport inout via proton symport,2hxmp_e + h_e <=> 2hxmp_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+EX_hexs_e,Hexanesulfonate exchange,hexs_e --> ,,999999.0,{'e'},
+2PGLYCt6,2 Phosphoglycolate transport inout via proton symport,2pglyc_e + h_e <=> 2pglyc_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+2PGt6,D Glycerate 2 phosphate transport inout via proton symport,2pg_e + h_e <=> 2pg_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+3AMPt6,3  AMP transport inout via proton symport,3amp_e + h_e <=> 3amp_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+3CMPt6,3  CMP transport in via proton symport,3cmp_e + h_e <=> 3cmp_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+EX_urea_e,Urea exchange,urea_e --> ,,999999.0,{'e'},
+EX_uri_e,Uridine exchange,uri_e --> ,,999999.0,{'e'},
+EX_val__L_e,L-Valine exchange,val__L_e --> ,,999999.0,{'e'},
+EX_xan_e,Xanthine exchange,xan_e --> ,,999999.0,{'e'},
+EX_xtsn_e,Xanthosine exchange,xtsn_e --> ,,999999.0,{'e'},
+EX_xyl__D_e,D-Xylose exchange,xyl__D_e --> ,,999999.0,{'e'},
+EX_zn2_e,Zinc exchange,zn2_e --> ,,999999.0,{'e'},
+3GMPt6,Guanosine 3  phsophate transport inout via proton symport,3gmp_e + h_e <=> 3gmp_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+3PGt6,3 Phospho D glycerate transport inout via proton symport,3pg_e + h_e <=> 3pg_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+ABTt_1,L arabinitol transport via passive diffusion,abt__L_e <=> abt__L_c,-999999.0,999999.0,"{'e', 'c'}",
+F6Pt6_2,Fructose 6 phosphate transport via phosphate antiport,f6p_e + 2.0 pi_c --> f6p_c + 2.0 pi_e,,999999.0,"{'e', 'c'}",
+EX_hg2_e,Hg2+ exchange,hg2_e --> ,,999999.0,{'e'},
+EX_his__L_e,L-Histidine exchange,his__L_e --> ,,999999.0,{'e'},
+EX_hqn_e,Hydroquinone exchange,hqn_e --> ,,999999.0,{'e'},
+EX_hxan_e,Hypoxanthine exchange,hxan_e --> ,,999999.0,{'e'},
+PHEt2r,L phenylalanine reversible transport via proton symport,h_e + phe__L_e <=> h_c + phe__L_c,-999999.0,999999.0,"{'e', 'c'}",
+ACACt2,Acetoacetate transport via proton symport,acac_e + h_e <=> acac_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+EX_icit_e,Isocitrate exchange,icit_e --> ,,999999.0,{'e'},
+2S6HCCi,2 succinyl 6 hydroxy 2 4 cyclohexadiene 1 carboxylate synthase,akg_c + h_c + ichor_c --> 2shchc_c + co2_c + pyr_c,,999999.0,{'c'},BSU30820
+26DPAi,Dipicolinate synthase,23dhdp_c + nad_c --> DPA_c + h_c + nadh_c,,999999.0,{'c'},BSU16730 and BSU16740
+3AMBAt2,3 aminobutyrate transport in via proton symport,3amba_e + h_e --> 3amba_c + h_c,,999999.0,"{'e', 'c'}",BSU06310
+FDH,Formate dehydrogenase,for_c + nad_c --> co2_c + nadh_c,,999999.0,{'c'},(BSU36710 and BSU12160) or (BSU36710 and BSU27220) or (BSU36710 and BSU18570)
+FDMO_1,FmnRD dependent monooxygenase  methanesulfonate,fmnRD_c + mso3_c + o2_c --> fald_c + fmn_c + h2o_c + h_c + so3_c,,999999.0,{'c'},BSU08860
+EX_ile__L_e,L-Isoleucine exchange,ile__L_e --> ,,999999.0,{'e'},
+AAMYL_1,Alpha amylase,starch_e --> dextrin_e,,999999.0,{'e'},BSU03040
+EX_inost_e,Myo-Inositol exchange,inost_e --> ,,999999.0,{'e'},
+EX_ins_e,Inosine exchange,ins_e --> ,,999999.0,{'e'},
+EX_istnt_e,Isethionate exchange,istnt_e --> ,,999999.0,{'e'},
+ABTA,4-aminobutyrate transaminase,4abut_c + akg_c <=> glu__L_c + sucsal_c,-999999.0,999999.0,{'c'},BSU03900
+EX_k_e,K+ exchange,k_e <=> ,-999999.0,999999.0,{'e'},
+EX_lac__L_e,L-Lactate exchange,lac__L_e --> ,,999999.0,{'e'},
+EX_lanth_e,Lanthionine exchange,lanth_e --> ,,999999.0,{'e'},
+FBA,Fructose-bisphosphate aldolase,fdp_c <=> dhap_c + g3p_c,-999999.0,999999.0,{'c'},BSU39670 or BSU37120
+EX_lcts_e,Lactose exchange,lcts_e --> ,,999999.0,{'e'},
+FBA2,D Fructose 1 phosphate D glyceraldehyde 3 phosphate lyase,f1p_c <=> dhap_c + glyald_c,-999999.0,999999.0,{'c'},BSU37120 or BSU39670
+FBP,Fructose-bisphosphatase,fdp_c + h2o_c --> f6p_c + pi_c,,999999.0,{'c'},BSU40190
+FCLT_2,Heme B synthesis reaction,fe2_c + ppp9_c --> h_c + pheme_c,,999999.0,{'c'},BSU10130
+FDMO1,FMN dependent monooxygenase  ethanesulfonate,eths_c + fmnRD_c + o2_c --> acald_c + fmn_c + h2o_c + h_c + so3_c,,999999.0,{'c'},BSU08860
+FDMO2_1,FMN dependent monooxygenase  butanesulfonate,buts_c + fmnRD_c + o2_c --> btal_c + fmn_c + h2o_c + h_c + so3_c,,999999.0,{'c'},BSU08860
+FDMO3_1,FMN dependent monooxygenase  hexanesulfonate,fmnRD_c + hexs_c + o2_c --> fmn_c + h2o_c + h_c + hxal_c + so3_c,,999999.0,{'c'},BSU08860
+AB6PGH,Arbutin 6-phosphate glucohydrolase,arbt6p_c + h2o_c --> g6p_c + hqn_c,,999999.0,{'c'},BSU38560 or BSU40110
+ABUTD,Aminobutyraldehyde dehydrogenase,4abutn_c + h2o_c + nad_c --> 4abut_c + 2.0 h_c + nadh_c,,999999.0,{'c'},BSU19310 or BSU38830 or BSU39860
+MACCOAT,2-Methylacetyl-CoA thiolase,2maacoa_c + coa_c <=> accoa_c + ppcoa_c,-999999.0,999999.0,{'c'},BSU32830
+ACACT2r,Acetyl-CoA C-acyltransferase (butanoyl-CoA) (r),accoa_c + btcoa_c <=> 3ohcoa_c + coa_c,-999999.0,999999.0,{'c'},BSU32830
+ACACT3r,Acetyl-CoA C-acyltransferase (hexanoyl-CoA) (r),accoa_c + hxcoa_c <=> 3oocoa_c + coa_c,-999999.0,999999.0,{'c'},BSU32830
+ACACT4r,Acetyl-CoA C-acyltransferase (octanoyl-CoA) (r),accoa_c + occoa_c <=> 3odcoa_c + coa_c,-999999.0,999999.0,{'c'},BSU32830
+ACACT5r_1,Acetyl CoA C acyltransferase  decanoyl CoA,accoa_c + dccoa_c <=> 3oddcoa_c + coa_c,-999999.0,999999.0,{'c'},BSU32830
+ACACT6r_1,Acetyl CoA C acyltransferase  dodecanoyl CoA,accoa_c + ddcoa_c <=> 3otdcoa_c + coa_c,-999999.0,999999.0,{'c'},BSU32830
+ACACT7r,Acetyl-CoA C-acyltransferase (tetradecanoyl-CoA) (r),accoa_c + tdcoa_c <=> 3ohdcoa_c + coa_c,-999999.0,999999.0,{'c'},BSU32830
+FDMO4_1,FMN dependent monooxygenase  taurine,fmnRD_c + o2_c + taur_c --> amacald_c + fmn_c + h2o_c + h_c + so3_c,,999999.0,{'c'},BSU08860
+FDMO5_1,FMN dependent monooxygenase  sulfoacetate,fmnRD_c + o2_c + sula_c --> fmn_c + glx_c + h2o_c + h_c + so3_c,,999999.0,{'c'},BSU08860
+FDMO6_1,FMN dependent monooxygenase  isethionate,fmnRD_c + istnt_c + o2_c --> fmn_c + gcald_c + h2o_c + h_c + so3_c,,999999.0,{'c'},BSU08860
+ACACT1r,Acetyl-CoA C-acetyltransferase,2.0 accoa_c <=> aacoa_c + coa_c,-999999.0,999999.0,{'c'},BSU24170
+ACCOAC,Acetyl-CoA carboxylase,accoa_c + atp_c + hco3_c --> adp_c + h_c + malcoa_c + pi_c,,999999.0,{'c'},(BSU29200 and BSU29210) and BSU24350 and BSU24340 and BSU22440
+EX_leu__L_e,L-Leucine exchange,leu__L_e --> ,,999999.0,{'e'},
+ACGApts,N-Acetyl-D-glucosamine transport via PEP:Pyr PTS,acgam_e + pep_c --> acgam6p_c + pyr_c,,999999.0,"{'e', 'c'}",BSU07700 and BSU13900 and BSU13910
+ACGK,Acetylglutamate kinase,acglu_c + atp_c --> acg5p_c + adp_c,,999999.0,{'c'},BSU11210
+FE2abc,Iron (II) transport via ABC system,atp_c + fe2_e + h2o_c --> adp_c + fe2_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU01630 and BSU01620 and BSU01610
+EX_lipt_e,Lipoate exchange,lipt_e --> ,,999999.0,{'e'},
+ACGS,N-acetylglutamate synthase,accoa_c + glu__L_c --> acglu_c + coa_c + h_c,,999999.0,{'c'},BSU11200
+EX_lys__L_e,L-Lysine exchange,lys__L_e --> ,,999999.0,{'e'},
+FOLD3,Dihydropteroate synthase,2ahhmd_c + 4abz_c --> dhpt_c + ppi_c,,999999.0,{'c'},BSU00770
+ACMANAt2,N acetyl D mannosamine proton symport,acmana_e + h_e --> acmana_c + h_c,,999999.0,"{'e', 'c'}",
+ACNAMt2,N-acetylneuraminate proton symport,acnam_e + h_e --> acnam_c + h_c,,999999.0,"{'e', 'c'}",
+EX_madg_e,Alpha Methyl D glucoside exchange,madg_e --> ,,999999.0,{'e'},
+ACNPLYS,N-Acetylneuraminate pyruvate-lyase,acmana_c + h2o_c + pep_c <=> acnam_c + pi_c,-999999.0,999999.0,{'c'},
+EX_mal__D_e,D-Malate exchange,mal__D_e --> ,,999999.0,{'e'},
+ALLTNt2r,Allantoin transport in via proton symport,alltn_e + h_e --> alltn_c + h_c,,999999.0,"{'e', 'c'}",
+EX_mal__L_e,L-Malate exchange,mal__L_e --> ,,999999.0,{'e'},
+ACt2r,Acetate reversible transport via proton symport,ac_e + h_e <=> ac_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+ADEt2,Adenine transport in via proton symport,ade_e + h_e --> ade_c + h_c,,999999.0,"{'e', 'c'}",
+ACKr,Acetate kinase,ac_c + atp_c <=> actp_c + adp_c,-999999.0,999999.0,{'c'},BSU29470
+ACLDC,Acetolactate decarboxylase,alac__S_c + h_c --> actn__R_c + co2_c,,999999.0,{'c'},BSU36000
+ALLTAHr,Allantoate amidinohydrolase  reversible,alltt_c + h2o_c <=> urdglyc_c + urea_c,-999999.0,999999.0,{'c'},
+EX_malt_e,Maltose exchange,malt_e --> ,,999999.0,{'e'},
+AMPt6,AMP transport inout via proton symport,amp_e + h_e <=> amp_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+ACODA_1,Acetylornithine deacetylase,acorn_c + h2o_c --> ac_c + orn__L_c,,999999.0,{'c'},BSU15350
+ACOAD20,Acyl CoA dehydrogenase  2 methylbutnoyl CoA,2.0 2mbcoa_c + o2_c --> 2.0 2mb2coa_c + 2.0 h2o_c,,999999.0,{'c'},BSU18260 or BSU32820 or BSU04520
+EX_malttr_e,Maltotriose exchange,malttr_e --> ,,999999.0,{'e'},
+EX_man1p_e,D Mannose 1 phosphate exchange,man1p_e --> ,,999999.0,{'e'},
+ACONT,Aconitate hydratase,cit_c <=> icit_c,-999999.0,999999.0,{'c'},BSU18000
+ACOAD2,Acyl-CoA dehydrogenase (hexanoyl-CoA),h_c + hx2coa_c + nadh_c <=> hxcoa_c + nad_c,-999999.0,999999.0,{'c'},BSU37170 or BSU24150
+EX_man6p_e,D-Mannose 6-phosphate exchange,man6p_e --> ,,999999.0,{'e'},
+ACOAD1,Acyl-CoA dehydrogenase (butanoyl-CoA),b2coa_c + h_c + nadh_c <=> btcoa_c + nad_c,-999999.0,999999.0,{'c'},BSU32820 or BSU24150 or BSU37170 or BSU18260 or BSU04520
+ACOADH2,Acyl CoA dehydrogenase  isobutyryl CoA,2.0 ibcoa_c + o2_c --> 2.0 2mp2coa_c + 2.0 h2o_c,,999999.0,{'c'},BSU04520 or BSU18260 or BSU32820
+ARABDI,L-fucose isomerase,arab__D_c <=> rbl__D_c,-999999.0,999999.0,{'c'},
+ARAB_Dt,D arabinose reversible transport,arab__D_e <=> arab__D_c,-999999.0,999999.0,"{'e', 'c'}",
+ACOTA,Acetylornithine transaminase,acorn_c + akg_c <=> acg5sa_c + glu__L_c,-999999.0,999999.0,{'c'},BSU11220
+ARGKr,ATPL arginine N phosphotransferase,arg__L_c + atp_c <=> adp_c + argp_c + h_c,-999999.0,999999.0,{'c'},
+EX_man_e,D-Mannose exchange,man_e --> ,,999999.0,{'e'},
+ARGPt6,L arginine phosphate transport inout via proton symport,argp_e + h_e <=> argp_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+ACPS1,Acyl-carrier protein synthase,apoACP_c + coa_c --> ACP_c + h_c + pap_c,,999999.0,{'c'},BSU04620
+EX_3ump_e,3'-UMP exchange,3ump_e --> ,,999999.0,{'e'},
+EX_mbdg_e,Beta Methylglucoside exchange,mbdg_e --> ,,999999.0,{'e'},
+APATi,Tetrahydrodipicolinate acetyltransferase,accoa_c + h2o_c + thdp_c --> acamoxm_c + coa_c,,999999.0,{'c'},BSU14180
+EX_melib_e,Melibiose exchange,melib_e --> ,,999999.0,{'e'},
+EX_meoh_e,Methanol exchange,meoh_e --> ,,999999.0,{'e'},
+EX_met__D_e,D-Methionine exchange,met__D_e --> ,,999999.0,{'e'},
+APRAUR,5-amino-6-(5-phosphoribosylamino)uracil reductase,5apru_c + h_c + nadph_c --> 5aprbu_c + nadp_c,,999999.0,{'c'},BSU23280
+APSR,Adenosine 5'-phosphosulfate reductase;,aps_c + trdrd_c --> amp_c + 2.0 h_c + so3_c + trdox_c,,999999.0,{'c'},BSU15570
+ACPpds,[acyl-carrier-protein] phosphodiesterase,ACP_c + h2o_c --> apoACP_c + h_c + pan4p_c,,999999.0,{'c'},BSU19230
+ACS,Acetyl-CoA synthetase,ac_c + atp_c + coa_c --> accoa_c + amp_c + ppi_c,,999999.0,{'c'},BSU29680
+EX_met_L_ala__L_e,Met L ala L exchange,met_L_ala__L_e --> ,,999999.0,{'e'},
+ALKP,Alkaline phosphatase,dhap_c + h2o_c <=> dha_c + pi_c,-999999.0,999999.0,{'c'},BSU09410 or BSU05740
+APTA1i,Acetyl L L diaminopimelate aminotransferase,acamoxm_c + glu__L_c --> 26dapime_c + akg_c,,999999.0,{'c'},BSU14000
+EX_met__L_e,L-Methionine exchange,met__L_e --> ,,999999.0,{'e'},
+ALCD19_L,Alcohol dehydrogenase  L glyceraldehyde to glycerol  NADP,Lglyald_c + h_c + nadph_c <=> glyc_c + nadp_c,-999999.0,999999.0,{'c'},BSU09530 or BSU39780
+ACS2,Acetyl-CoA synthase (propionate),atp_c + coa_c + ppa_c --> amp_c + ppcoa_c + ppi_c,,999999.0,{'c'},BSU29680
+ACTD2,Acetoin dehydrogenase,actn__R_c + coa_c + nad_c --> acald_c + accoa_c + h_c + nadh_c,,999999.0,{'c'},(BSU29690 and BSU29700 and BSU29710) or (BSU08060 and BSU08070 and BSU08080 and BSU08090)
+ACTNabc,Acetoin transport via ABC system,actn__R_e + atp_c + h2o_c --> actn__R_c + adp_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU30450 and BSU30440 and BSU30430 and BSU30420 and BSU30410
+ACTNabc1,Acetoin efflux  via ABC system,actn__R_c + atp_c + h2o_c --> actn__R_e + adp_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU30450 and BSU30440 and BSU30430 and BSU30420 and BSU30410
+ALCD2y,"Alcohol dehydrogenase (ethanol, NADP)",etoh_c + nadp_c <=> acald_c + h_c + nadph_c,-999999.0,999999.0,{'c'},BSU26970 or BSU27010
+ADADir,Deoxycytidine kinase,atp_c + dcyt_c --> adp_c + dcmp_c + h_c,,999999.0,{'c'},BSU00140
+EX_metox__R_e,L methionine R oxide exchange,metox__R_e --> ,,999999.0,{'e'},
+ADNK1,Adenosine kinase,adn_c + atp_c --> adp_c + amp_c + h_c,,999999.0,{'c'},BSU00140
+ADCL,4-aminobenzoate synthase,4adcho_c --> 4abz_c + h_c + pyr_c,,999999.0,{'c'},BSU00760
+ADD,Adenine deaminase,ade_c + h2o_c + h_c --> hxan_c + nh4_c,,999999.0,{'c'},BSU14520
+ALLTN,Allantoinase,alltn_c + h2o_c --> alltt_c + h_c,,999999.0,{'c'},BSU32410
+ALTRH,Altronate hydrolase,altrn_c --> 2ddglcn_c + h2o_c,,999999.0,{'c'},BSU12390
+EX_metox_e,L Methionine S oxide exchange,metox_e --> ,,999999.0,{'e'},
+ARABRr,Arabinose reductase,arab__L_c + h_c + nadph_c <=> abt__L_c + nadp_c,-999999.0,999999.0,{'c'},BSU29050 or BSU33400
+ARAI,L-arabinose isomerase,arab__L_c <=> rbl__L_c,-999999.0,999999.0,{'c'},BSU28800
+ARBTpts,Arbutin transport via PEPPyr PTS,arbt_e + pep_c --> arbt6p_c + pyr_c,,999999.0,"{'e', 'c'}",BSU39270 and BSU13900 and BSU13910
+ADCS,4-amino-4-deoxychorismate synthase,chor_c + gln__L_c --> 4adcho_c + glu__L_c,,999999.0,{'c'},BSU00740 and BSU00750
+ADK1,Adenylate kinase,amp_c + atp_c <=> 2.0 adp_c,-999999.0,999999.0,{'c'},BSU01370
+EX_mg2_e,Mg exchange,mg2_e <=> ,-999999.0,999999.0,{'e'},
+AMAA,N-acetylmuramoyl-L-alanine amidase,acmama_c + h2o_c --> acmam_c + ala__L_c,,999999.0,{'c'},BSU25900 and BSU17410 and BSU01530 and BSU25710 and BSU35620
+ADK2,Adenylate kinase (Inorganic triphosphate),amp_c + pppi_c <=> adp_c + ppi_c,-999999.0,999999.0,{'c'},BSU01370
+AMAOTr,Adenosylmethionine-8-amino-7-oxononanoate transaminase,8aonn_c + amet_c <=> amob_c + dann_c,-999999.0,999999.0,{'c'},BSU30230
+EX_mn2_e,Mn2+ exchange,mn2_e --> ,,999999.0,{'e'},
+AMMQT7,S adenosylmethione2 demthylmenaquinone methyltransferase  menaquinone 7,2dmmq7_c + amet_c + nadph_c --> ahcys_c + mql7_c + nadp_c,,999999.0,{'c'},BSU22750
+ANPRT,Anthranilate phosphoribosyltransferase,anth_c + prpp_c --> ppi_c + pran_c,,999999.0,{'c'},BSU22670
+ADMDC,Adenosylmethionine decarboxylase,amet_c + h_c <=> ametam_c + co2_c,-999999.0,999999.0,{'c'},BSU29010
+EX_mnl_e,D-Mannitol exchange,mnl_e --> ,,999999.0,{'e'},
+ADNt2,Adenosine transport in via proton symport,adn_e + h_e <=> adn_c + h_c,-999999.0,999999.0,"{'e', 'c'}",BSU38710
+ADPDA,N6 acetyl LL 2 6 diaminoheptanedioate amidohydrolase,26dapime_c + h2o_c <=> 26dap_LL_c + ac_c,-999999.0,999999.0,{'c'},BSU14190
+ADPRDP,ADPribose diphosphatase,adprib_c + h2o_c --> amp_c + 2.0 h_c + r5p_c,,999999.0,{'c'},BSU23610
+ANS,Anthranilate synthase,chor_c + gln__L_c --> anth_c + glu__L_c + h_c + pyr_c,,999999.0,{'c'},BSU00750 and BSU22680
+ANTIMt1,Antimonite  transporter via uniport,antim_c --> antim_e,,999999.0,"{'e', 'c'}",BSU25790
+EX_mobd_e,Molybdate exchange,mobd_e --> ,,999999.0,{'e'},
+AOXSr,8-amino-7-oxononanoate synthase,ala__L_c + h_c + pmcoa_c --> 8aonn_c + co2_c + coa_c,,999999.0,{'c'},BSU30220
+ARBabc,L-arabinose transport via ABC system,arab__L_e + atp_c + h2o_c --> adp_c + arab__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU28750 and BSU28740 and BSU28730
+ARBt2r,L-arabinose transport via proton symport,arab__L_e + h_e --> arab__L_c + h_c,,999999.0,"{'e', 'c'}",BSU33960
+ARGDC,Arginine decarboxylase,arg__L_c + h_c --> agm_c + co2_c,,999999.0,{'c'},BSU14630
+ADPT,Adenine phosphoribosyltransferase,ade_c + prpp_c --> amp_c + ppi_c,,999999.0,{'c'},BSU27610
+ADSK,Adenylyl-sulfate kinase,aps_c + atp_c <=> adp_c + h_c + paps_c,-999999.0,999999.0,{'c'},BSU15600
+ADSL2r,Adenylosuccinate lyase,25aics_c <=> aicar_c + fum_c,-999999.0,999999.0,{'c'},BSU06440
+ADSL1r,Adenylsuccinate lyase,dcamp_c <=> amp_c + fum_c,-999999.0,999999.0,{'c'},BSU06440
+ADSS,Adenylosuccinate synthase,asp__L_c + gtp_c + imp_c --> dcamp_c + gdp_c + 2.0 h_c + pi_c,,999999.0,{'c'},BSU40420
+AGDC,N-acetylglucosamine-6-phosphate deacetylase,acgam6p_c + h2o_c --> ac_c + gam6p_c,,999999.0,{'c'},BSU35010
+ARGN_1,Arginase,arg__L_c + h2o_c --> orn__L_c + urea_c,,999999.0,{'c'},BSU40320
+ARGSL,Argininosuccinate lyase,argsuc_c <=> arg__L_c + fum_c,-999999.0,999999.0,{'c'},BSU29440
+ARGSS,Argininosuccinate synthase,asp__L_c + atp_c + citr__L_c <=> amp_c + argsuc_c + h_c + ppi_c,-999999.0,999999.0,{'c'},BSU29450
+AGMT,Agmatinase,agm_c + h2o_c --> ptrc_c + urea_c,,999999.0,{'c'},BSU37490
+AGPATr_BS,1 acylglycerol 3 phosphate O acyltransferase,0.01 1ag3p_BS_c + 0.07 fa11coa_c + 0.17 fa12coa_c + 0.01 fa1coa_c + 0.2 fa3coa_c + 0.34 fa4coa_c + 0.05 fa6coa_c + 0.1 pmtcoa_c + 0.03 strcoa_c + 0.03 tdcoa_c <=> 0.01 12dag3p_BS_c + coa_c,-999999.0,999999.0,{'c'},BSU09540
+EX_mops_e,MOPS exchange,mops_e --> ,,999999.0,{'e'},
+AGPR,N-acetyl-g-glutamyl-phosphate reductase,acg5sa_c + nadp_c + pi_c <=> acg5p_c + h_c + nadph_c,-999999.0,999999.0,{'c'},BSU11190
+AHCYSNS,S-adenosylhomocysteine nucleosidase,ahcys_c + h2o_c --> ade_c + rhcys_c,,999999.0,{'c'},BSU27270
+ASNt2r,L asparagine reversible transport via proton symport,asn__L_e + h_e --> asn__L_c + h_c,,999999.0,"{'e', 'c'}",
+EX_mso3_e,Methanesulfonate exchange,mso3_e --> ,,999999.0,{'e'},
+ASPt2r,L aspartate reversible transport via proton symport,asp__L_e + h_e --> asp__L_c + h_c,,999999.0,"{'e', 'c'}",
+AHMMPS_1,4 amino 5 hydroxymethyl 2 methylpyrimidine synthetase,air_c + h2o_c --> 4ahmmp_c + gcald_c + 0.5 o2_c + pi_c,,999999.0,{'c'},BSU08790
+AHSERL3,Cysteine synthase  Selenide,acser_c + seln_c <=> ac_c + scys__L_c,-999999.0,999999.0,{'c'},BSU00730
+AHSERL4,Cysteine synthase  Thiosulfate,acser_c + trdrd_c + tsul_c <=> ac_c + cys__L_c + h_c + so3_c + trdox_c,-999999.0,999999.0,{'c'},BSU00730
+EX_na1_e,Sodium exchange,na1_e <=> ,-999999.0,999999.0,{'e'},
+AICART,Phosphoribosylaminoimidazolecarboxamide formyltransferase,10fthf_c + aicar_c <=> fprica_c + thf_c,-999999.0,999999.0,{'c'},BSU06520
+AKGDH,2-Oxogluterate dehydrogenase,akg_c + coa_c + nad_c --> co2_c + nadh_c + succoa_c,,999999.0,{'c'},BSU19370 and BSU19360 and BSU14610
+EX_nac_e,Nicotinate exchange,nac_e --> ,,999999.0,{'e'},
+AIRC1,Phosphoribosylaminoimidazole carboxylase  ATP dependent,air_c + atp_c + co2_c + h2o_c --> 5aizc_c + adp_c + 2.0 h_c + pi_c,,999999.0,{'c'},BSU06420 and BSU06430
+ATPM,ATP maintenance requirement,atp_c + h2o_c --> adp_c + h_c + pi_c,9.0,9.0,{'c'},
+BIOMASS_BS_10,B subtilis biomass  demand,0.000367 10fthf_c + 0.266902 ala__L_c + 0.00467 amp_c + 0.193021 arg__L_c + 0.147987 asn__L_c + 0.148014 asp__L_c + 105.053483 atp_c + 0.003205 ca2_c + 5e-06 cdlp_BS_c + 0.000251 cdp_c + 0.001042 cmp_c + 0.038902 ctp_c + 0.05699 cys__L_c + 0.00011 d12dg_BS_c + 0.022982 datp_c + 0.01738 dctp_c + 0.017398 dgtp_c + 0.022899 dttp_c + 0.00345 fe3_c + 0.00018 gdp_c + 0.260335 gln__L_c + 0.260378 glu__L_c + 0.408288 gly_c + 0.000503 gmp_c + 0.003624 gtca1_45_BS_c + 0.002347 gtca2_45_BS_c + 0.001819 gtca3_45_BS_c + 0.062667 gtp_c + 105.0 h2o_c + 0.081739 his__L_c + 0.269905 ile__L_c + 0.706312 k_c + 0.346445 leu__L_c + 7e-06 lipo1_24_BS_c + 6e-06 lipo2_24_BS_c + 1.8e-05 lipo3_24_BS_c + 1.5e-05 lipo4_24_BS_c + 0.323093 lys__L_c + 2.2e-05 lysylpgly_BS_c + 8.6e-05 m12dg_BS_c + 0.113326 met__L_c + 0.101714 mg2_c + 0.000266 mql7_c + 0.016164 nad_c + 0.000934 nadp_c + 0.000216 nadph_c + 0.101817 peptido_BS_c + 0.000176 pgly_BS_c + 0.175939 phe__L_c + 0.000918 ppi_c + 0.160642 pro__L_c + 0.00056 psetha_BS_c + 0.216213 ser__L_c + 6.6e-05 t12dg_BS_c + 0.003112 tcam_BS_c + 0.186317 thr__L_c + 0.054336 trp__L_c + 0.110824 tyr__L_c + 0.041501 utp_c + 0.306734 val__L_c --> 104.997414 adp_c + 105.0 h_c + 104.985613 pi_c,,999999.0,{'c'},
+EX_nh4_e,Ammonia exchange,nh4_e <=> ,-5.0,999999.0,{'e'},
+BTDt6_RR,Butanediol transport inout via proton symport,btd_RR_e + h_e <=> btd_RR_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+CHORt2,Chorismate transport inout via proton symport,chor_e + h_e <=> chor_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+ALAALAr,D-alanine-D-alanine ligase (reversible),2.0 ala__D_c + atp_c <=> adp_c + alaala_c + h_c + pi_c,-999999.0,999999.0,{'c'},BSU04560
+AKGt2r,2 oxoglutarate reversible transport via symport,akg_e + h_e --> akg_c + h_c,,999999.0,"{'e', 'c'}",BSU07570 or BSU18540
+EX_ni2_e,Ni2+ exchange,ni2_e --> ,,999999.0,{'e'},
+AKP1,Alkaline phosphatase  Dihydroneopterin,ahdt_c + 3.0 h2o_c --> dhnpt_c + 2.0 h_c + 3.0 pi_c,,999999.0,{'c'},BSU09410 or BSU05740
+ALAD_L,L-alanine dehydrogenase,ala__L_c + h2o_c + nad_c --> h_c + nadh_c + nh4_c + pyr_c,,999999.0,{'c'},BSU31930
+ALAR,Alanine racemase,ala__L_c <=> ala__D_c,-999999.0,999999.0,{'c'},BSU04640
+ALATA_L,L-alanine transaminase,akg_c + ala__L_c <=> glu__L_c + pyr_c,-999999.0,999999.0,{'c'},BSU31400
+CITRt2r,Citrulline reversible transport via proton symport,citr__L_e + h_e --> citr__L_c + h_c,,999999.0,"{'e', 'c'}",
+CMPt6,CMP transport inout via proton symport,cmp_e + h_e <=> cmp_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+CO2t,CO2 transporter via diffusion,co2_e <=> co2_c,-999999.0,999999.0,"{'e', 'c'}",
+DALAt2r,D-alanine transport via proton symport,ala__D_e + h_e --> ala__D_c + h_c,,999999.0,"{'e', 'c'}",BSU27810 or BSU02420 or BSU18120
+ARSNAt1,Arsenate transporter,arsna_c --> arsna_e,,999999.0,"{'e', 'c'}",BSU25790
+ALAt2r,L alanine reversible transport via proton symport,ala__L_e + h_e --> ala__L_c + h_c,,999999.0,"{'e', 'c'}",BSU27810 or BSU02420 or BSU18120
+EX_no2_e,Nitrite exchange,no2_e --> ,,999999.0,{'e'},
+ALCD19y,Alcohol dehydrogenase  glycerol  NADP,glyald_c + h_c + nadph_c <=> glyc_c + nadp_c,-999999.0,999999.0,{'c'},BSU09530 or BSU39780
+ARSt1,Arsenite transporter via uniport,arsni2_c --> arsni2_e,,999999.0,"{'e', 'c'}",BSU36030 or BSU05340 or BSU25790
+ARGabc,L-arginine transport via ABC system,arg__L_e + atp_c + h2o_c --> adp_c + arg__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU23980 and BSU23970 and BSU23960
+EX_no3_e,Nitrate exchange,no3_e --> ,,999999.0,{'e'},
+ARGt2r,L arganine reversible transport via proton symport,arg__L_e + h_e --> arg__L_c + h_c,,999999.0,"{'e', 'c'}",BSU33330 or BSU40330 or BSU37760
+ARSENBabc,Arsenobetaine transport in via ABC system,arsenb_e + atp_c + h2o_c --> adp_c + arsenb_c + h_c + pi_c,,999999.0,"{'e', 'c'}",(BSU33830 and BSU33820 and BSU33810 and BSU33800) or (BSU02980 and BSU02990 and BSU03000)
+CYSGLYt2ir,Cys Gly transport in via symport,cgly_e + h_e --> cgly_c + h_c,,999999.0,"{'e', 'c'}",
+CYSTabc,L cystine transport via ABC system,atp_c + cyst__L_e + h2o_c --> adp_c + cyst__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",
+ARSENBt2,Arsenobetaine transport in via proton symport,arsenb_e + h_e --> arsenb_c + h_c,,999999.0,"{'e', 'c'}",BSU30070
+EX_o2_e,O2 exchange,o2_e <-- ,-999999.0,,{'e'},
+ASAD,Aspartate-semialdehyde dehydrogenase,aspsa_c + nadp_c + pi_c <=> 4pasp_c + h_c + nadph_c,-999999.0,999999.0,{'c'},BSU16750
+ASNN,L-asparaginase,asn__L_c + h2o_c --> asp__L_c + nh4_c,,999999.0,{'c'},BSU23580
+ASNS1,Asparagine synthase (glutamine-hydrolysing),asp__L_c + atp_c + gln__L_c + h2o_c --> amp_c + asn__L_c + glu__L_c + h_c + ppi_c,,999999.0,{'c'},BSU30540 or BSU10790 or BSU39920
+CYSabc,L-cysteine transport via ABC system,atp_c + cys__L_e + h2o_c --> adp_c + cys__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",
+DEXTRINt2,Dextrin transport in via proton symport,dextrin_e + h_e --> dextrin_c + h_c,,999999.0,"{'e', 'c'}",
+ASP1DC,Aspartate 1-decarboxylase,asp__L_c + h_c --> ala_B_c + co2_c,,999999.0,{'c'},BSU22410
+EX_orn__L_e,Ornithine exchange,orn__L_e --> ,,999999.0,{'e'},
+ASPCT,Aspartate carbamoyltransferase,asp__L_c + cbp_c --> cbasp_c + h_c + pi_c,,999999.0,{'c'},BSU15490
+ASPK,Aspartate kinase,asp__L_c + atp_c <=> 4pasp_c + adp_c,-999999.0,999999.0,{'c'},BSU16760 or BSU28470 or BSU03790
+DHAt,Dihydroxyacetone transport via facilitated diffusion,dha_e <=> dha_c,-999999.0,999999.0,"{'e', 'c'}",
+EX_pala_e,Palatinose exchange,pala_e --> ,,999999.0,{'e'},
+EX_4abut_e,4-Aminobutanoate exchange,4abut_e --> ,,999999.0,{'e'},
+ASPO6,L-aspartate oxidase,asp__L_c + o2_c --> h2o2_c + h_c + iasp_c,,999999.0,{'c'},BSU27870
+ASPO1,L-aspartate oxidase,asp__L_c + h2o_c + o2_c --> h2o2_c + nh4_c + oaa_c,,999999.0,{'c'},BSU27870
+ASPT,L-aspartase,asp__L_c --> fum_c + nh4_c,,999999.0,{'c'},BSU23570
+ASPTA,Aspartate transaminase,akg_c + asp__L_c <=> glu__L_c + oaa_c,-999999.0,999999.0,{'c'},BSU22370
+EX_pep_e,Phosphoenolpyruvate exchange,pep_e --> ,,999999.0,{'e'},
+ATPPRT,ATP phosphoribosyltransferase,atp_c + prpp_c <=> ppi_c + prbatp_c,-999999.0,999999.0,{'c'},BSU34920
+DADK,Deoxyadenylate kinase,atp_c + damp_c <=> adp_c + dadp_c,-999999.0,999999.0,{'c'},BSU01370
+EX_phe__L_e,L-Phenylalanine exchange,phe__L_e --> ,,999999.0,{'e'},
+DADNt2,Deoxyadenosine transport in via proton symport,dad_2_e + h_e --> dad_2_c + h_c,,999999.0,"{'e', 'c'}",BSU38710
+ATPS4r,ATP synthase (four protons for one ATP),adp_c + 4.0 h_e + pi_c <=> atp_c + h2o_c + 3.0 h_c,-999999.0,999999.0,"{'e', 'c'}",BSU36880 and BSU36870 and BSU36860 and BSU36850 and BSU36840 and BSU36830 and BSU36820 and BSU36810 and BSU36800
+BETALDHx,Betaine-aldehyde dehydrogenase,betald_c + h2o_c + nad_c --> glyb_c + 2.0 h_c + nadh_c,,999999.0,{'c'},BSU31060
+BG_CELLB,Beta glucosidase  cellobiose,cellb_e + h2o_e --> 2.0 glc__D_e,,999999.0,{'e'},BSU39260
+CYSS_2,Cysteine synthase,acser_c + h2s_c --> ac_c + cys__L_c,,999999.0,{'c'},BSU00730
+EX_pi_e,Phosphate exchange,pi_e <=> ,-5.0,999999.0,{'e'},
+DHPPDA,Diaminohydroxyphosphoribosylaminopyrimidine deaminase,25dhpp_c + h2o_c + h_c --> 5apru_c + nh4_c,,999999.0,{'c'},BSU23280
+BG_MADG,Beta glucosidase  methyl alpha D glucoside,h2o_e + madg_e --> glc__D_e + meoh_e,,999999.0,{'e'},BSU39260
+BG_MBDG,Beta glucosidase,h2o_e + mbdg_e --> glc__D_e + meoh_e,,999999.0,{'e'},BSU39260
+BILEt4,Bile acid transport in via sodium symport,bilea_e + na1_e --> bilea_c + na1_c,,999999.0,"{'e', 'c'}",BSU19350
+DDPA,3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase,e4p_c + h2o_c + pep_c --> 2dda7p_c + pi_c,,999999.0,{'c'},BSU29750
+EX_pnto__R_e,(R)-Pantothenate exchange,pnto__R_e --> ,,999999.0,{'e'},
+CRNabc,L-carnitine transport via ABC system,atp_c + crn_e + h2o_c --> adp_c + crn_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU33830 and BSU33820 and BSU33810 and BSU33800
+BTDD_RR,R R  butanediol dehydrogenase,btd_RR_c + nad_c <=> actn__R_c + h_c + nadh_c,-999999.0,999999.0,{'c'},BSU06240
+EX_ppa_e,Propionate exchange,ppa_e --> ,,999999.0,{'e'},
+BLACT,Beta lactamase,h2o_c + pencil_c <=> h_c + pencilca_c,-999999.0,999999.0,{'c'},BSU18800 or BSU02090
+CTPS1,CTP synthase  NH3,atp_c + nh4_c + utp_c --> adp_c + ctp_c + 2.0 h_c + pi_c,,999999.0,{'c'},BSU37150
+BTS_1,Biotin synthase,dtbt_c + 2.0 s_c --> btn_c + h2s_c + h_c,,999999.0,{'c'},BSU30200
+CPPPGO,Coproporphyrinogen oxidase (O2 required),cpppg3_c + 2.0 h_c + o2_c --> 2.0 co2_c + 2.0 h2o_c + pppg9_c,,999999.0,{'c'},BSU25500 or BSU09840
+EX_ppi_e,Diphosphate exchange,ppi_e --> ,,999999.0,{'e'},
+CRO4t3,Chromate transport out via proton antiport,cro4_c + h_e --> cro4_e + h_c,,999999.0,"{'e', 'c'}",BSU36120 or BSU36130
+CS,Citrate synthase,accoa_c + h2o_c + oaa_c --> cit_c + coa_c + h_c,,999999.0,{'c'},BSU09440 or BSU29140
+EX_pro__L_e,L-Proline exchange,pro__L_e --> ,,999999.0,{'e'},
+CTPS2,CTP synthase (glutamine),atp_c + gln__L_c + h2o_c + utp_c --> adp_c + ctp_c + glu__L_c + 2.0 h_c + pi_c,,999999.0,{'c'},BSU37150
+CYOR3m,Cytochrome c reductase  menaquinol 7 3 protons,2.0 ficytcc_c + h_c + mql7_c --> 2.0 focytcc_c + 3.0 h_e + mqn7_c,,999999.0,"{'e', 'c'}",BSU22560 and BSU22550 and BSU22540
+BUTKr,Butyrate kinase,atp_c + but_c <=> adp_c + butpi_c,-999999.0,999999.0,{'c'},BSU24070
+BUTSabc,Butanesulfonate transport via ABC system,atp_c + buts_e + h2o_c --> adp_c + buts_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU08840 and BSU08830 and BSU08850
+EX_prolb_e,Proline betaine exchange,prolb_e --> ,,999999.0,{'e'},
+CA2abc1,Calcium efflux  via ABC system,atp_c + ca2_c + h2o_c --> adp_c + ca2_e + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU15650
+CAT,Catalase,2.0 h2o2_c --> 2.0 h2o_c + o2_c,,999999.0,{'c'},BSU08820 or BSU39050 or BSU38630
+CAt4,Calcium transport inout via proton antiporter,ca2_c + h_e <=> ca2_e + h_c,-999999.0,999999.0,"{'e', 'c'}",BSU07920
+CYOO3,Cytochrome c oxidase  He   2,2.0 focytcc_c + 6.0 h_c + 0.5 o2_c --> 2.0 ficytcc_c + h2o_c + 4.0 h_e,,999999.0,"{'e', 'c'}",BSU14890 and BSU14900 and BSU14910 and BSU14920
+CYSTGL,Cystathionine g lyase,cyst__L_c + h2o_c --> 2obut_c + cys__L_c + nh4_c,,999999.0,{'c'},BSU27250
+CYSTL,Cystathionine b-lyase,cyst__L_c + h2o_c --> hcys__L_c + nh4_c + pyr_c,,999999.0,{'c'},BSU11880
+CYSTS,Cystathionine beta synthase,hcys__L_c + ser__L_c --> cyst__L_c + h2o_c,,999999.0,{'c'},BSU27260
+DCYTD,Deoxycytidine deaminase,dcyt_c + h2o_c + h_c --> duri_c + nh4_c,,999999.0,{'c'},BSU25300
+CYTB_B2,Menaquinol oxidase  71 protons,2.0 h_c + mql7_c + 0.5 o2_c --> h2o_c + 2.0 h_e + mqn7_c,,999999.0,"{'e', 'c'}",(BSU30710 and BSU30720) or (BSU38760 and BSU38750)
+CYTB_B3,Menauinol oxidase  72 protons,4.0 h_c + mql7_c + 0.5 o2_c --> h2o_c + 4.0 h_e + mqn7_c,,999999.0,"{'e', 'c'}",BSU38170 and BSU38160 and BSU38150 and BSU38140
+CBL2abc,Cobalamin uptake in via ABC transport,atp_c + cbl2_e + h2o_c --> adp_c + cbl2_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU33160 and BSU33170 and BSU33180
+CD2t4,Cadminum transport out via antiport,cd2_c + h_e + k_e --> cd2_e + h_c + k_c,,999999.0,"{'e', 'c'}",BSU26650
+CBPS,Carbamoyl-phosphate synthase (glutamine-hydrolysing),2.0 atp_c + gln__L_c + h2o_c + hco3_c --> 2.0 adp_c + cbp_c + glu__L_c + 2.0 h_c + pi_c,,999999.0,{'c'},(BSU11230 and BSU11240) or (BSU15510 and BSU15520)
+CYTD,Cytidine deaminase,cytd_c + h2o_c + h_c --> nh4_c + uri_c,,999999.0,{'c'},BSU25300
+EX_pser__D_e,D O Phosphoserine exchange,pser__D_e --> ,,999999.0,{'e'},
+EX_pser__L_e,O-Phospho-L-serine exchange,pser__L_e --> ,,999999.0,{'e'},
+DJENKabc,Djenkolate transporter via ABC system,atp_c + djenk_e + h2o_c --> adp_c + djenk_c + h_c + pi_c,,999999.0,"{'e', 'c'}",
+CYTDK1,ATP:cytidine 5'-phosphotransferase,atp_c + cytd_c --> adp_c + cmp_c + h_c,,999999.0,{'c'},BSU27330
+CD2abc1,Cadmium transport out via ABC system,atp_c + cd2_c + h2o_c --> adp_c + cd2_e + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU13850 or BSU33490
+CDGPT_BS,CDPdiacylglycerolsn glycerol 3 phosphate 3 phosphatidyltransferase,0.01 cdpdag_BS_c + glyc3p_c --> cmp_c + h_c + 0.01 pglyp_BS_c,,999999.0,{'c'},BSU16920
+CDPDSP_BS,CDPdiacylglycerol serine O phosphatidyltransferase,0.01 cdpdag_BS_c + ser__L_c --> cmp_c + h_c + 0.01 ps_BS_c,,999999.0,{'c'},BSU02270
+CDPMEK,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase,4c2me_c + atp_c --> 2p4c2me_c + adp_c + h_c,,999999.0,{'c'},BSU00460
+CHCOAL,6-carboxyhexanoate-CoA ligase,atp_c + coa_c + pime_c --> amp_c + pmcoa_c + ppi_c,,999999.0,{'c'},BSU30240
+CYTDK2,Cytidine kinase (GTP),cytd_c + gtp_c --> cmp_c + gdp_c + h_c,,999999.0,{'c'},BSU27330
+DCYTt2,Deoxycytidine transport in via proton symport,dcyt_e + h_e --> dcyt_c + h_c,,999999.0,"{'e', 'c'}",BSU39410 or BSU39020 or BSU32180
+CHOLD2,Choline dehydrogenase  FAD dependent,chol_c + fad_c --> betald_c + fadh2_c,,999999.0,{'c'},BSU31050
+DTMPt6,DTMP transport inout via proton symport,dtmp_e + h_e <=> dtmp_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+CHORM,Chorismate mutase,chor_c --> pphn_c,,999999.0,{'c'},BSU22690 or BSU27910 or BSU29750
+CHORS,Chorismate synthase,3psme_c --> chor_c + pi_c,,999999.0,{'c'},BSU22710
+CYTK1,Cytidylate kinase (CMP),atp_c + cmp_c <=> adp_c + cdp_c,-999999.0,999999.0,{'c'},BSU22890
+CYTK2,Cytidylate kinase (dCMP),atp_c + dcmp_c <=> adp_c + dcdp_c,-999999.0,999999.0,{'c'},BSU22890
+CYTOM,Cytosine 5 methyltransferase,amet_c + csn_c <=> 5mcsn_c + ahcys_c + h_c,-999999.0,999999.0,{'c'},BSU20250
+CITt10,Citrate transport in via Mg complex,cit_e + h_e + mg2_e --> cit_c + h_c + mg2_c,,999999.0,"{'e', 'c'}",BSU07610
+CITt11,Citrate transport in via Mn complex,cit_e + h_e + mn2_e --> cit_c + h_c + mn2_c,,999999.0,"{'e', 'c'}",BSU07610
+CITt12,Citrate transport in via Ni complex,cit_e + h_e + ni2_e --> cit_c + h_c + ni2_c,,999999.0,"{'e', 'c'}",BSU07610
+D4DGCD,5 dehydro 4 deoxyglucarate dehydratase,5d4dglcr_c + h_c --> 25dop_c + co2_c + h2o_c,,999999.0,{'c'},BSU02460
+Cut1,Copper export via ATPase,atp_c + cu2_c + h2o_c --> adp_c + cu2_e + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU33500 or BSU03950
+DAAOP,D alanyl aminopeptidase,alaala_e + h2o_e --> 2.0 ala__D_e,,999999.0,{'e'},BSU12920
+DAGK_BS,Diacylglycerol kinase,0.01 12dgr_BS_c + atp_c --> 0.01 12dag3p_BS_c + adp_c + h_c,,999999.0,{'c'},BSU25310
+DALAOX,D amino acid oxidase,ala__D_c + h2o_c + o2_c --> h2o2_c + nh4_c + pyr_c,,999999.0,{'c'},BSU11670
+CITt13,Citrate transport in via Co complex,cit_e + cobalt2_e + h_e --> cit_c + cobalt2_c + h_c,,999999.0,"{'e', 'c'}",BSU07610
+CLPNS2_BS,Cardiolipin synthase,0.02 pgly_BS_c --> 0.01 cdlp_BS_c + glyc_c,,999999.0,{'c'},BSU37190 or BSU37240 or BSU36590
+CITt14,Citrate transport in via Ca complex,ca2_e + cit_e + h_e --> ca2_c + cit_c + h_c,,999999.0,"{'e', 'c'}",BSU07610 or BSU39060
+CITt2r,Citrate reversible transport via symport,cit_e + h_e <=> cit_c + h_c,-999999.0,999999.0,"{'e', 'c'}",BSU38770 or BSU26860
+DAPDC,Diaminopimelate decarboxylase,26dap__M_c + h_c --> co2_c + lys__L_c,,999999.0,{'c'},BSU23380
+DAPE,Diaminopimelate epimerase,26dap_LL_c <=> 26dap__M_c,-999999.0,999999.0,{'c'},BSU32170
+ETHAAL,Ethanolamine ammonia-lyase,etha_c --> acald_c + nh4_c,,999999.0,{'c'},
+DB4PS,"3,4-Dihydroxy-2-butanone-4-phosphate synthase",ru5p__D_c --> db4p_c + for_c + h_c,,999999.0,{'c'},BSU23260
+DBTS,Dethiobiotin synthase,atp_c + co2_c + dann_c --> adp_c + dtbt_c + 3.0 h_c + pi_c,,999999.0,{'c'},BSU30210
+FOLt,Folate transport via proton simport,fol_e + h_e <=> fol_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+FORAMD,FORAMD,frmd_c + h2o_c --> for_c + nh4_c,,999999.0,{'c'},
+DCMPDA,DCMP deaminase,dcmp_c + h2o_c + h_c --> dump_c + nh4_c,,999999.0,{'c'},BSU25580
+ETOHt3,Ethanol transport out via proton antiport,etoh_c + h_e --> etoh_e + h_c,,999999.0,"{'e', 'c'}",
+CMPDAi,CMP deaminase,cmp_c + h2o_c + h_c --> nh4_c + ump_c,,999999.0,{'c'},BSU25580
+FRTT,Farnesyltranstransferase,frdp_c + ipdp_c --> ggdp_c + ppi_c,,999999.0,{'c'},
+EX_2ddglcn_e,2-Dehydro-3-deoxy-D-gluconate exchange,2ddglcn_e --> ,,999999.0,{'e'},
+DDGLCNt2r,"2-dehydro-3-deoxy-D-gluconate transport via proton symport, reversible",2ddglcn_e + h_e <=> 2ddglcn_c + h_c,-999999.0,999999.0,"{'e', 'c'}",BSU22090
+DDGLK,2-dehydro-3-deoxygluconokinase,2ddglcn_c + atp_c --> 2ddg6p_c + adp_c + h_c,,999999.0,{'c'},BSU22110
+EX_2hxmp_e,2  Hydroxymethyl phenol exchange,2hxmp_e --> ,,999999.0,{'e'},
+DGK1,Deoxyguanylate kinase (dGMP:ATP),atp_c + dgmp_c <=> adp_c + dgdp_c,-999999.0,999999.0,{'c'},BSU15680
+DGNSK,Deoxyguanosine kinase,atp_c + dgsn_c --> adp_c + dgmp_c + h_c,,999999.0,{'c'},BSU00150
+G1Pt6_2,Glucose 1 phosphate transport via phosphate antiport,g1p_e + 2.0 pi_c --> g1p_c + 2.0 pi_e,,999999.0,"{'e', 'c'}",
+DHAD1,"Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)",23dhmb_c --> 3mob_c + h2o_c,,999999.0,{'c'},BSU21870
+G3POA_BS,Glycerol 3 phosphate O acyltransferase,0.07 fa11coa_c + 0.17 fa12coa_c + 0.01 fa1coa_c + 0.2 fa3coa_c + 0.34 fa4coa_c + 0.05 fa6coa_c + glyc3p_c + 0.1 pmtcoa_c + 0.03 strcoa_c + 0.03 tdcoa_c --> 0.01 1ag3p_BS_c + coa_c,,999999.0,{'c'},
+EX_2pg_e,D Glycerate 2 phosphate exchange,2pg_e --> ,,999999.0,{'e'},
+DHAD2,"Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)",23dhmp_c --> 3mop_c + h2o_c,,999999.0,{'c'},BSU21870
+DHBD,"2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase",23ddhb_c + nad_c <=> 23dhb_c + h_c + nadh_c,-999999.0,999999.0,{'c'},BSU32000
+DHBS,"2,3-dihydroxybenzoate adenylate synthase",23dhb_c + atp_c + h_c --> 23dhba_c + ppi_c,,999999.0,{'c'},BSU31980
+EX_2pglyc_e,2 Phosphoglycolate exchange,2pglyc_e --> ,,999999.0,{'e'},
+DHDPRy,Dihydrodipicolinate reductase (NADPH),23dhdp_c + h_c + nadph_c --> nadp_c + thdp_c,,999999.0,{'c'},BSU22490
+DHDPS,Dihydrodipicolinate synthase,aspsa_c + pyr_c --> 23dhdp_c + 2.0 h2o_c + h_c,,999999.0,{'c'},BSU16770
+G5SADs,L-glutamate 5-semialdehyde dehydratase (spontaneous),glu5sa_c <=> 1pyr5c_c + h2o_c + h_c,-999999.0,999999.0,{'c'},
+G6Pt6_2,Glucose-6-phosphate transport via phosphate antiport,g6p_e + 2.0 pi_c --> g6p_c + 2.0 pi_e,,999999.0,"{'e', 'c'}",
+GALTpts,Galactitol transport via PEP:Pyr PTS,galt_e + pep_c --> galt1p_c + pyr_c,,999999.0,"{'e', 'c'}",
+FOLR2,Folate reductase,fol_c + nadph_c <=> dhf_c + nadp_c,-999999.0,999999.0,{'c'},BSU21810
+DHFR,Dihydrofolate reductase,dhf_c + h_c + nadph_c <=> nadp_c + thf_c,-999999.0,999999.0,{'c'},BSU21810
+DHFS,Dihydrofolate synthase,atp_c + dhpt_c + glu__L_c --> adp_c + dhf_c + h_c + pi_c,,999999.0,{'c'},BSU28080
+DHNAOT7,1 4 dihydroxy 2 naphthoate octaprenyltransferase,dhna_c + hepdp_c + nad_c --> 2dmmq7_c + co2_c + nadh_c + ppi_c,,999999.0,{'c'},BSU38490
+EX_3amba_e,3 aminobutanoic acid exchange,3amba_e --> ,,999999.0,{'e'},
+EX_3amp_e,3'-AMP exchange,3amp_e --> ,,999999.0,{'e'},
+GAM6Pt,D glucosamine 6 phosphate reversible uniport,gam6p_e <=> gam6p_c,-999999.0,999999.0,"{'e', 'c'}",
+EX_3cmp_e,3'-cmp exchange,3cmp_e --> ,,999999.0,{'e'},
+GGTT,Geranylgeranyltranstransferase,ggdp_c + ipdp_c --> pendp_c + ppi_c,,999999.0,{'c'},
+GCALDD,Glycolaldehyde dehydrogenase,gcald_c + h2o_c + nad_c --> glyclt_c + 2.0 h_c + nadh_c,,999999.0,{'c'},BSU38830 or BSU39860 or BSU19310
+EX_3gmp_e,3'-GMP exchange,3gmp_e --> ,,999999.0,{'e'},
+GAPD,Glyceraldehyde-3-phosphate dehydrogenase,g3p_c + nad_c + pi_c --> 13dpg_c + h_c + nadh_c,,999999.0,{'c'},BSU33940
+G1Dx,Glucose 1 dehydrogenase  NAD,glc__D_c + nad_c --> g15lac_c + h_c + nadh_c,,999999.0,{'c'},BSU03930
+GALt2,D galactose transport in via proton symport,gal_e + h_e --> gal_c + h_c,,999999.0,"{'e', 'c'}",BSU33960
+DHNPA_1,Dihydroneopterin aldolase,dhnpt_c --> 2ahhmp_c + gcald_c,,999999.0,{'c'},BSU00780
+DHORTS,Dihydroorotase,dhor__S_c + h2o_c <=> cbasp_c + h_c,-999999.0,999999.0,{'c'},BSU15500
+DHORDi,Dihydoorotic acid dehydrogenase  irreversible,dhor__S_c + o2_c <=> h2o2_c + orot_c,-999999.0,999999.0,{'c'},BSU15530 and BSU15540
+EX_3pg_e,3 Phospho D glycerate exchange,3pg_e --> ,,999999.0,{'e'},
+GK1,Guanylate kinase (GMP:ATP),atp_c + gmp_c <=> adp_c + gdp_c,-999999.0,999999.0,{'c'},BSU15680
+ETHSabc,Ethanesulfonate transport via ABC system,atp_c + eths_e + h2o_c --> adp_c + eths_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU08840 and BSU08830 and BSU08850
+GBBTNabc,Gamma butyrobetaine transport in via ABC system,atp_c + gbbtn_e + h2o_c --> adp_c + gbbtn_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU33830 and BSU33820 and BSU33810 and BSU33800
+GK2,Guanylate kinase  GMPdATP,datp_c + gmp_c <=> dadp_c + gdp_c,-999999.0,999999.0,{'c'},BSU15680
+GLCRAL_1,5 dehydro 4 deoxyglucarate aldolase,5d4dglcr_c --> 2h3opp_c + pyr_c,,999999.0,{'c'},
+GLU_Dt2,D glutamate transport in via proton symport,glu__D_e + h_e --> glu__D_c + h_c,,999999.0,"{'e', 'c'}",
+DINSK,Deoxyinosine kinase,atp_c + din_c --> adp_c + dimp_c,,999999.0,{'c'},BSU00150
+GLXt2,Glyoxylate transport in via proton symport,glx_e + h_e --> glx_c + h_c,,999999.0,"{'e', 'c'}",
+GLYCOGENt,Glycogen transport in,glycogen_e --> glycogen_c,,999999.0,"{'e', 'c'}",
+FE3t,"Ferric iron uptake, plasma membrane",fe3_e --> fe3_c,,999999.0,"{'e', 'c'}",BSU38280 and BSU38270 and BSU38260
+DHQTi,"3-dehydroquinate dehydratase, irreversible",3dhq_c <=> 3dhsk_c + h2o_c,-999999.0,999999.0,{'c'},BSU23080
+FEDCabc,Iron  III  dicitrate transport via ABC system,atp_c + 2.0 cit_e + fe3_e + h2o_c --> adp_c + 2.0 cit_c + fe3_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU08460 and BSU08440 and BSU08450
+GLYt2r,Glycine reversible transport via proton symport,gly_e + h_e <=> gly_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+FERXAabc,Ferroxamine transport via ABC system,atp_c + ferxa_e + h2o_c --> adp_c + ferxa_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU33310 and BSU33290 and BSU33300 and BSU39610
+GMPt6,GMP transport inout via proton symport,gmp_e + h_e <=> gmp_c + h_c,-999999.0,999999.0,"{'e', 'c'}",
+DHQS,3-dehydroquinate synthase,2dda7p_c --> 3dhq_c + pi_c,,999999.0,{'c'},BSU22700
+H2Ot,H2O transport via diffusion,h2o_e <=> h2o_c,-999999.0,999999.0,"{'e', 'c'}",
+FFSD,Beta-fructofuranosidase,h2o_c + suc6p_c --> fru_c + g6p_c,,999999.0,{'c'},BSU38040
+FGLU_1,Formimidoylglutamase,forglu_c + h2o_c --> frmd_c + glu__L_c,,999999.0,{'c'},BSU39380
+FLVR_1,Flavin reductase,h_c + nadph_c + ribflv_c --> nadp_c + ribflvRD_c,,999999.0,{'c'},BSU38110 or BSU03860 or BSU07830
+FMETDF,Formylmethionine deformylase,fmet_c + h2o_c --> for_c + met__L_c,,999999.0,{'c'},BSU15720
+FMNRy,FMN reductase  NADPH dependent,fmn_c + h_c + nadph_c --> fmnRD_c + nadp_c,,999999.0,{'c'},BSU38110
+HCO3E,HCO3 equilibration reaction,co2_c + h2o_c <=> h_c + hco3_c,-999999.0,999999.0,{'c'},
+HEMECS,Heme C synthase,2.0 cys__L_c + pheme_c --> 3.0 h_c + hemeC_c,,999999.0,{'c'},
+HEMEDS,Heme D synthase,2.0 h2o_c + pheme_c --> 5.0 h_c + hemeD_c,,999999.0,{'c'},
+FMETTRS_1,Methionyl tRNA formyltransferase,10fthf_c + mettrna_c --> fmettrna_c + thf_c,,999999.0,{'c'},BSU15730
+FMNAT,FMN adenylyltransferase,atp_c + fmn_c + h_c <=> fad_c + ppi_c,-999999.0,999999.0,{'c'},BSU16670
+FORt2,Formate transport in via proton symport,for_e + h_e <=> for_c + h_c,-999999.0,999999.0,"{'e', 'c'}",BSU27200
+GSNt2,Guanosine transport in via proton symport,gsn_e + h_e <=> gsn_c + h_c,-999999.0,999999.0,"{'e', 'c'}",BSU38710
+DIPEPabc1,Dipeptide transport via ABC system  ala asp,ala_L_asp__L_e + atp_c + h2o_c --> adp_c + ala_L_asp__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU12930 and BSU12940 and BSU12950 and BSU12960
+GLYBt2r,"Glycine betaine transport via proton symport, reversible",glyb_e + h_e <=> glyb_c + h_c,-999999.0,999999.0,"{'e', 'c'}",BSU30070
+GLYO1,Glycine oxidase,gly_c + h2o_c + o2_c --> glx_c + h2o2_c + nh4_c,,999999.0,{'c'},BSU11670
+FTHFD,Formyltetrahydrofolate deformylase,10fthf_c + h2o_c --> for_c + h_c + thf_c,,999999.0,{'c'},BSU13110
+HEX7,Hexokinase (D-fructose:ATP),atp_c + fru_c --> adp_c + f6p_c + h_c,,999999.0,{'c'},BSU06170 or BSU05860
+FUM,Fumarase,fum_c + h2o_c <=> mal__L_c,-999999.0,999999.0,{'c'},BSU33040
+DKI,5 Dehydro 4 deoxy D glucuronate ketol isomerase,5dh4dglcn_c <=> 46dh25dohxn_c,-999999.0,999999.0,{'c'},BSU22130
+FUMt2r,Fumarate reversible transport via symport,fum_e + h_e <=> fum_c + h_c,-999999.0,999999.0,"{'e', 'c'}",BSU07570 or BSU04470
+GTPCII,GTP cyclohydrolase II,gtp_c + 3.0 h2o_c --> 25dhpp_c + for_c + 2.0 h_c + ppi_c,,999999.0,{'c'},BSU23260
+G1PACT,Glucosamine-1-phosphate N-acetyltransferase,accoa_c + gam1p_c <=> acgam1p_c + coa_c + h_c,-999999.0,999999.0,{'c'},BSU00500
+GRTT,Geranyltranstransferase,grdp_c + ipdp_c --> frdp_c + ppi_c,,999999.0,{'c'},BSU24280
+G1PPDM,Glucose 1 phosphate phosphodismutase,2.0 g1p_c --> g16bp_c + glc__D_c,,999999.0,{'c'},BSU34550
+DKII,2 dehydro 3 deoxy D gluconate 5 dehydrogenase,46dh25dohxn_c + h_c + nadh_c --> 2ddglcn_c + nad_c,,999999.0,{'c'},BSU22140
+G3PCT,Glycerol-3-phosphate cytidylyltransferase,ctp_c + glyc3p_c + h_c --> cdpglyc_c + ppi_c,,999999.0,{'c'},BSU35740
+GLCRt2r,"D-glucarate transport via proton symport, reversible",glcr_e + h_e --> glcr_c + h_c,,999999.0,"{'e', 'c'}",BSU02480
+GLCURt2r,"D-glucuronate transport via proton symport, reversible",glcur_e + h_e --> glcur_c + h_c,,999999.0,"{'e', 'c'}",BSU12360
+G1SAT,Glutamate-1-semialdehyde aminotransferase,glu1sa_c --> 5aop_c,,999999.0,{'c'},BSU28120 or BSU08710
+DKMD2K,1 2 dihydroxy 3 keto 5 methylthiopentene dioxygenase  2 keto 4 methylthiobutyrate,12d3k5m_c + o2_c --> 2kmb_c + for_c,,999999.0,{'c'},BSU13620
+G3PD1ir,Glycerol 3 phosphate dehydrogenase  NAD,dhap_c + h_c + nadh_c <=> glyc3p_c + nad_c,-999999.0,999999.0,{'c'},BSU22830
+G3PD4,Glycerol 3 phosphate dehydrogenase  menaquinone 7,glyc3p_c + mqn7_c --> dhap_c + mql7_c,,999999.0,{'c'},BSU09300
+GLCP,Glycogen phosphorylase,glycogen_c + pi_c --> g1p_c,,999999.0,{'c'},BSU30940
+GLCRD_1,Glucarate dehydratase,glcr_c --> 5d4dglcr_c + h2o_c,,999999.0,{'c'},BSU02490
+GLCS1,Glycogen synthase (ADPGlc),adpglc_c --> adp_c + glycogen_c + h_c,,999999.0,{'c'},BSU30950
+G5SD,Glutamate-5-semialdehyde dehydrogenase,glu5p_c + h_c + nadph_c --> glu5sa_c + nadp_c + pi_c,,999999.0,{'c'},BSU13130
+G6PDH2r,Glucose 6-phosphate dehydrogenase,g6p_c + nadp_c --> 6pgl_c + h_c + nadph_c,,999999.0,{'c'},BSU23850
+G6PDA,Glucosamine-6-phosphate deaminase,gam6p_c + h2o_c --> f6p_c + nh4_c,,999999.0,{'c'},BSU02360 or BSU35020
+G6PI,Glucose 6 phosphate isomerase,g6p_c <=> g6p_B_c,-999999.0,999999.0,{'c'},BSU31350
+GLCt2,D-glucose transport in via proton symport,glc__D_e + h_e --> glc__D_c + h_c,,999999.0,"{'e', 'c'}",BSU10520
+GALCTD_1,Galactarate dehydratase,galctr__D_c --> 5d4dglcr_c + h2o_c,,999999.0,{'c'},BSU02510
+GLNS,Glutamine synthetase,atp_c + glu__L_c + nh4_c --> adp_c + gln__L_c + h_c + pi_c,,999999.0,{'c'},BSU17460
+GALCTRt2,Galactarate transport in via proton symport,galctr__D_e + h_e --> galctr__D_c + h_c,,999999.0,"{'e', 'c'}",BSU02480
+GLGC,Glucose-1-phosphate adenylyltransferase,atp_c + g1p_c + h_c <=> adpglc_c + ppi_c,-999999.0,999999.0,{'c'},BSU30970 or BSU30960
+DKMD3M,1 2 dihydroxy 3 keto 5 methylthiopentene dioxygenase  3 methylthiopropionate,12d3k5m_c + o2_c --> 3mtp_c + co_c + for_c,,999999.0,{'c'},BSU13620
+GLNabc,L-glutamine transport via ABC system,atp_c + gln__L_e + h2o_c --> adp_c + gln__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",(BSU03590 and BSU03600 and BSU03610) or (BSU27440 and BSU27450 and BSU27460 and BSU27430)
+GLTPD,Galactitol-1-phosphate dehydrogenase,galt1p_c + nad_c <=> h_c + nadh_c + tag6p__D_c,-999999.0,999999.0,{'c'},BSU12330
+GLUPRT,Glutamine phosphoribosyldiphosphate amidotransferase,gln__L_c + h2o_c + prpp_c --> glu__L_c + ppi_c + pram_c,,999999.0,{'c'},BSU06490
+GALKr,Galactokinase,atp_c + gal_c --> adp_c + gal1p_c + h_c,,999999.0,{'c'},BSU38200
+GALS1,A galactosidase  galactomannan,galman_c + h2o_c --> gal_c,,999999.0,{'c'},BSU30300
+GALS2,A galactosidase  galactose oligosaccharides,galogs_c + h2o_c --> gal_c,,999999.0,{'c'},BSU30300
+GALS3,A-galactosidase (melibiose),h2o_c + melib_c --> gal_c + glc__D_c,,999999.0,{'c'},BSU30300
+GALS4,A galactosidase  stachyose,h2o_c + stchs_c --> gal_c + raffin_c,,999999.0,{'c'},BSU30300
+GLU5K,Glutamate 5-kinase,atp_c + glu__L_c --> adp_c + glu5p_c,,999999.0,{'c'},BSU13120 or BSU18470
+GALT,Galactose 1 phosphate uridylyltransferase,gal1p_c + h_c + utp_c <=> ppi_c + udpgal_c,-999999.0,999999.0,{'c'},BSU38190
+GLUDxi,Glutamate dehydrogenase  NAD,glu__L_c + h2o_c + nad_c --> akg_c + h_c + nadh_c + nh4_c,,999999.0,{'c'},BSU22960 or BSU37790
+GALUi,UTP-glucose-1-phosphate uridylyltransferase (irreversible),g1p_c + h_c + utp_c <=> ppi_c + udpg_c,-999999.0,999999.0,{'c'},BSU35670
+DM1PE,2 3 diketo 5 methylthiopentyl 1 phosphate enolase,dkmpp_c <=> 2h3k5m_c + h_c,-999999.0,999999.0,{'c'},BSU13590
+GALURt2r,"D-galacturonate transport via proton symport, reversible",galur_e + h_e --> galur_c + h_c,,999999.0,"{'e', 'c'}",BSU12360
+GLUN,Glutaminase,gln__L_c + h2o_c --> glu__L_c + nh4_c,,999999.0,{'c'},BSU02430 or BSU14830
+GLUTRR,Glutamyl-tRNA reductase,glutrna_c + h_c + nadph_c --> glu1sa_c + nadp_c + trnaglu_c,,999999.0,{'c'},BSU28170
+GAMpts,D-glucosamine transport via PEP:Pyr PTS,gam_e + pep_c --> gam6p_c + pyr_c,,999999.0,"{'e', 'c'}",BSU02350 and BSU13900 and BSU13910
+DMATT,Dimethylallyltranstransferase,dmpp_c + ipdp_c --> grdp_c + ppi_c,,999999.0,{'c'},BSU24280
+GAPDi_nadp,Glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating),13dpg_c + h_c + nadph_c --> g3p_c + nadp_c + pi_c,,999999.0,{'c'},BSU29020
+GLUR,Glutamate racemase,glu__D_c <=> glu__L_c,-999999.0,999999.0,{'c'},BSU26810 or BSU28390
+GLUSy,Glutamate synthase (NADPH),akg_c + gln__L_c + h_c + nadph_c --> 2.0 glu__L_c + nadp_c,,999999.0,{'c'},BSU18450 and BSU18440
+GLUTRS,Glutamyl-tRNA synthetase,atp_c + glu__L_c + trnaglu_c --> amp_c + glutrna_c + ppi_c,,999999.0,{'c'},BSU00920
+GLUt4,Na+/glutamate symport,glu__L_e + na1_e --> glu__L_c + na1_c,,999999.0,"{'e', 'c'}",BSU09130 or BSU10220
+GLUt2r,L glutamate transport via proton symport  reversible,glu__L_e + h_e --> glu__L_c + h_c,,999999.0,"{'e', 'c'}",BSU10220 or BSU02340
+GLXCBL,Glyoxalate carboligase,2.0 glx_c + h_c --> 2h3opp_c + co2_c,,999999.0,{'c'},BSU04340
+GARFT,Phosphoribosylglycinamide formyltransferase,10fthf_c + gar_c --> fgam_c + h_c + thf_c,,999999.0,{'c'},BSU06510
+GART,GAR transformylase-T,atp_c + for_c + gar_c --> adp_c + fgam_c + h_c + pi_c,,999999.0,{'c'},BSU02230
+GBEZY,1 4 alpha glucan branching enzyme,14glun_c --> glycogen_c,,999999.0,{'c'},BSU30980
+GF6PTA,Glutamine-fructose-6-phosphate transaminase,f6p_c + gln__L_c --> gam6p_c + glu__L_c,,999999.0,{'c'},BSU01780
+GGTAe2,Gamma glutamyltransferase,gthrd_e + h2o_e --> cgly_e + glu__L_e,,999999.0,{'e'},BSU18410
+GLY3Pt2,Glycerol 3 phosphate transport in via proton symport,glyc3p_e + h_e --> glyc3p_c + h_c,,999999.0,"{'e', 'c'}",BSU02140
+DMPPS,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (dmpp),h2mb4p_c + h_c + nadh_c --> dmpp_c + h2o_c + nad_c,,999999.0,{'c'},BSU25160
+GLYAT,Glycine C-acetyltransferase,accoa_c + gly_c <=> 2aobut_c + coa_c,-999999.0,999999.0,{'c'},BSU17000
+GLYCK,Glycerate kinase,atp_c + glyc__R_c --> 3pg_c + adp_c + h_c,,999999.0,{'c'},BSU40040
+GHMT2r,"Glycine hydroxymethyltransferase, reversible",ser__L_c + thf_c <=> gly_c + h2o_c + mlthf_c,-999999.0,999999.0,{'c'},BSU36900
+GLCNt2ir,D gluconate transport via proton symport,glcn__D_e + h_e --> glcn__D_c + h_c,,999999.0,"{'e', 'c'}",BSU40070 or BSU19520
+DPCOAK,Dephospho-CoA kinase,atp_c + dpcoa_c --> adp_c + coa_c + h_c,,999999.0,{'c'},BSU29060
+GLYCTO1,Glycolate oxidase,glyclt_c + o2_c --> glx_c + h2o2_c,,999999.0,{'c'},BSU28680
+HIBHr,3 hydroxyisobutyryl CoA hydrolase,h2o_c + hibcoa_c --> 3hmp_c + coa_c + 2.0 h_c,,999999.0,{'c'},
+GLYCLTt2r,"Glycolate transport via proton symport, reversible",glyclt_e + h_e <=> glyclt_c + h_c,-999999.0,999999.0,"{'e', 'c'}",BSU03060 or BSU34190
+HQNt6,Hydroquinone transport inout via proton symport,h_e + hqn_e <=> h_c + hqn_c,-999999.0,999999.0,"{'e', 'c'}",
+DPR,2-dehydropantoate 2-reductase,2dhp_c + h_c + nadph_c --> nadp_c + pant__R_c,,999999.0,{'c'},BSU15110
+ISOMS,Isomaltulose synthase,sucr_c <=> pala_c,-999999.0,999999.0,{'c'},
+GLYCt,Glycerol transport via channel,glyc_c <=> glyc_e,-999999.0,999999.0,"{'e', 'c'}",BSU09280
+GLYK,Glycerol kinase,atp_c + glyc_c --> adp_c + glyc3p_c + h_c,,999999.0,{'c'},BSU09290
+DRBK,Deoxyribokinase,atp_c + drib_c <=> 2dr5p_c + adp_c + h_c,-999999.0,999999.0,{'c'},BSU35920
+GMPR,GMP reductase,gmp_c + 2.0 h_c + nadph_c --> imp_c + nadp_c + nh4_c,,999999.0,{'c'},BSU32130
+GMPS2,GMP synthase,atp_c + gln__L_c + h2o_c + xmp_c --> amp_c + glu__L_c + gmp_c + 2.0 h_c + ppi_c,,999999.0,{'c'},BSU06360
+GNKr,Gluconokinase,atp_c + glcn__D_c <=> 6pgc_c + adp_c + h_c,-999999.0,999999.0,{'c'},BSU40060
+GPDDA4,Glycerophosphodiester phosphodiesterase (Glycerophosphoglycerol),g3pg_c + h2o_c --> glyc3p_c + glyc_c + h_c,,999999.0,{'c'},BSU02130
+GPDDA1,Glycerophosphodiester phosphodiesterase (Glycerophosphocholine),g3pc_c + h2o_c --> chol_c + glyc3p_c + h_c,,999999.0,{'c'},BSU02130
+IMPC,IMP cyclohydrolase,h2o_c + imp_c <-- fprica_c,-999999.0,,{'c'},BSU06520
+HEXSabc,Hexanesulfonate transport via ABC system,atp_c + h2o_c + hexs_e --> adp_c + h_c + hexs_c + pi_c,,999999.0,"{'e', 'c'}",BSU08840 and BSU08830 and BSU08850
+ICITt10,Isocitrate transport in via Mg complex,h_e + icit_e + mg2_e --> h_c + icit_c + mg2_c,,999999.0,"{'e', 'c'}",BSU07610
+ICITt2,Isocitrate transport inout via proton symport,h_e + icit_e <=> h_c + icit_c,-999999.0,999999.0,"{'e', 'c'}",BSU07610
+DRIBabc,Deoxyribose transport via ABC system,atp_c + drib_e + h2o_c --> adp_c + drib_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU35940 and BSU35960 and BSU35950 and BSU35930
+DRPA,Deoxyribose-phosphate aldolase,2dr5p_c <=> acald_c + g3p_c,-999999.0,999999.0,{'c'},BSU39420
+IPDPS,1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp),h2mb4p_c + h_c + nadh_c --> h2o_c + ipdp_c + nad_c,,999999.0,{'c'},BSU25160
+IPDDI,Isopentenyl-diphosphate D-isomerase,ipdp_c <=> dmpp_c,-999999.0,999999.0,{'c'},BSU22870
+GTHPe,Glutathione peroxidase,2.0 gthrd_e + h2o2_e <=> gthox_e + 2.0 h2o_e,-999999.0,999999.0,{'e'},BSU21900
+RAFH,Raffinose hydrolyzing enzyme,h2o_c + raffin_c --> fru_c + melib_c,,999999.0,{'c'},BSU38040
+DTMPK,DTMP kinase,atp_c + dtmp_c <=> adp_c + dtdp_c,-999999.0,999999.0,{'c'},BSU00280
+HXPRT,Hypoxanthine phosphoribosyltransferase (Hypoxanthine),hxan_c + prpp_c <=> imp_c + ppi_c,-999999.0,999999.0,{'c'},BSU00680
+HETZK,Hydroxyethylthiazole kinase,4mhetz_c + atp_c --> 4mpetz_c + adp_c + h_c,,999999.0,{'c'},BSU38300
+GTPCI,GTP cyclohydrolase I,gtp_c + h2o_c --> ahdt_c + for_c + h_c,,999999.0,{'c'},BSU22780
+GTPDPK,GTP diphosphokinase,atp_c + gtp_c --> amp_c + gdptp_c + h_c,,999999.0,{'c'},BSU27600
+DURIK1,Deoxyuridine kinase (ATP:Deoxyuridine),atp_c + duri_c --> adp_c + dump_c + h_c,,999999.0,{'c'},BSU37060
+GUAD,Guanine deaminase,gua_c + h2o_c + h_c --> nh4_c + xan_c,,999999.0,{'c'},BSU13170
+GUAPRT,Guanine phosphoribosyltransferase,gua_c + prpp_c <=> gmp_c + ppi_c,-999999.0,999999.0,{'c'},BSU00680
+HXANt2r,Hypoxanthine reversible transport via proton symport,h_e + hxan_e --> h_c + hxan_c,,999999.0,"{'e', 'c'}",BSU06370 or BSU29990
+HEMEOS_1,Heme O synthase,frdp_c + h2o_c + pheme_c --> h_c + hemeO_c + ppi_c,,999999.0,{'c'},BSU14880 or BSU12080
+GUI1,Glucuronate isomerase (D-glucuronate),glcur_c <=> fruur_c,-999999.0,999999.0,{'c'},BSU12300
+DURIPP,Deoxyuridine phosphorylase,duri_c + pi_c <=> 2dr1p_c + ura_c,-999999.0,999999.0,{'c'},BSU39400
+GUAt2r,Guanine reversible transport via proton symport,gua_e + h_e --> gua_c + h_c,,999999.0,"{'e', 'c'}",BSU06370 or BSU29990
+HEX1,Hexokinase (D-glucose:ATP),atp_c + glc__D_c --> adp_c + g6p_c + h_c,,999999.0,{'c'},BSU24850
+HGt,Mercury transport,hg2_e <=> hg2_c,-999999.0,999999.0,"{'e', 'c'}",BSU33510
+GUI2,Glucuronate isomerase (D-galacturonate),galur_c <=> tagur_c,-999999.0,999999.0,{'c'},BSU12300
+DUTPDP,DUTP diphosphatase,dutp_c + h2o_c --> dump_c + h_c + ppi_c,,999999.0,{'c'},BSU17660 or BSU20020
+HACD2,3-hydroxyacyl-CoA dehydrogenase (3-oxohexanoyl-CoA),3ohcoa_c + h_c + nadh_c <=> 3hhcoa_c + nad_c,-999999.0,999999.0,{'c'},BSU32840
+HACD1_1,3 hydroxyacyl CoA dehydrogenase  acetoacetyl CoA,aacoa_c + h_c + nadh_c <=> 3hbycoa_c + nad_c,-999999.0,999999.0,{'c'},BSU32840 or BSU24160
+HEXTT,Trans-hexaprenyltranstransferase,hexdp_c + ipdp_c --> hepdp_c + ppi_c,,999999.0,{'c'},BSU22760 and BSU22740
+HIBD,3 hydroxyisobutyrate dehydrogenase,3hmp_c + nad_c --> 2mop_c + h_c + nadh_c,,999999.0,{'c'},BSU07990
+HEMEAS,Heme A synthase,h2o_c + hemeO_c --> 4.0 h_c + hemeA_c,,999999.0,{'c'},BSU14870
+DXPRIi,1-deoxy-D-xylulose reductoisomerase,dxyl5p_c + h_c + nadph_c --> 2me4p_c + nadp_c,,999999.0,{'c'},BSU16550
+HISDr,Histidase r,his__L_c <=> nh4_c + urcan_c,-999999.0,999999.0,{'c'},BSU39350
+HISTD,Histidinol dehydrogenase,h2o_c + histd_c + 2.0 nad_c --> 3.0 h_c + his__L_c + 2.0 nadh_c,,999999.0,{'c'},BSU34910
+LAAL17,L amino acid ligase  Ala Ile,ala__L_c + atp_c + ile__L_c --> adp_c + ala_L_ile__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+DXPS,1-deoxy-D-xylulose 5-phosphate synthase,g3p_c + h_c + pyr_c --> co2_c + dxyl5p_c,,999999.0,{'c'},BSU24270
+LAAL18,L amino acid ligase  Ser Ile,atp_c + ile__L_c + ser__L_c --> adp_c + h_c + pi_c + ser_L_ile__L_c,,999999.0,{'c'},BSU37710
+LAAL19,L amino acid ligase  Gly Met,atp_c + gly_c + met__L_c --> adp_c + gly_met__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+HISTP,Histidinol-phosphatase,h2o_c + hisp_c --> histd_c + pi_c,,999999.0,{'c'},BSU29620
+HKM1PP,2 hydroxy 3 keto 5 methylthiopentenyl 1 phosphate phophatase,2h3k5m_c + h2o_c --> 12d3k5m_c + h_c + pi_c,,999999.0,{'c'},BSU13600
+LAAL2,L amino acid ligase  L alanylglycine,ala__L_c + atp_c + gly_c --> L_alagly_c + adp_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+Kt2r,Potassium reversible transport  via proton symport,h_e + k_e --> h_c + k_c,,999999.0,"{'e', 'c'}",(BSU31090 and BSU31100) or (BSU14510 and BSU13500) or BSU26640
+LAAL20,L amino acid ligase  Ala Met,ala__L_c + atp_c + met__L_c --> adp_c + ala_L_met__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+LAAL21,L amino acid ligase  Ser Met,atp_c + met__L_c + ser__L_c --> adp_c + h_c + pi_c + ser_L_met__L_c,,999999.0,{'c'},BSU37710
+LAAL22,L amino acid ligase  Thr Met,atp_c + met__L_c + thr__L_c --> adp_c + h_c + pi_c + thr_L_met__L_c,,999999.0,{'c'},BSU37710
+HISt2r,L histidine reversible transport via proton symport,h_e + his__L_e --> h_c + his__L_c,,999999.0,"{'e', 'c'}",BSU39390 or BSU02400
+HMBS,Hydroxymethylbilane synthase,h2o_c + 4.0 ppbng_c --> hmbil_c + 4.0 nh4_c,,999999.0,{'c'},BSU28150
+HMGCOAS,Hydroxymethylglutaryl CoA synthase,coa_c + h_c + hmgcoa_c <-- aacoa_c + accoa_c + h2o_c,-999999.0,,{'c'},BSU17150
+LAAL23,L amino acid ligase  met met,atp_c + 2.0 met__L_c --> adp_c + h_c + met_L_met__L_c + pi_c,,999999.0,{'c'},BSU37710
+ECOAH1_1,3 hydroxyacyl CoA dehydratase  3 hydroxybutanoyl CoA,3hbycoa_c <=> b2coa_c + h2o_c,-999999.0,999999.0,{'c'},BSU18220 or BSU28540
+LAAL24,L amino acid ligase  gly phe,atp_c + gly_c + phe__L_c --> adp_c + gly_phe__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+Kt3r,Potassium transport out via proton antiport,h_e + k_c --> h_c + k_e,,999999.0,"{'e', 'c'}",BSU31610 or BSU31660 or BSU31600 or BSU31620 or BSU31630 or BSU31650
+HMGL,Hydroxymethylglutaryl-CoA lyase,hmgcoa_c --> acac_c + accoa_c,,999999.0,{'c'},BSU18230
+HOXPRx,2 hydroxy 3 oxopropionate reductase  NAD,glyc__R_c + nad_c <=> 2h3opp_c + h_c + nadh_c,-999999.0,999999.0,{'c'},BSU13960
+HMPK1,Hydroxymethylpyrimidine kinase (ATP),4ahmmp_c + atp_c --> 4ampm_c + adp_c + h_c,,999999.0,{'c'},BSU11710 or BSU38020
+ECOAH2,3-hydroxyacyl-CoA dehydratase (3-hydroxyhexanoyl-CoA),3hhcoa_c <=> h2o_c + hx2coa_c,-999999.0,999999.0,{'c'},BSU28540 or BSU18220
+HP5CD_1,3 hydroxy 1 pyrroline 5 carboxylate dehydrogenase,1p3h5c_c + 2.0 h2o_c + nad_c --> 4hglu_c + h_c + nadh_c,,999999.0,{'c'},BSU37780
+Kt1,Potassium transport via uniport (facilitated diffusion),k_e <=> k_c,-999999.0,999999.0,"{'e', 'c'}",BSU31322
+HPPK,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase,2ahhmp_c + atp_c --> 2ahhmd_c + amp_c + h_c,,999999.0,{'c'},BSU00790
+LAAL25,L amino acid ligase  Ala phe,ala__L_c + atp_c + phe__L_c --> adp_c + ala_L_phe__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+ECOAH2c,Enoyl CoA hydratase  bacterial,2mp2coa_c + h2o_c + h_c <=> hibcoa_c,-999999.0,999999.0,{'c'},BSU18220 or BSU28540
+LAAF,Alpha N arabinofuranosidase,Larab_e + 3.0 h2o_e --> 3.0 arab__L_e,,999999.0,{'e'},BSU28720 or BSU28510
+LAAL1,L amino acid ligase  L glycine L glycine,atp_c + 2.0 gly_c --> adp_c + glygly_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+HSDy,Homoserine dehydrogenase (NADPH),hom__L_c + nadp_c <=> aspsa_c + h_c + nadph_c,-999999.0,999999.0,{'c'},BSU32260
+HSK,Homoserine kinase,atp_c + hom__L_c --> adp_c + h_c + phom_c,,999999.0,{'c'},BSU32240
+HSST,Homoserine O-succinyltransferase,hom__L_c + succoa_c <=> coa_c + suchms_c,-999999.0,999999.0,{'c'},BSU21910
+LAAL10,L amino acid ligase  Thr Thr,atp_c + 2.0 thr__L_c --> adp_c + h_c + pi_c + thr_L_thr__L_c,,999999.0,{'c'},BSU37710
+LAAL11,L amino acid ligase  Ala Val,ala__L_c + atp_c + val__L_c --> adp_c + ala_L_val__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+HXAD,Hexosaminidase,chitob_c + h2o_c --> 2.0 acgam_c,,999999.0,{'c'},BSU35780
+ECOAH3,3-hydroxyacyl-CoA dehydratase (3-hydroxyoctanoyl-CoA),3hocoa_c <=> h2o_c + oc2coa_c,-999999.0,999999.0,{'c'},BSU18220 or BSU28540
+HSTPTr,Histidinol phosphate transaminase,glu__L_c + imacp_c <=> akg_c + h_c + hisp_c,-999999.0,999999.0,{'c'},BSU34890 or BSU22620
+LAAL12,L amino acid ligase  Ser Val,atp_c + ser__L_c + val__L_c --> adp_c + h_c + pi_c + ser_L_val__L_c,,999999.0,{'c'},BSU37710
+LAAL13,L amino acid ligase  Gly Leu,atp_c + gly_c + leu__L_c --> adp_c + gly_leu__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+ECOAH4,3-hydroxyacyl-CoA dehydratase (3-hydroxydecanoyl-CoA),3hdcoa_c <=> dc2coa_c + h2o_c,-999999.0,999999.0,{'c'},BSU18220 or BSU28540
+LAAL14,L amino acid ligase  ser leu,atp_c + leu__L_c + ser__L_c --> adp_c + h_c + pi_c + ser_L_leu__L_c,,999999.0,{'c'},BSU37710
+LAAL15,L amino acid ligase  Ala Leu,ala__L_c + atp_c + leu__L_c --> adp_c + ala_L_leu__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+LAAL16,L amino acid ligase  Thr Leu,atp_c + leu__L_c + thr__L_c --> adp_c + h_c + pi_c + thr_L_leu__L_c,,999999.0,{'c'},BSU37710
+LAAL26,L amino acid  ser phe,atp_c + phe__L_c + ser__L_c --> adp_c + h_c + pi_c + ser_L_phe__L_c,,999999.0,{'c'},BSU37710
+LAAL27,L amino acid ligase  Thr Phe,atp_c + phe__L_c + thr__L_c --> adp_c + h_c + pi_c + thr_L_phe__L_c,,999999.0,{'c'},BSU37710
+ICDHyr,Isocitrate dehydrogenase (NADP),icit_c + nadp_c <=> akg_c + co2_c + nadph_c,-999999.0,999999.0,{'c'},BSU29130
+ICHORT,Isochorismatase,h2o_c + ichor_c --> 23ddhb_c + pyr_c,,999999.0,{'c'},BSU31970
+IG3PS_1,Imidazole glycerol 3 phosphate synthase,gln__L_c + prlp_c --> aicar_c + eig3p_c + glu__L_c + 2.0 h_c,,999999.0,{'c'},BSU34870
+IGPDH_1,Imidazoleglycerol phosphate dehydratase,eig3p_c + h_c --> h2o_c + imacp_c,,999999.0,{'c'},BSU34900
+IGPS,Indole-3-glycerol-phosphate synthase,2cpr5p_c + h_c --> 3ig3p_c + co2_c + h2o_c,,999999.0,{'c'},BSU22660
+ILEDHr,Isoleucine dehydrogenase,h2o_c + ile__L_c + nad_c <=> 2o3mpt_c + h_c + nadh_c + nh4_c,-999999.0,999999.0,{'c'},BSU24080
+IMPD,IMP dehydrogenase,h2o_c + imp_c + nad_c --> h_c + nadh_c + xmp_c,,999999.0,{'c'},BSU00090
+ILETA,Isoleucine transaminase,akg_c + ile__L_c <=> 3mop_c + glu__L_c,-999999.0,999999.0,{'c'},BSU02390 or BSU38550
+ILEt2r,L isoleucine reversible transport via proton symport,h_e + ile__L_e --> h_c + ile__L_c,,999999.0,"{'e', 'c'}",BSU26690 or (BSU26710 and BSU26700) or BSU29600
+LAAL28,L amino acid ligase  met phe,atp_c + met__L_c + phe__L_c --> adp_c + h_c + met_L_phe__L_c + pi_c,,999999.0,{'c'},BSU37710
+LAAL29,L amino acid ligase  gly tyr,atp_c + gly_c + tyr__L_c --> adp_c + gly_tyr__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+ECOAH5_1,3 hydroxyacyl CoA dehydratase  3 hydroxydodecanoyl CoA,3hddcoa_c <=> h2o_c + trans_dd2coa_c,-999999.0,999999.0,{'c'},BSU28540 or BSU18220
+LAAL3,L amino acid ligase  L serylglycine,atp_c + gly_c + ser__L_c --> L_sergly_c + adp_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+LAAL30,L amino acid  Ala Tyr,ala__L_c + atp_c + tyr__L_c --> adp_c + ala_L_tyr__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+INS2D,Inositol 2-dehydrogenase,inost_c + nad_c --> 2ins_c + h_c + nadh_c,,999999.0,{'c'},BSU39700
+ECOAH6,3-hydroxyacyl-CoA dehydratase (3-hydroxytetradecanoyl-CoA),3htdcoa_c <=> h2o_c + td2coa_c,-999999.0,999999.0,{'c'},BSU18220 or BSU28540
+INSTt2,Inositol transport in via proton symport,h_e + inost_e --> h_c + inost_c,,999999.0,"{'e', 'c'}",BSU06230 or BSU39710
+IPDPUPT,Di trans poly cis Decaprenyl diphosphateisopentenyl diphosphate undecaprenylcistransferase,7.0 ipdp_c + tcggrpp_c --> dtpcudcpp_c + 7.0 ppi_c,,999999.0,{'c'},BSU16530
+LANTHabc,Lanthionine transport via ABC system,atp_c + h2o_c + lanth_e --> adp_c + h_c + lanth_c + pi_c,,999999.0,"{'e', 'c'}",
+LIPO1S24_BS,Lipoteichoic acid synthesis  n24   linked  glucose substituted,2400.0 cdpglyc_c + d12dg_BS_c + 2400.0 udpg_c --> 2400.0 cmp_c + 4800.0 h_c + lipo1_24_BS_c + 2400.0 udp_c,,999999.0,{'c'},
+IPMD,3-isopropylmalate dehydrogenase,3c2hmp_c + nad_c --> 3c4mop_c + h_c + nadh_c,,999999.0,{'c'},BSU28270
+ECOAH7,3-hydroxyacyl-CoA dehydratase (3-hydroxyhexadecanoyl-CoA),3hhdcoa_c <=> h2o_c + hdd2coa_c,-999999.0,999999.0,{'c'},BSU18220 or BSU28540
+IPPS,2-isopropylmalate synthase,3mob_c + accoa_c + h2o_c --> 3c3hmp_c + coa_c + h_c,,999999.0,{'c'},BSU28280
+IZPN_1,Imidazolonepropionase,4izp_c + h2o_c --> forglu_c,,999999.0,{'c'},BSU39370
+LIPO2S24_BS,Lipoteichoic acid synthesis  n24   linked  N acetylglucosamine substituted,2400.0 cdpglyc_c + d12dg_BS_c + 2400.0 uacgam_c --> 2400.0 cmp_c + 4800.0 h_c + lipo2_24_BS_c + 2400.0 udp_c,,999999.0,{'c'},
+LIPO4S24_BS,Lipoteichoic acid synthesis  n24   linked  unsubstituted,2400.0 cdpglyc_c + d12dg_BS_c --> 2400.0 cmp_c + 2400.0 h_c + lipo4_24_BS_c,,999999.0,{'c'},
+LIPTabc,Lipoic acid transport via ABC system,atp_c + h2o_c + lipt_e --> adp_c + h_c + lipt_c + pi_c,,999999.0,"{'e', 'c'}",
+IPPMIa,3-isopropylmalate dehydratase,3c2hmp_c <=> 2ippm_c + h2o_c,-999999.0,999999.0,{'c'},BSU28260 and BSU28250
+IPPMIb,2-isopropylmalate hydratase,2ippm_c + h2o_c <=> 3c3hmp_c,-999999.0,999999.0,{'c'},BSU28260 and BSU28250
+KARA1,"Ketol-acid reductoisomerase (2,3-dihydroxy-3-methylbutanoate)",23dhmb_c + nadp_c <=> alac__S_c + h_c + nadph_c,-999999.0,999999.0,{'c'},BSU28290
+KARA2,Ketol-acid reductoisomerase (2-Acetolactate),2ahbut_c + h_c + nadph_c <=> 23dhmp_c + nadp_c,-999999.0,999999.0,{'c'},BSU28290
+LYSLG_BS,Lysylphosphatidylglycerol synthesis,atp_c + lys__L_c + 0.01 pgly_BS_c --> amp_c + h_c + 0.01 lysylpgly_BS_c + ppi_c,,999999.0,{'c'},BG12900
+MALTTRabc,Maltotriose transport via ABC system,atp_c + h2o_c + malttr_e --> adp_c + h_c + malttr_c + pi_c,,999999.0,"{'e', 'c'}",
+MAL_Dt2,D malate transport in via proton symport,h_e + mal__D_e --> h_c + mal__D_c,,999999.0,"{'e', 'c'}",
+MAN1Pt6,MAN1P transport inout via proton symport,h_e + man1p_e <=> h_c + man1p_c,-999999.0,999999.0,"{'e', 'c'}",
+MAN6Pt6,MAN6P transport inout via proton symport,h_e + man6p_e <=> h_c + man6p_c,-999999.0,999999.0,"{'e', 'c'}",
+KAS1,B-ketoacyl synthetase (Iso-C14:0),14.0 h_c + ibcoa_c + 5.0 malcoa_c + 10.0 nadph_c --> 5.0 co2_c + 6.0 coa_c + fa1_c + 4.0 h2o_c + 10.0 nadp_c,,999999.0,{'c'},(BSU15900 and BSU11340 and BSU15910 and BSU11330 and BSU11720 and BSU04030) or (BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370)
+LAAL31,L amino acid ligase  Ser Tyr,atp_c + ser__L_c + tyr__L_c --> adp_c + h_c + pi_c + ser_L_tyr__L_c,,999999.0,{'c'},BSU37710
+ECOAH9ir,2 Methylprop 2 enoyl CoA  2 Methylbut 2 enoyl CoA,2mb2coa_c + h2o_c <=> 3hmbcoa_c,-999999.0,999999.0,{'c'},BSU18220 or BSU28540
+EDA,2-dehydro-3-deoxy-phosphogluconate aldolase,2ddg6p_c --> g3p_c + pyr_c,,999999.0,{'c'},BSU22100
+MANAO,Mannonate oxidoreductase,mana_c + nad_c <=> fruur_c + h_c + nadh_c,-999999.0,999999.0,{'c'},
+METt3,L methionine transport out via proton antiport,h_e + met__L_c --> h_c + met__L_e,,999999.0,"{'e', 'c'}",
+ENO,Enolase,2pg_c <=> h2o_c + pep_c,-999999.0,999999.0,{'c'},BSU33900
+MELIBt2,Melibiose transport in via symport,h_e + melib_e --> h_c + melib_c,,999999.0,"{'e', 'c'}",
+NACt,Nicotinic acid transport,nac_e --> nac_c,,999999.0,"{'e', 'c'}",
+MALt2r,L malate reversible transport via proton symport,h_e + mal__L_e --> h_c + mal__L_c,,999999.0,"{'e', 'c'}",BSU04470 or BSU38770 or BSU07570
+ETHAt6,Ethanolamine transport inout via proton symport,etha_e + h_e <=> etha_c + h_c,-999999.0,999999.0,"{'e', 'c'}",BSU39450
+MECDPS,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",2p4c2me_c --> 2mecdp_c + cmp_c,,999999.0,{'c'},BSU00910
+NMNHYD,Nicotinamide ribonucleotide phosphohydrolase,h2o_c + nmn_c <=> pi_c + rnam_c,-999999.0,999999.0,{'c'},
+LCYSTabc,Cysteate transport via ABC system,Lcyst_e + atp_c + h2o_c --> Lcyst_c + adp_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU08840 and BSU08830 and BSU08850
+MANt2,D mannose transport in via proton symport,h_e + man_e --> h_c + man_c,,999999.0,"{'e', 'c'}",BSU10520
+LLEUDr,L leucine dehydrogenase,h2o_c + leu__L_c + nad_c <=> 4mop_c + h_c + nadh_c + nh4_c,-999999.0,999999.0,{'c'},BSU24080
+L_LACt2r,L lactate reversible transport via proton symport,h_e + lac__L_e <=> h_c + lac__L_c,-999999.0,999999.0,"{'e', 'c'}",BSU03060 or BSU34190
+MTAN,Methylthioadenosine nucleosidase,5mta_c + h2o_c --> 5mtr_c + ade_c,,999999.0,{'c'},BSU27270
+MOPSabc,MOPS transport via ABC system,atp_c + h2o_c + mops_e --> adp_c + h_c + mops_c + pi_c,,999999.0,"{'e', 'c'}",BSU08840 and BSU08830 and BSU08850
+MLTG1,Maltodextrin glucosidase (maltotriose),h2o_c + malttr_c --> glc__D_c + malt_c,,999999.0,{'c'},BSU34560
+NAPRT,NAPRTase (rev),h_c + nac_c + prpp_c <=> nicrnt_c + ppi_c,-999999.0,999999.0,{'c'},BSU31750
+MLTG2,Maltodextrin glucosidase (maltotetraose),h2o_c + maltttr_c --> glc__D_c + malttr_c,,999999.0,{'c'},BSU34560
+LAAL32,L amino acid ligase  Met Tyr,atp_c + met__L_c + tyr__L_c --> adp_c + h_c + met_L_tyr__L_c + pi_c,,999999.0,{'c'},BSU37710
+LEUTA,Leucine transaminase,akg_c + leu__L_c <=> 4mop_c + glu__L_c,-999999.0,999999.0,{'c'},BSU38550 or BSU02390
+METS,Methionine synthase,5mthf_c + hcys__L_c --> h_c + met__L_c + thf_c,,999999.0,{'c'},BSU13180
+LEUt2r,L leucine reversible transport via proton symport,h_e + leu__L_e <=> h_c + leu__L_c,-999999.0,999999.0,"{'e', 'c'}",(BSU26710 and BSU26700) or BSU29600 or BSU26690
+O2t,O2 transport  diffusion,o2_e <=> o2_c,-999999.0,999999.0,"{'e', 'c'}",
+LAAL33,L amino acid ligase  ala trp,ala__L_c + atp_c + trp__L_c --> adp_c + ala_L_trp__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+LACZ,B-galactosidase,h2o_c + lcts_c --> gal_c + glc__D_c,,999999.0,{'c'},BSU34130
+LIPO3S24_BS,Lipoteichoic acid synthesis  n24   unliked  D alanine substituted,2400.0 ala__D_c + 2400.0 atp_c + 2400.0 cdpglyc_c + d12dg_BS_c + 2400.0 h2o_c --> 2400.0 amp_c + 2400.0 cmp_c + 4800.0 h_c + lipo3_24_BS_c + 2400.0 ppi_c,,999999.0,{'c'},BSU38500 and BSU38510 and BSU38520 and BSU38530
+METSR_R1,L methionine R oxide reductase  trdrd,metox__R_c + trdrd_c --> h2o_c + met__L_c + trdox_c,,999999.0,{'c'},BSU21680
+METSR_R2,L methionine R oxide  H2O2,h2o2_c + met__L_c --> h2o_c + metox__R_c,,999999.0,{'c'},BSU21680
+METSabc,L methionine S oxide transport via ABC system,atp_c + h2o_c + metox_e --> adp_c + h_c + metox_c + pi_c,,999999.0,"{'e', 'c'}",(BSU32730 and BSU32740 and BSU32750) or (BSU29380 and BSU29370 and BSU29360 and BSU29350 and BSU29340)
+METDabc,D-methionine transport via ABC system,atp_c + h2o_c + met__D_e --> adp_c + h_c + met__D_c + pi_c,,999999.0,"{'e', 'c'}",(BSU29380 and BSU29370 and BSU29360 and BSU29350 and BSU29340) or (BSU32730 and BSU32740 and BSU32750)
+METabc,L-methionine transport via ABC system,atp_c + h2o_c + met__L_e --> adp_c + h_c + met__L_c + pi_c,,999999.0,"{'e', 'c'}",(BSU32730 and BSU32740 and BSU32750) or (BSU29380 and BSU29370 and BSU29360 and BSU29350 and BSU29340)
+METSR_S1,L methionine S oxide reductase  trdrd,metox_c + trdrd_c --> h2o_c + met__L_c + trdox_c,,999999.0,{'c'},BSU21690
+METSR_S2,L methionine S oxide reductase  H2O2,h2o2_c + met__L_c --> h2o_c + metox_c,,999999.0,{'c'},BSU21690
+METTRS,Methionyl-tRNA synthetase,atp_c + met__L_c + trnamet_c --> amp_c + mettrna_c + ppi_c,,999999.0,{'c'},BSU00380
+MGSA,Methylglyoxal synthase,dhap_c --> mthgxl_c + pi_c,,999999.0,{'c'},BSU22480
+LYSAM,"Lysine 2,3-aminomutase",lys__L_c <=> 36dahx_c,-999999.0,999999.0,{'c'},BSU19690
+OMCDC,2-Oxo-4-methyl-3-carboxypentanoate decarboxylation,3c4mop_c + h_c --> 4mop_c + co2_c,,999999.0,{'c'},
+LCTSabc,Lactose transport via ABC system (import),atp_c + h2o_c + lcts_e --> adp_c + h_c + lcts_c + pi_c,,999999.0,"{'e', 'c'}",BSU06970 and BSU06980 and BSU06990
+MGt5,Magnesium transport in/out via permease (no H+),mg2_c <=> mg2_e,-999999.0,999999.0,"{'e', 'c'}",BSU13300 or BSU08000 or BSU24740
+PALAt2,Palatinose transport in via proton symport,h_e + pala_e --> h_c + pala_c,,999999.0,"{'e', 'c'}",
+MMSAD2,Methylmalonate-semialdehyde dehydrogenase (propanol),coa_c + nad_c + ppal_c --> h_c + nadh_c + ppcoa_c,,999999.0,{'c'},BSU39760
+MI1PP,Myo-inositol 1-phosphatase,h2o_c + mi1p__D_c --> inost_c + pi_c,,999999.0,{'c'},BSU14670
+LDH2,L lactate dehydrogenase  2 Hydroxybutanoic acid,2hbut_c + nad_c <=> 2obut_c + h_c + nadh_c,-999999.0,999999.0,{'c'},BSU03050
+LDH_L,L-lactate dehydrogenase,lac__L_c + nad_c <=> h_c + nadh_c + pyr_c,-999999.0,999999.0,{'c'},BSU03050
+PAP_BS,Phosphatidic acid phosphatase,0.01 12dag3p_BS_c + h2o_c --> 0.01 12dgr_BS_c + pi_c,,999999.0,{'c'},
+LYSDC,Lysine decarboxylase,h_c + lys__L_c --> 15dap_c + co2_c,,999999.0,{'c'},BSU00270
+MCITL2,Methylisocitrate lyase,micit_c <=> pyr_c + succ_c,-999999.0,999999.0,{'c'},BSU24120
+PEPt6,Phosphoenolpyruvate transport in via proton symport,h_e + pep_e <=> h_c + pep_c,-999999.0,999999.0,"{'e', 'c'}",
+MMSAD3,Methylmalonate-semialdehyde dehydrogenase (malonic semialdehyde),coa_c + msa_c + nad_c --> accoa_c + co2_c + nadh_c,,999999.0,{'c'},BSU39760
+PGL,6-phosphogluconolactonase,6pgl_c + h2o_c --> 6pgc_c + h_c,,999999.0,{'c'},
+MMSDHir,Methylmalonate semialdehyde dehydrogenase  acylating,coa_c + mmalsa__S_c + nad_c --> co2_c + nadh_c + ppcoa_c,,999999.0,{'c'},BSU39760
+MMSAD1,Methylmalonate semialdehyde dehydrogenase,2mop_c + coa_c + nad_c --> co2_c + nadh_c + ppcoa_c,,999999.0,{'c'},BSU39760
+MNNH,D-mannonate hydrolyase,mana_c --> 2ddglcn_c + h2o_c,,999999.0,{'c'},BSU12340
+LYSt3r,L lysine transport out via proton antiport reversible,h_e + lys__L_c <=> h_c + lys__L_e,-999999.0,999999.0,"{'e', 'c'}",BSU10870
+MAN6PI,Mannose-6-phosphate isomerase,man6p_c <=> f6p_c,-999999.0,999999.0,{'c'},BSU12020 or BSU35790
+M1PD,Mannitol-1-phosphate 5-dehydrogenase,mnl1p_c + nad_c <=> f6p_c + h_c + nadh_c,-999999.0,999999.0,{'c'},BSU03990
+MAL6PG,Maltose 6  phosphate glucosidase,h2o_c + malt6p_c --> g6p_c + glc__D_c,,999999.0,{'c'},BSU08180
+MALT,Alpha glucosidase,h2o_c + malt_c --> 2.0 glc__D_c,,999999.0,{'c'},BSU34560
+MNabc,Manganese transport via ABC system,atp_c + h2o_c + mn2_e --> adp_c + h_c + mn2_c + pi_c,,999999.0,"{'e', 'c'}",BSU30770 and BSU30760 and BSU30750 and BSU30740
+MNt2,Manganese transport in via proton symport,h_e + mn2_e --> h_c + mn2_c,,999999.0,"{'e', 'c'}",BSU04360
+MOHMT,3-methyl-2-oxobutanoate hydroxymethyltransferase,3mob_c + h2o_c + mlthf_c --> 2dhp_c + thf_c,,999999.0,{'c'},BSU22430
+MPL,Maltose phosphorylase,malt_c + pi_c --> g1p_B_c + glc__D_c,,999999.0,{'c'},BSU34570
+MOBDabc,Molybdate transport via ABC system,atp_c + h2o_c + mobd_e --> adp_c + h_c + mobd_c + pi_c,,999999.0,"{'e', 'c'}",BSU33370 and BSU33380 and BSU33390
+MTHFC,Methenyltetrahydrofolate cyclohydrolase,h2o_c + methf_c <=> 10fthf_c + h_c,-999999.0,999999.0,{'c'},BSU24310
+MALTATr,Maltose O-acetyltransferase,accoa_c + malt_c --> acmalt_c + coa_c,,999999.0,{'c'},BSU40850
+MCA,Methyl cis aconitase,2mcit_c <=> micit_c,-999999.0,999999.0,{'c'},BSU24130
+MTHFD,Methylenetetrahydrofolate dehydrogenase (NADP),mlthf_c + nadp_c <=> methf_c + nadph_c,-999999.0,999999.0,{'c'},BSU24310
+PGPPH_BS,Phosphatidylglycerophosphate phosphohydrolase,h2o_c + 0.01 pglyp_BS_c --> 0.01 pgly_BS_c + pi_c,,999999.0,{'c'},
+MTHFR3,5 10 methylenetetrahydrofolatereductase  NADPH,2.0 h_c + mlthf_c + nadph_c --> 5mthf_c + nadp_c,,999999.0,{'c'},BSU11010
+MALTabc,Maltose transport via ABC system,atp_c + h2o_c + malt_e --> adp_c + h_c + malt_c + pi_c,,999999.0,"{'e', 'c'}",(BSU34610 and BSU34600 and BSU34590) or (BSU34160 and BSU34150 and BSU34140) or (BSU30290 and BSU30280 and BSU30270)
+MALTpts,Maltose transport via PEP:Pyr PTS,malt_e + pep_c --> malt6p_c + pyr_c,,999999.0,"{'e', 'c'}",BSU08200 and BSU13900 and BSU13910
+MALt10,Malate HNa lactate antiporter,2.0 h_e + lac__L_c + mal__L_e + na1_c --> 2.0 h_c + lac__L_e + mal__L_c + na1_e,,999999.0,"{'e', 'c'}",BSU23560
+MCITS,2-methylcitrate synthase,h2o_c + oaa_c + ppcoa_c --> 2mcit_c + coa_c + h_c,,999999.0,{'c'},BSU24140
+OXGDC,2 oxoglutarate decarboxylase,akg_c + h_c --> co2_c + sucsal_c,,999999.0,{'c'},BSU30820
+MALt4,Namalate symporter,mal__L_e + na1_e --> mal__L_c + na1_c,,999999.0,"{'e', 'c'}",BSU31580
+MCSNAH,5-Methylcytosine aminohydrolase,5mcsn_c + h2o_c + h_c <=> nh4_c + thym_c,-999999.0,999999.0,{'c'},BSU00180
+MTRI,5-methylthioribose-1-phosphate isomerase,5mdr1p_c <=> 5mdru1p_c,-999999.0,999999.0,{'c'},BSU13550
+MTRK,5-methylthioribose kinase,5mtr_c + atp_c --> 5mdr1p_c + adp_c + h_c,,999999.0,{'c'},BSU13560
+NADK,NAD kinase,atp_c + nad_c --> adp_c + h_c + nadp_c,,999999.0,{'c'},BSU11610
+NADK1,NAD kinase  GTP,gtp_c + nad_c --> gdp_c + h_c + nadp_c,,999999.0,{'c'},BSU11610
+NADH4,NADH dehydrogenase  Menaquinone 7  no proton,h_c + mqn7_c + nadh_c --> mql7_c + nad_c,,999999.0,{'c'},BSU32200 or BSU12290 or BSU32100
+MDH,Malate dehydrogenase,mal__L_c + nad_c <=> h_c + nadh_c + oaa_c,-999999.0,999999.0,{'c'},BSU29120
+NADK2,NAD kinase  dATP,datp_c + nad_c --> dadp_c + h_c + nadp_c,,999999.0,{'c'},BSU11610
+ORNTAC_1,Ornithine transacetylase,acorn_c + glu__L_c <=> acglu_c + orn__L_c,-999999.0,999999.0,{'c'},BSU11200
+NADK3,NAD kinase  dGTP,dgtp_c + nad_c --> dgdp_c + h_c + nadp_c,,999999.0,{'c'},BSU11610
+MDRPD,5-Methylthio-5-deoxy-D-ribulose 1-phosphate dehydratase,5mdru1p_c --> dkmpp_c + h2o_c,,999999.0,{'c'},BSU13610
+MALDDH,Malate decarboxylating oxidoreductase (decarboxylating),mal__D_c + nad_c --> co2_c + nadh_c + pyr_c,,999999.0,{'c'},BSU04000
+ME2,Malic enzyme (NADP),mal__L_c + nadp_c --> co2_c + nadph_c + pyr_c,,999999.0,{'c'},BSU29220
+NADK4,NAD kinase  dCTP,dctp_c + nad_c --> dcdp_c + h_c + nadp_c,,999999.0,{'c'},BSU11610
+BGLA1,6-phospho-beta-glucosidase,6pgg_c + h2o_c --> g6p_c + glc__D_c,,999999.0,{'c'},BSU38560 or BSU40110
+NADK5,NAD kinase  dTTP,dttp_c + nad_c --> dtdp_c + h_c + nadp_c,,999999.0,{'c'},BSU11610
+NADS1,NAD synthase (nh3),atp_c + dnad_c + nh4_c --> amp_c + h_c + nad_c + ppi_c,,999999.0,{'c'},BSU03130
+NAt3_1,Sodium proton antiporter  HNA is 11,h_e + na1_c --> h_c + na1_e,,999999.0,"{'e', 'c'}",BSU31600 or BSU09850 or BSU31610 or BSU31620 or BSU31630 or BSU31640 or BSU31650 or BSU31660 or BSU09680 or BSU33420 or BSU11640
+NAabcO,Sodium transport out via ABC system,atp_c + h2o_c + na1_c --> adp_c + h_c + na1_e + pi_c,,999999.0,"{'e', 'c'}",BSU02750 and BSU02760
+MECDPDH2,"2C-methyl-D-erythritol 2,4 cyclodiphosphate dehydratase",2mecdp_c + nadh_c --> h2mb4p_c + h2o_c + nad_c,,999999.0,{'c'},BSU25070
+MEPCT,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase,2me4p_c + ctp_c + h_c --> 4c2me_c + ppi_c,,999999.0,{'c'},BSU00900
+METAT,Methionine adenosyltransferase,atp_c + h2o_c + met__L_c --> amet_c + pi_c + ppi_c,,999999.0,{'c'},BSU30550
+NDPK7,Nucleoside-diphosphate kinase (ATP:dCDP),atp_c + dcdp_c <=> adp_c + dctp_c,-999999.0,999999.0,{'c'},BSU22730
+PENCAC,Penicillin acylase,h2o_c + h_c + pencil_c --> 6ampenc_c + for_c,,999999.0,{'c'},BSU39540
+NDPK3,Nucleoside-diphosphate kinase (ATP:CDP),atp_c + cdp_c <=> adp_c + ctp_c,-999999.0,999999.0,{'c'},BSU22730
+NDPK4,Nucleoside-diphosphate kinase (ATP:dTDP),atp_c + dtdp_c <=> adp_c + dttp_c,-999999.0,999999.0,{'c'},BSU22730
+PAPSR,Phosphoadenylyl-sulfate reductase (thioredoxin),paps_c + trdrd_c --> 2.0 h_c + pap_c + so3_c + trdox_c,,999999.0,{'c'},BSU15570
+NDPK5,Nucleoside-diphosphate kinase (ATP:dGDP),atp_c + dgdp_c <=> adp_c + dgtp_c,-999999.0,999999.0,{'c'},BSU22730
+PMDPHT,Pyrimidine phosphatase,5aprbu_c + h2o_c --> 4r5au_c + pi_c,,999999.0,{'c'},
+ORNt2,Ornithine transport in via proton symport,h_e + orn__L_e --> h_c + orn__L_c,,999999.0,"{'e', 'c'}",BSU33330
+PPAt6,Propionate transport inout via proton symport,h_e + ppa_e <=> h_c + ppa_c,-999999.0,999999.0,"{'e', 'c'}",
+PPIabc,Diphosphate transport in via ABC system,atp_c + h2o_c + ppi_e --> adp_c + h_c + pi_c + ppi_c,,999999.0,"{'e', 'c'}",
+NDPK6,Nucleoside-diphosphate kinase (ATP:dUDP),atp_c + dudp_c <=> adp_c + dutp_c,-999999.0,999999.0,{'c'},BSU22730
+NDPK1,Nucleoside-diphosphate kinase (ATP:GDP),atp_c + gdp_c <=> adp_c + gtp_c,-999999.0,999999.0,{'c'},BSU22730
+NDPK2,Nucleoside-diphosphate kinase (ATP:UDP),atp_c + udp_c <=> adp_c + utp_c,-999999.0,999999.0,{'c'},BSU22730
+PPTGS_BS,Peptidoglycan subunit synthesis,uaagmda_c --> h_c + peptido_BS_c + udcpdp_c,,999999.0,{'c'},
+PGMT_B,B phosphoglucomutase,g6p_B_c <=> g1p_B_c,-999999.0,999999.0,{'c'},BSU34550
+PPTT,Trans pentaprenyltranstransferase,ipdp_c + pendp_c --> hexdp_c + ppi_c,,999999.0,{'c'},
+PSER_Dt6,D O Phosphoserine transport inout via proton symport,h_e + pser__D_e <=> h_c + pser__D_c,-999999.0,999999.0,"{'e', 'c'}",
+PSER_Lt6,O Phospho L serine transport in via proton symport,h_e + pser__L_e <=> h_c + pser__L_c,-999999.0,999999.0,"{'e', 'c'}",
+RAFFINt2,Raffinose transport in via proton symport,h_e + raffin_e --> h_c + raffin_c,,999999.0,"{'e', 'c'}",
+PGI,Glucose-6-phosphate isomerase,g6p_c <=> f6p_c,-999999.0,999999.0,{'c'},BSU31350
+RHCYS,5 deoxyribos 5 ylhomocysteinase,h2o_c + rhcys_c --> hcys__L_c + rib__D_c,,999999.0,{'c'},
+P5CD,1-pyrroline-5-carboxylate dehydrogenase,1pyr5c_c + 2.0 h2o_c + nad_c --> glu__L_c + h_c + nadh_c,,999999.0,{'c'},BSU37780
+RIBFLVt2,Riboflavin transport in via proton symport,h_e + ribflv_e <=> h_c + ribflv_c,-999999.0,999999.0,"{'e', 'c'}",
+NDPK9,Nucleoside diphosphate kinase  ATPIDP,atp_c + idp_c <=> adp_c + itp_c,-999999.0,999999.0,{'c'},BSU22730
+RMNt,L-rhamnose transport via proton symport,h_e + rmn_e --> h_c + rmn_c,,999999.0,"{'e', 'c'}",
+PYRt2,Pyruvate transport in via proton symport,h_e + pyr_e <=> h_c + pyr_c,-999999.0,999999.0,"{'e', 'c'}",
+PYNP1,Pyrimidine-nucleoside phosphorylase (cytosine),csn_c + r1p_c <=> cytd_c + pi_c,-999999.0,999999.0,{'c'},BSU39400
+PHETA1,Phenylalanine transaminase,akg_c + phe__L_c <=> glu__L_c + phpyr_c,-999999.0,999999.0,{'c'},BSU22620 or BSU34890
+NDPK8,Nucleoside-diphosphate kinase (ATP:dADP),atp_c + dadp_c <=> adp_c + datp_c,-999999.0,999999.0,{'c'},BSU22730
+PYNP2r,Pyrimidine-nucleoside phosphorylase (uracil),pi_c + uri_c <=> r1p_c + ura_c,-999999.0,999999.0,{'c'},BSU39400
+RMPA,Rhamnulose-1-phosphate aldolase,rml1p_c <=> dhap_c + lald__L_c,-999999.0,999999.0,{'c'},
+SALADC2,Sulfinoalanine decarboxylase,Lcyst_c --> co2_c + taur_c,,999999.0,{'c'},
+NH4t,Ammonia reversible transport,nh4_e <=> nh4_c,-999999.0,999999.0,"{'e', 'c'}",BSU36510
+DSERt2,D-serine transport via proton symport,h_e + ser__D_e <=> h_c + ser__D_c,-999999.0,999999.0,"{'e', 'c'}",
+SERt2r,L serine reversible transport via proton symport,h_e + ser__L_e --> h_c + ser__L_c,,999999.0,"{'e', 'c'}",
+PTAr,Phosphotransacetylase,accoa_c + pi_c <=> actp_c + coa_c,-999999.0,999999.0,{'c'},BSU37660
+PMPK,Phosphomethylpyrimidine kinase,4ampm_c + atp_c --> 2mahmp_c + adp_c,,999999.0,{'c'},BSU38020 or BSU11710
+SORD_D,D sorbitol dehydrogenase,fad_c + sbt__D_c <=> fadh2_c + srb__L_c,-999999.0,999999.0,{'c'},
+NMNAT,Nicotinamide-nucleotide adenylyltransferase,atp_c + h_c + nmn_c <=> nad_c + ppi_c,-999999.0,999999.0,{'c'},BSU25640
+SRB_Lt,L sorbose reversible transport,srb__L_e <=> srb__L_c,-999999.0,999999.0,"{'e', 'c'}",
+PTA2,Phosphate acetyltransferase,pi_c + ppcoa_c <=> coa_c + ppap_c,-999999.0,999999.0,{'c'},BSU37660
+PHYT3,3 phytase,h2o_c + inoshp_c --> inospp1_c + pi_c,,999999.0,{'c'},BSU19800
+NNATr,Nicotinate-nucleotide adenylyltransferase,atp_c + h_c + nicrnt_c <=> dnad_c + ppi_c,-999999.0,999999.0,{'c'},BSU25640
+PIabc,Phosphate transport via ABC system,atp_c + h2o_c + pi_e --> adp_c + h_c + 2.0 pi_c,,999999.0,"{'e', 'c'}",BSU24970 and BSU24960 and BSU24950 and BSU24980 and BSU24990
+SO4t2,Sulfate transport in via proton symport,h_e + so4_e --> h_c + so4_c,,999999.0,"{'e', 'c'}",BSU01580 or BSU15580 or BSU34660
+NNAM,Nicotinamidase,h2o_c + ncam_c --> nac_c + nh4_c,,999999.0,{'c'},BSU31760
+SARCOX,Sarcosine oxidase,h2o_c + o2_c + sarcs_c --> fald_c + gly_c + h2o2_c,,999999.0,{'c'},BSU11670
+PIt2r,Phosphate reversible transport via symport,h_e + pi_e <=> h_c + pi_c,-999999.0,999999.0,"{'e', 'c'}",BSU12840
+PIt7,Phosphate transport in/out via three Na+ symporter,3.0 na1_e + pi_e --> 3.0 na1_c + pi_c,,999999.0,"{'e', 'c'}",BSU25420
+SUCR,Sucrose hydrolyzing enzyme,h2o_c + sucr_c --> fru_c + glc__D_c,,999999.0,{'c'},BSU34560
+NNDPR,Nicotinate-nucleotide diphosphorylase (carboxylating),2.0 h_c + prpp_c + quln_c --> co2_c + nicrnt_c + ppi_c,,999999.0,{'c'},BSU27860
+PMANM,Phosphomannomutase,man1p_c <=> man6p_c,-999999.0,999999.0,{'c'},BSU09310
+SALCpts,Salicin transport via PEP:Pyr PTS,pep_c + salcn_e --> pyr_c + salcn6p_c,,999999.0,"{'e', 'c'}",BSU39270 and BSU13900 and BSU13910
+NO2t2r,"Nitrite transport in via proton symport, reversible",h_e + no2_e --> h_c + no2_c,,999999.0,"{'e', 'c'}",BSU38060
+NPHS,Naphthoate synthase,sbzcoa_c --> coa_c + dhna_c,,999999.0,{'c'},BSU30800
+RBK,Ribokinase,atp_c + rib__D_c <=> adp_c + h_c + r5p_c,-999999.0,999999.0,{'c'},BSU35920
+NO2t3,Nitrite transport out via proton antiport,h_e + no2_c --> h_c + no2_e,,999999.0,"{'e', 'c'}",BSU37320 or BSU38060
+PNTEH,Hydrolase Class   RXN R02973,h2o_c + ptth_c --> cysam_c + pnto__R_c,,999999.0,{'c'},BSU03010
+NO3t2,Nitrate transport in via proton symport,h_e + no3_e --> h_c + no3_c,,999999.0,"{'e', 'c'}",BSU03330
+PNTK,Pantothenate kinase,atp_c + pnto__R_c --> 4ppan_c + adp_c + h_c,,999999.0,{'c'},BSU23760
+RBK_Dr,D-ribulokinase (D-ribulose),atp_c + rbl__D_c --> adp_c + h_c + ru5p__D_c,,999999.0,{'c'},BSU28790
+RIBabc,D-ribose transport via ABC system,atp_c + h2o_c + rib__D_e --> adp_c + h_c + pi_c + rib__D_c,,999999.0,"{'e', 'c'}",BSU35940 and BSU35960 and BSU35950 and BSU35930
+NTR3B,Nitrate reductase,2.0 h_c + mql7_c + no3_c --> h2o_c + 2.0 h_e + mqn7_c + no2_c,,999999.0,"{'e', 'c'}",(BSU03320 and BSU03310) or (BSU37280 and BSU37270 and BSU37260)
+SUCCt2r,Succinate transport via proton symport,h_e + succ_e <=> h_c + succ_c,-999999.0,999999.0,"{'e', 'c'}",BSU07570 or BSU04470
+Q23DO,Quercetin 2 3 dioxygenase,o2_c + quc_c --> 2pcpgc_c + co_c,,999999.0,{'c'},BSU39980
+PNP,Purine nucleoside phosphorylase,pi_c + rnam_c <=> h_c + ncam_c + r1p_c,-999999.0,999999.0,{'c'},BSU23490 or BSU19630
+QULNS,Quinolinate synthase,dhap_c + iasp_c --> 2.0 h2o_c + pi_c + quln_c,,999999.0,{'c'},BSU27850
+RBFK,Riboflavin kinase,atp_c + ribflv_c --> adp_c + fmn_c + h_c,,999999.0,{'c'},BSU29300 or BSU16670
+APNPT,ATP:pantetheine 4'-phosphotransferase,atp_c + ptth_c <=> adp_c + h_c + pan4p_c,-999999.0,999999.0,{'c'},BSU23760
+PNTOt2,Pantothenate reversible transport via proton symport,h_e + pnto__R_e <=> h_c + pnto__R_c,-999999.0,999999.0,"{'e', 'c'}",BSU38240
+PPA,Inorganic diphosphatase,h2o_c + ppi_c --> h_c + 2.0 pi_c,,999999.0,{'c'},BSU40550
+PPBNGS,Porphobilinogen synthase,2.0 5aop_c --> 2.0 h2o_c + h_c + ppbng_c,,999999.0,{'c'},BSU28130
+PPNCL,Phosphopantothenate-cysteine ligase,4ppan_c + ctp_c + cys__L_c --> 4ppcys_c + cdp_c + h_c + pi_c,,999999.0,{'c'},BSU15700
+RBK_L1,L-ribulokinase (L-ribulose),atp_c + rbl__L_c --> adp_c + h_c + ru5p__L_c,,999999.0,{'c'},BSU28790
+RBFSa,Riboflavin synthase,4r5au_c + db4p_c --> dmlz_c + 2.0 h2o_c + pi_c,,999999.0,{'c'},BSU23270 and BSU23250
+PPCDC,Phosphopantothenoylcysteine decarboxylase,4ppcys_c + h_c --> co2_c + pan4p_c,,999999.0,{'c'},BSU15700
+PPCK,Phosphoenolpyruvate carboxykinase,atp_c + oaa_c --> adp_c + co2_c + pep_c,,999999.0,{'c'},BSU30560
+OCBT_1,Ornithine carbamoyltransferase,cbp_c + orn__L_c <=> citr__L_c + h_c + pi_c,-999999.0,999999.0,{'c'},BSU11250
+PPM,Phosphopentomutase,r1p_c <=> r5p_c,-999999.0,999999.0,{'c'},BSU23500
+PPCOAC,Propionyl-CoA carboxylase,atp_c + hco3_c + ppcoa_c --> adp_c + h_c + mmcoa__S_c + pi_c,,999999.0,{'c'},BSU23920 or BSU18210
+RBFSb,Riboflavin synthase,2.0 dmlz_c --> 4r5au_c + ribflv_c,,999999.0,{'c'},BSU23270 and BSU23250
+RBP4E,L-ribulose-phosphate 4-epimerase,ru5p__L_c <=> xu5p__D_c,-999999.0,999999.0,{'c'},BSU28780
+RMI,L-rhamnose isomerase,rmn_c <=> rml_c,-999999.0,999999.0,{'c'},BSU31180
+RMK,Rhamnulokinase,atp_c + rml_c --> adp_c + h_c + rml1p_c,,999999.0,{'c'},BSU31200
+PPM2,Phosphopentomutase 2 (deoxyribose),2dr1p_c <=> 2dr5p_c,-999999.0,999999.0,{'c'},BSU23500
+PPND,Prephenate dehydrogenase,nad_c + pphn_c --> 34hpp_c + co2_c + nadh_c,,999999.0,{'c'},BSU22610
+RNDR4,Ribonucleoside-diphosphate reductase (UDP),trdrd_c + udp_c --> dudp_c + h2o_c + trdox_c,,999999.0,{'c'},BSU17380 and BSU17390 and BSU17370
+NTRIR2x,Nitrite Reductase (NADH),5.0 h_c + 3.0 nadh_c + no2_c --> 2.0 h2o_c + 3.0 nad_c + nh4_c,,999999.0,{'c'},BSU03300 and BSU03290
+RPE,Ribulose 5-phosphate 3-epimerase,ru5p__D_c <=> xu5p__D_c,-999999.0,999999.0,{'c'},BSU15790
+RPI,Ribose-5-phosphate isomerase,r5p_c <=> ru5p__D_c,-999999.0,999999.0,{'c'},BSU36920
+SADT,Sulfate adenylyltransferase,atp_c + h_c + so4_c <=> aps_c + ppi_c,-999999.0,999999.0,{'c'},BSU15590
+PPNDH,Prephenate dehydratase,h_c + pphn_c --> co2_c + h2o_c + phpyr_c,,999999.0,{'c'},BSU27900
+PPPGO,Protoporphyrinogen oxidase (aerobic),1.5 o2_c + pppg9_c --> 3.0 h2o_c + ppp9_c,,999999.0,{'c'},BSU10140
+PPS,Phosphoenolpyruvate synthase,atp_c + h2o_c + pyr_c --> amp_c + 2.0 h_c + pep_c + pi_c,,999999.0,{'c'},BSU18830
+PRAGSr,Phosphoribosylglycinamide synthase,atp_c + gly_c + pram_c --> adp_c + gar_c + h_c + pi_c,,999999.0,{'c'},BSU06530
+PRAIi,Phosphoribosylanthranilate isomerase (irreversible),pran_c <=> 2cpr5p_c,-999999.0,999999.0,{'c'},BSU22650
+SBTD_D2,D sorbitol dehydrogenase  D fructose producing,nad_c + sbt__D_c --> fru_c + h_c + nadh_c,,999999.0,{'c'},BSU06150
+SBTt2,D sorbitol transport in via proton symport,h_e + sbt__D_e --> h_c + sbt__D_c,,999999.0,"{'e', 'c'}",BSU06160
+SDPDS,Succinyl-diaminopimelate desuccinylase,h2o_c + sl26da_c --> 26dap_LL_c + succ_c,,999999.0,{'c'},BSU19710
+SERAT,Serine O-acetyltransferase,accoa_c + ser__L_c <=> acser_c + coa_c,-999999.0,999999.0,{'c'},BSU00930
+SERD_D,D-serine deaminase,ser__D_c --> nh4_c + pyr_c,,999999.0,{'c'},BSU23770
+SHCHD2_1,Sirohydrochlorin dehydrogenase  NAD,nad_c + shcl_c --> h_c + nadh_c + srch_c,,999999.0,{'c'},BSU15630
+PRAIS_1,Phosphoribosylaminoimidazole synthetase,atp_c + fpram_c --> adp_c + air_c + h_c + pi_c,,999999.0,{'c'},BSU06500
+PRATPP,Phosphoribosyl-ATP pyrophosphatase,h2o_c + prbatp_c --> h_c + ppi_c + prbamp_c,,999999.0,{'c'},BSU34860
+PRASCSi,Phosphoribosylaminoimidazolesuccinocarboxamide synthase,5aizc_c + asp__L_c + atp_c <=> 25aics_c + adp_c + h_c + pi_c,-999999.0,999999.0,{'c'},BSU06450
+PRFGS_1,Phosphoribosylformylglycinamidine synthase,atp_c + fgam_c + gln__L_c + h2o_c --> adp_c + fpram_c + glu__L_c + 2.0 h_c + pi_c,,999999.0,{'c'},BSU06480 and BSU06470 and BSU06460
+PRMICI,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase,prfp_c <=> prlp_c,-999999.0,999999.0,{'c'},BSU34880
+SERD_L,L-serine deaminase,ser__L_c --> nh4_c + pyr_c,,999999.0,{'c'},BSU15850 and BSU15860
+SHCHF_2,Sirohydrochlorin ferrochetalase,fe2_c + srch_c --> 2.0 h_c + sheme_c,,999999.0,{'c'},BSU15620
+OMPDC,Orotidine-5'-phosphate decarboxylase,h_c + orot5p_c --> co2_c + ump_c,,999999.0,{'c'},BSU15550
+SHK3Dr,Shikimate dehydrogenase,3dhsk_c + h_c + nadph_c <=> nadp_c + skm_c,-999999.0,999999.0,{'c'},BSU25660
+SHKK,Shikimate kinase,atp_c + skm_c --> adp_c + h_c + skm5p_c,,999999.0,{'c'},BSU03150
+SHSL1,O-succinylhomoserine lyase (L-cysteine),cys__L_c + suchms_c --> cyst__L_c + h_c + succ_c,,999999.0,{'c'},BSU11870
+URATEt_1,Urate permease,h_e + urate_e --> h_c + urate_c,,999999.0,"{'e', 'c'}",BSU32440 or BSU32430
+PRO1x,Proline oxidase  L proline  NAD,nad_c + pro__L_c --> 1pyr5c_c + 2.0 h_c + nadh_c,,999999.0,{'c'},BSU03200
+PRPPS,Phosphoribosylpyrophosphate synthetase,atp_c + r5p_c <=> amp_c + h_c + prpp_c,-999999.0,999999.0,{'c'},BSU00510
+SHSL2,O succinylhomoserine lyase  H2S,h2s_c + suchms_c --> hcys__L_c + succ_c,,999999.0,{'c'},BSU11870
+OCOAT1,3-oxoacid CoA-transferase (Succinyl-CoA: acetoacetate),acac_c + succoa_c <=> aacoa_c + succ_c,-999999.0,999999.0,{'c'},BSU38990 and BSU38980
+SHSL3,O succinylhomoserine lyase  methanethiol,ch4s_c + suchms_c --> h_c + met__L_c + succ_c,,999999.0,{'c'},BSU11870
+SHSL4r,O succinylhomoserine lyase  elimination   reversible,h2o_c + suchms_c --> 2obut_c + h_c + nh4_c + succ_c,,999999.0,{'c'},BSU11870
+PROt2r,L proline reversible transport via proton symport,h_e + pro__L_e --> h_c + pro__L_c,,999999.0,"{'e', 'c'}",BSU06660 or BSU30530 or BSU03220 or BSU19580
+PSCVT,3-phosphoshikimate 1-carboxyvinyltransferase,pep_c + skm5p_c <=> 3psme_c + pi_c,-999999.0,999999.0,{'c'},BSU22600
+PSDC_BS,Phosphatidylserine decarboxylase,0.01 ps_BS_c --> co2_c + 0.01 psetha_BS_c,,999999.0,{'c'},BSU02290
+SLCYSS,O-acetyl-L-serine sulfhydrylase,acser_c + tsul_c --> ac_c + scys__L_c,,999999.0,{'c'},BSU00730 or BSU11870
+ORNTA_1,Ornithine transaminase,akg_c + orn__L_c --> glu5sa_c + glu__L_c,,999999.0,{'c'},BSU40340
+SPODM,Superoxide dismutase,2.0 h_c + 2.0 o2s_c <=> h2o2_c + o2_c,-999999.0,999999.0,{'c'},BSU25020
+PSERT,Phosphoserine transaminase,3php_c + glu__L_c <=> akg_c + pser__L_c,-999999.0,999999.0,{'c'},BSU10020
+PSP_D,Phosphoserine phosphatase  D serine,h2o_c + pser__D_c --> pi_c + ser__D_c,,999999.0,{'c'},BSU04740
+PTHPS,6-pyruvoyltetrahydropterin synthase,ahdt_c --> 6pthp_c + pppi_c,,999999.0,{'c'},BSU13730
+SPMDAT1,Spermidine acetyltransferase,accoa_c + spmd_c --> N1aspmd_c + coa_c + h_c,,999999.0,{'c'},BSU26600
+ORPT,Orotate phosphoribosyltransferase,orot5p_c + ppi_c <=> orot_c + prpp_c,-999999.0,999999.0,{'c'},BSU15560
+SPMDAT3,Spermidine acetyltransferase  spermine,2.0 accoa_c + sprm_c --> 2.0 coa_c + diasprm_c + 2.0 h_c,,999999.0,{'c'},BSU26600
+SPMDt3i,Spermidine transport in via proton antiport,h_c + spmd_e <-- h_e + spmd_c,-999999.0,,"{'e', 'c'}",BSU26590
+SPRMS,Spermine synthase,ametam_c + spmd_c --> 5mta_c + h_c + sprm_c,,999999.0,{'c'},BSU37500
+SPMS,Spermidine synthase,ametam_c + ptrc_c --> 5mta_c + h_c + spmd_c,,999999.0,{'c'},BSU37500
+PTPATi,Pantetheine-phosphate adenylyltransferase,atp_c + h_c + pan4p_c <=> dpcoa_c + ppi_c,-999999.0,999999.0,{'c'},BSU15020
+PYK,Pyruvate kinase,adp_c + h_c + pep_c --> atp_c + pyr_c,,999999.0,{'c'},BSU29180
+PUNP5,Purine-nucleoside phosphorylase (Inosine),ins_c + pi_c <=> hxan_c + r1p_c,-999999.0,999999.0,{'c'},BSU23490 or BSU19630
+PUNP6,Purine-nucleoside phosphorylase (Deoxyinosine),din_c + pi_c <=> 2dr1p_c + hxan_c,-999999.0,999999.0,{'c'},BSU19630 or BSU23490
+PURabc1,Puromycin efflux  via ABC system,atp_c + h2o_c + pur_c --> adp_c + h_c + pi_c + pur_e,,999999.0,"{'e', 'c'}",BSU03070
+PYRIS,Pyridoxal 5  phsophate synthase,g3p_c + gln__L_c + r5p_c --> pydx5p_c + unk2_BS_c,,999999.0,{'c'},BSU00110 and BSU00120
+OIVD1r,2-oxoisovalerate dehydrogenase (acylating; 4-methyl-2-oxopentaoate),4mop_c + coa_c + nad_c <=> co2_c + ivcoa_c + nadh_c,-999999.0,999999.0,{'c'},BSU24050 and BSU24040 and BSU24030 and BSU24060
+EX_f6p_e,D-fructose 6-phosphate exchange,f6p_e --> ,,999999.0,{'e'},
+SSALy,Succinate-semialdehyde dehydrogenase (NADP),h2o_c + nadp_c + sucsal_c --> 2.0 h_c + nadph_c + succ_c,,999999.0,{'c'},BSU03910
+SUCBZL,O-succinylbenzoate-CoA ligase,atp_c + coa_c + sucbz_c --> amp_c + ppi_c + sbzcoa_c,,999999.0,{'c'},BSU30790
+SUCBZS,O-succinylbenzoate-CoA synthase,2shchc_c --> h2o_c + sucbz_c,,999999.0,{'c'},BSU30780
+TGBPA,Tagatose-bisphosphate aldolase,tagdp__D_c <=> dhap_c + g3p_c,-999999.0,999999.0,{'c'},
+SUCD1,Succinate dehydrogenase,fad_c + succ_c <=> fadh2_c + fum_c,-999999.0,999999.0,{'c'},BSU28450 and BSU28440 and BSU28430
+OIVD2,2-oxoisovalerate dehydrogenase (acylating; 3-methyl-2-oxobutanoate),3mob_c + coa_c + nad_c --> co2_c + ibcoa_c + nadh_c,,999999.0,{'c'},BSU24050 and BSU24040 and BSU24030 and BSU24060
+SUCD5_BS,Succinate dehydrogenase,fadh2_c + 2.0 h_e + mqn7_c --> fad_c + 2.0 h_c + mql7_c,,999999.0,"{'e', 'c'}",BSU28450 and BSU28440 and BSU28430
+SUCOAS,Succinyl-CoA synthetase (ADP-forming),atp_c + coa_c + succ_c <=> adp_c + pi_c + succoa_c,-999999.0,999999.0,{'c'},BSU16090 and BSU16100
+THIOGabc,Thioglycolate transport via ABC system,atp_c + h2o_c + thiog_e --> adp_c + h_c + pi_c + thiog_c,,999999.0,"{'e', 'c'}",
+THMt6,Thymine transport inout via proton symport,h_e + thym_e <=> h_c + thym_c,-999999.0,999999.0,"{'e', 'c'}",
+OIVD3,2-oxoisovalerate dehydrogenase (acylating; 3-methyl-2-oxopentanoate),3mop_c + coa_c + nad_c --> 2mbcoa_c + co2_c + nadh_c,,999999.0,{'c'},BSU24050 and BSU24040 and BSU24030 and BSU24060
+THRt2r,L threonine reversible transport via proton symport,h_e + thr__L_e --> h_c + thr__L_c,,999999.0,"{'e', 'c'}",
+P5CR,Pyrroline-5-carboxylate reductase,1pyr5c_c + 2.0 h_c + nadph_c --> nadp_c + pro__L_c,,999999.0,{'c'},BSU12910 or BSU18480 or BSU23800
+TMPHi,Trimetaphosphate hydrolase,h2o_c + tmp_c --> h_c + pppi_c,,999999.0,{'c'},
+UREAt,Urea transport via facilitate diffusion,urea_e <=> urea_c,-999999.0,999999.0,"{'e', 'c'}",
+TMPt6,TMP transport inout via proton symport,h_e + tmp_e <=> h_c + tmp_c,-999999.0,999999.0,"{'e', 'c'}",
+OXADC,Oxalate decarboxylase,h_c + oxa_c --> co2_c + for_c,,999999.0,{'c'},BSU33240 or BSU18670
+TYRt2r,L tyrosine reversible transport via proton symport,h_e + tyr__L_e <=> h_c + tyr__L_c,-999999.0,999999.0,"{'e', 'c'}",
+UGLYCH,Ureidoglycolate hydrolase,h2o_c + 2.0 h_c + urdglyc_c <=> co2_c + glx_c + 2.0 nh4_c,-999999.0,999999.0,{'c'},
+UMPt6,UMP transport in via proton symport,h_e + ump_e <=> h_c + ump_c,-999999.0,999999.0,"{'e', 'c'}",
+SULAabc,Sulfoacetate transport via ABC system,atp_c + h2o_c + sula_e --> adp_c + h_c + pi_c + sula_c,,999999.0,"{'e', 'c'}",BSU08840 and BSU08830 and BSU08850
+TAURabc,Taurine transport via ABC system,atp_c + h2o_c + taur_e --> adp_c + h_c + pi_c + taur_c,,999999.0,"{'e', 'c'}",BSU08840 and BSU08830 and BSU08850
+TRPAS1,Tryptophanase  L cysteine,cys__L_c + h2o_c --> h2s_c + h_c + nh4_c + pyr_c,,999999.0,{'c'},BSU27250
+THMDt2,Thymidine transport in via proton symport,h_e + thymd_e --> h_c + thymd_c,,999999.0,"{'e', 'c'}",BSU39020 or BSU39410 or BSU32180
+TMDK1,Thymidine kinase (ATP:thymidine),atp_c + thymd_c --> adp_c + dtmp_c + h_c,,999999.0,{'c'},BSU37060
+TMDPP,Thymidine phosphorylase,pi_c + thymd_c <=> 2dr1p_c + thym_c,-999999.0,999999.0,{'c'},BSU39400
+UAGDP,UDP-N-acetylglucosamine diphosphorylase,acgam1p_c + h_c + utp_c <=> ppi_c + uacgam_c,-999999.0,999999.0,{'c'},BSU00500
+TARTDC,Tartrate decarboxylase,h_c + tartr__L_c --> co2_c + glyc__R_c,,999999.0,{'c'},BSU04000
+TYRTA,Tyrosine transaminase,akg_c + tyr__L_c <=> 34hpp_c + glu__L_c,-999999.0,999999.0,{'c'},BSU22620 or BSU34890
+TECA1S45,Glycerol teichoic acid  n45   unlinked  unsubstituted,45.0 cdpglyc_c + uacgam_c + uacmam_c --> 45.0 cmp_c + gtca1_45_BS_c + 46.0 h_c + udp_c + ump_c,,999999.0,{'c'},BSU35750 and BSU35760 and BSU35720 and BSU35710 and BSU35700 and BSU35530
+TARTRDH,Tartrate dehydrogenase,nad_c + tartr__L_c <=> h_c + nadh_c + oxglyc_c,-999999.0,999999.0,{'c'},BSU04000
+TAGURr,Tagaturonate reductase,altrn_c + nad_c <=> h_c + nadh_c + tagur_c,-999999.0,999999.0,{'c'},BSU12380
+SULR_1,Sulfite reductase  NADPH2,3.0 h2o_c + h2s_c + 3.0 nadp_c <=> 4.0 h_c + 3.0 nadph_c + so3_c,-999999.0,999999.0,{'c'},BSU33430 or BSU33440
+TALA,Transaldolase,g3p_c + s7p_c <=> e4p_c + f6p_c,-999999.0,999999.0,{'c'},BSU37110
+THRD,L-threonine dehydrogenase,nad_c + thr__L_c --> 2aobut_c + h_c + nadh_c,,999999.0,{'c'},BSU16990
+TECA4S_BS,Minor teichoic acid synthesis  n30,30.0 h2o_c + 30.0 uacgala_c + 30.0 udpg_c --> 60.0 h_c + tcam_BS_c + 30.0 udp_c + 30.0 ump_c,,999999.0,{'c'},BSU35690 and BSU35680
+TEICH45,Teichuronic acid  n45   unlinked  GalNAc GlcA repeated,45.0 uacgala_c + 45.0 udpglcur_c <=> 45.0 h_c + teich_45_BS_c + 45.0 udp_c + 45.0 ump_c,-999999.0,999999.0,{'c'},BSU35609 and BSU35600 and BSU35590 and BSU35570 and BSU35550 and BSU35540
+THRD_L,L-threonine deaminase,thr__L_c --> 2obut_c + nh4_c,,999999.0,{'c'},BSU21770
+THRS,Threonine synthase,h2o_c + phom_c --> pi_c + thr__L_c,,999999.0,{'c'},BSU32250
+TKT1,Transketolase,r5p_c + xu5p__D_c <=> g3p_c + s7p_c,-999999.0,999999.0,{'c'},BSU17890
+TKT2,Transketolase,e4p_c + xu5p__D_c <=> f6p_c + g3p_c,-999999.0,999999.0,{'c'},BSU17890
+TMN,Thiaminase,h2o_c + thm_c --> 4ahmmp_c + 4mhetz_c + h_c,,999999.0,{'c'},BSU11650
+TMDS,Thymidylate synthase,dump_c + mlthf_c --> dhf_c + dtmp_c,,999999.0,{'c'},BSU17680 or BSU21820
+TMPK,Thiamine-phosphate kinase,atp_c + thmmp_c --> adp_c + thmpp_c,,999999.0,{'c'},BSU05900
+TMPPP,Thiamine-phosphate diphosphorylase,2mahmp_c + 4mpetz_c + h_c --> ppi_c + thmmp_c,,999999.0,{'c'},BSU38290
+TPI,Triose-phosphate isomerase,dhap_c <=> g3p_c,-999999.0,999999.0,{'c'},BSU33920
+TRDR,Thioredoxin reductase (NADPH),h_c + nadph_c + trdox_c --> nadp_c + trdrd_c,,999999.0,{'c'},BSU34790 or BSU32110 or BSU03270
+TRE6PH,Trehalose-6-phosphate hydrolase,h2o_c + tre6p_c --> g6p_c + glc__D_c,,999999.0,{'c'},BSU07810
+TRPt2r,L tryptophan reversible transport via proton symport,h_e + trp__L_e --> h_c + trp__L_c,,999999.0,"{'e', 'c'}",BSU10010
+TRPS1,Tryptophan synthase (indoleglycerol phosphate),3ig3p_c + ser__L_c --> g3p_c + h2o_c + trp__L_c,,999999.0,{'c'},BSU22640 and BSU22630
+UAAGDS,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate synthetase",26dap__M_c + atp_c + uamag_c --> adp_c + h_c + pi_c + ugmd_c,,999999.0,{'c'},BSU15180
+UAG2E,UDP-N-acetylglucosamine 2-epimerase,uacgam_c <=> uacmam_c,-999999.0,999999.0,{'c'},BSU35660
+UAG2EMA,UDP-N-acetyl-D-glucosamine 2-epimerase (Hydrolysis),h2o_c + uacgam_c <=> acmana_c + h_c + udp_c,-999999.0,999999.0,{'c'},BSU35660
+UDPG4E,UDPglucose 4-epimerase,udpg_c <=> udpgal_c,-999999.0,999999.0,{'c'},BSU38860
+UAGPT3,UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,uacgam_c + uagmda_c --> h_c + uaagmda_c + udp_c,,999999.0,{'c'},BSU15220
+UAG4E,UDP N acetylglucosamine 4 epimerase,uacgam_c --> uacgala_c,,999999.0,{'c'},BSU30870 or BSU38860
+UAGCVT,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,pep_c + uacgam_c --> pi_c + uaccg_c,,999999.0,{'c'},BSU36760 or BSU37100
+UAMAGS,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase,atp_c + glu__D_c + uama_c --> adp_c + h_c + pi_c + uamag_c,,999999.0,{'c'},BSU15200
+UAMAS,UDP-N-acetylmuramoyl-L-alanine synthetase,ala__L_c + atp_c + uamr_c --> adp_c + h_c + pi_c + uama_c,,999999.0,{'c'},BSU29790
+UAPGR,UDP-N-acetylenolpyruvoylglucosamine reductase,h_c + nadph_c + uaccg_c --> nadp_c + uamr_c,,999999.0,{'c'},BSU15230
+UDCPDP,Undecaprenyl-diphosphatase,h2o_c + udcpdp_c --> h_c + pi_c + udcpp_c,,999999.0,{'c'},BSU31150
+UDPGD,UDPglucose 6-dehydrogenase,h2o_c + 2.0 nad_c + udpg_c <=> 3.0 h_c + 2.0 nadh_c + udpglcur_c,-999999.0,999999.0,{'c'},BSU35580
+UGMDDS,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimeloyl-D-alanyl-D-alanine synthetase",alaala_c + atp_c + ugmd_c --> adp_c + h_c + pi_c + ugmda_c,,999999.0,{'c'},BSU04570
+UGT1_BS,UDP glucosyltransferase  monoglucosyl,0.01 12dgr_BS_c + udpg_c --> h_c + 0.01 m12dg_BS_c + udp_c,,999999.0,{'c'},BSU21920
+UGT2_BS,UDP glucosyltransferase  triglucosyl,0.01 12dgr_BS_c + 3.0 udpg_c --> 3.0 h_c + 0.01 t12dg_BS_c + 3.0 udp_c,,999999.0,{'c'},BSU21920
+UGT_BS,UDP glucosyltransferase  diglucosyl,0.01 12dgr_BS_c + 2.0 udpg_c --> 0.01 d12dg_BS_c + 2.0 h_c + 2.0 udp_c,,999999.0,{'c'},BSU21920
+UNK5,2 keto 4 methylthiobutyrate transamination,2kmb_c + asp__L_c --> met__L_c + oaa_c,,999999.0,{'c'},BSU13580
+UPP3S,Uroporphyrinogen-III synthase,hmbil_c --> h2o_c + uppg3_c,,999999.0,{'c'},BSU28140
+UPP3MT_2,Uroporphyrinogen methyltransferase,2.0 amet_c + uppg3_c --> 2.0 ahcys_c + 2.0 h_c + shcl_c,,999999.0,{'c'},BSU03280 or BSU15610
+ALDD9,Aldehyde dehydrogenase  nonanal  NAD,h2o_c + nad_c + nonal_c --> 2.0 h_c + nadh_c + nona_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+FRUpts,D-fructose transport via PEP:Pyr PTS,fru_e + pep_c --> f1p_c + pyr_c,,999999.0,"{'e', 'c'}",(BSU27070 and BSU27060 and BSU27050 and BSU27040 and BSU13900 and BSU13910) or (BSU14400 and BSU13900 and BSU13910)
+CYTDt2,Cytidine transport in via proton symport,cytd_e + h_e --> cytd_c + h_c,,999999.0,"{'e', 'c'}",BSU39020 or BSU39410 or BSU32180
+GLYBabc,Glycine betaine transport via ABC system,atp_c + glyb_e + h2o_c --> adp_c + glyb_c + h_c + pi_c,,999999.0,"{'e', 'c'}",(BSU02980 and BSU02990 and BSU03000) or (BSU33830 and BSU33820 and BSU33810 and BSU33800)
+ACLS,Acetolactate synthase,h_c + 2.0 pyr_c --> alac__S_c + co2_c,,999999.0,{'c'},(BSU28310 and BSU28300) or BSU36010
+ACHBS,2-aceto-2-hydroxybutanoate synthase,2obut_c + h_c + pyr_c --> 2ahbut_c + co2_c,,999999.0,{'c'},BSU36010 or (BSU28310 and BSU28300)
+X00002,Lumped reaction for synthesis of pime,2.0 h2o_c + h_c + oaa_c + pyr_c --> 3.0 o2_c + pime_c,,999999.0,{'c'},
+NTD8,5'-nucleotidase (dGMP),dgmp_c + h2o_c --> dgsn_c + pi_c,,999999.0,{'c'},BSU07840
+23CN2P1,2  3  cyclic nucleotide 2  phosphodiesterase  2  3  cyclc AMP,23camp_c + h2o_c <=> 3amp_c + h_c,-999999.0,999999.0,{'c'},BSU07840
+23CN2P2,2  3  cyclic nucleotide 2  phosphodiesterase  2  3  cyclic UMP,23cump_c + h2o_c <=> 3ump_c + h_c,-999999.0,999999.0,{'c'},BSU07840
+23CN2P3,2  3  cyclic nucleotide 2  phosphodiesterase  2  3  cyclic CMP,23ccmp_c + h2o_c <=> 3cmp_c + h_c,-999999.0,999999.0,{'c'},BSU07840
+23CN2P4,2  3  cyclic nucleotide 2  phosphodiesterase  2  3   cyclic GMP,23cgmp_c + h2o_c <=> 3gmp_c + h_c,-999999.0,999999.0,{'c'},BSU07840
+NTD6,5'-nucleotidase (dAMP),damp_c + h2o_c --> dad_2_c + pi_c,,999999.0,{'c'},BSU07840
+NTD9,5'-nucleotidase (GMP),gmp_c + h2o_c --> gsn_c + pi_c,,999999.0,{'c'},BSU07840
+NTD1,5'-nucleotidase (dUMP),dump_c + h2o_c --> duri_c + pi_c,,999999.0,{'c'},BSU07840
+NTD10,5'-nucleotidase (XMP),h2o_c + xmp_c --> pi_c + xtsn_c,,999999.0,{'c'},BSU07840
+NTD2,5'-nucleotidase (UMP),h2o_c + ump_c --> pi_c + uri_c,,999999.0,{'c'},BSU07840
+3NUCLE1,3  nucleotidase  3  AMP,3amp_c + h2o_c <=> adn_c + pi_c,-999999.0,999999.0,{'c'},BSU07840
+3NUCLE2,3  nucleotidase  3  UMP,3ump_c + h2o_c <=> pi_c + uri_c,-999999.0,999999.0,{'c'},BSU07840
+3NUCLE3,3  nucleotidase  3  cMP,3cmp_c + h2o_c <=> cytd_c + pi_c,-999999.0,999999.0,{'c'},BSU07840
+3NUCLE4,3  nucleotidase  guanosine 3  phosphate,3gmp_c + h2o_c <=> gsn_c + pi_c,-999999.0,999999.0,{'c'},BSU07840
+NTD3,5'-nucleotidase (dCMP),dcmp_c + h2o_c --> dcyt_c + pi_c,,999999.0,{'c'},BSU07840
+NTD4,5'-nucleotidase (CMP),cmp_c + h2o_c --> cytd_c + pi_c,,999999.0,{'c'},BSU07840
+NTD5,5'-nucleotidase (dTMP),dtmp_c + h2o_c --> pi_c + thymd_c,,999999.0,{'c'},BSU07840
+NTD7,5'-nucleotidase (AMP),amp_c + h2o_c --> adn_c + pi_c,,999999.0,{'c'},BSU07840
+ABUTt2r,4 aminobutyrate reversible transport in via proton symport,4abut_e + h_e --> 4abut_c + h_c,,999999.0,"{'e', 'c'}",BSU06310
+BALAt2r,Beta Alanine transport in via proton symport,ala_B_e + h_e --> ala_B_c + h_c,,999999.0,"{'e', 'c'}",BSU06310
+S6PG,Salicin 6 phosphate glucohydrolase,h2o_c + salcn6p_c --> 2hxmp_c + g6p_c,,999999.0,{'c'},BSU38560 or BSU40110
+URIK3,Uridine kinase (ITP:Uridine),itp_c + uri_c --> h_c + idp_c + ump_c,,999999.0,{'c'},BSU27330
+LCADi,Lactaldehyde dehydrogenase,h2o_c + lald__L_c + nad_c --> 2.0 h_c + lac__L_c + nadh_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+XTSNt2,Xanthosine transport in via proton symport,h_e + xtsn_e <=> h_c + xtsn_c,-999999.0,999999.0,"{'e', 'c'}",BSU38710
+XYLt2,D-xylose transport in via proton symport,h_e + xyl__D_e --> h_c + xyl__D_c,,999999.0,"{'e', 'c'}",BSU33960
+ZN2t4,Zinc transport out via antiport,h_e + k_e + zn2_c --> h_c + k_c + zn2_e,,999999.0,"{'e', 'c'}",BSU26650
+URIK1,Uridine kinase  ATPUridine,atp_c + uri_c --> adp_c + h_c + ump_c,,999999.0,{'c'},BSU27330
+URIK2,Uridine kinase (GTP:Uridine),gtp_c + uri_c --> gdp_c + h_c + ump_c,,999999.0,{'c'},BSU27330
+URIt2,Uridine transport in via proton symport,h_e + uri_e --> h_c + uri_c,,999999.0,"{'e', 'c'}",BSU39410 or BSU32180 or BSU39020
+UPPRT,Uracil phosphoribosyltransferase,prpp_c + ura_c --> ppi_c + ump_c,,999999.0,{'c'},BSU36890
+XPPT,Xanthine phosphoribosyltransferase,prpp_c + xan_c --> ppi_c + xmp_c,,999999.0,{'c'},BSU22070
+HXAND,Hypoxanthine dehydrogenase,h2o_c + hxan_c + nad_c --> h_c + nadh_c + xan_c,,999999.0,{'c'},BSU32490 or BSU32470 or BSU32510 or BSU32480 or BSU32500
+URIDK2r_copy2,Uridylate kinase (dUMP),atp_c + dump_c <=> adp_c + dudp_c,-999999.0,999999.0,{'c'},BSU00280
+VALDHr,Valine dehydrogenase,h2o_c + nad_c + val__L_c <=> 3mob_c + h_c + nadh_c + nh4_c,-999999.0,999999.0,{'c'},BSU24080
+VALTA,Valine transaminase,akg_c + val__L_c <=> 3mob_c + glu__L_c,-999999.0,999999.0,{'c'},BSU38550 or BSU02390
+VALt2r,L valine reversible transport via proton symport,h_e + val__L_e --> h_c + val__L_c,,999999.0,"{'e', 'c'}",BSU26690 or (BSU26710 and BSU26700) or BSU29600
+UMPK,UMP kinase,atp_c + ump_c --> adp_c + udp_c,,999999.0,{'c'},BSU22890 or BSU16510
+XYL14BASE,Xylan 1 4 beta xylosidase,14bxyl_c + h2o_c --> xyl__D_c,,999999.0,{'c'},BSU28510
+UPPDC1,Uroporphyrinogen decarboxylase (uroporphyrinogen III),4.0 h_c + uppg3_c --> 4.0 co2_c + cpppg3_c,,999999.0,{'c'},BSU10120
+URAt2,Uracil transport in via proton symport,h_e + ura_e <=> h_c + ura_c,-999999.0,999999.0,"{'e', 'c'}",BSU15480 or BSU36470
+URCN,Urocanase,h2o_c + urcan_c --> 4izp_c,,999999.0,{'c'},BSU39360
+URIDK2r_copy1,Uridylate kinase (dUMP),atp_c + dump_c --> adp_c + dudp_c,,999999.0,{'c'},BSU22890 or BSU16510
+UREA,Urease,h2o_c + 2.0 h_c + urea_c --> co2_c + 2.0 nh4_c,,999999.0,{'c'},BSU36660 and BSU36650 and BSU36640
+XAND,Xanthine dehydrogenase,h2o_c + nad_c + xan_c --> h_c + nadh_c + urate_c,,999999.0,{'c'},BSU32500 or BSU32470 or BSU32490 or BSU32510 or BSU32480
+URIC,Uricase,2.0 h2o_c + o2_c + urate_c --> alltn_c + co2_c + h2o2_c,,999999.0,{'c'},BSU32450 or BSU32460
+XYLI1,Xylose isomerase,xyl__D_c <=> xylu__D_c,-999999.0,999999.0,{'c'},BSU17600
+XANt2,Xanthine transport in via proton symport,h_e + xan_e <=> h_c + xan_c,-999999.0,999999.0,"{'e', 'c'}",BSU22060
+XYLI2,Xylose isomerase,glc__D_c <=> fru_c,-999999.0,999999.0,{'c'},BSU17600
+XYLK,Xylulokinase,atp_c + xylu__D_c --> adp_c + h_c + xu5p__D_c,,999999.0,{'c'},BSU17610
+ZNabc,Zinc transport via ABC system,atp_c + h2o_c + zn2_e --> adp_c + h_c + pi_c + zn2_c,,999999.0,"{'e', 'c'}",BSU02850 and BSU02860 and BSU02870
+ALDD10,Aldehyde dehydrogenase  decanal  NAD,dcal_c + h2o_c + nad_c --> dca_c + 2.0 h_c + nadh_c,,999999.0,{'c'},BSU39860 or BSU19310 or BSU38830
+ALDD11,Aldehyde dehydrogenase  undecanal  NAD,h2o_c + nad_c + udcal_c --> 2.0 h_c + nadh_c + udca_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+ALDD12,Aldehyde dehydrogenase  dodecanal  NAD,ddcal_c + h2o_c + nad_c --> ddca_c + 2.0 h_c + nadh_c,,999999.0,{'c'},BSU39860 or BSU19310 or BSU38830
+ALDD13,Aldehyde dehydrogenase  tridecanal  NAD,h2o_c + nad_c + trdcal_c --> 2.0 h_c + nadh_c + trdca_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+ALDD14,Aldehyde dehydrogenase  tetradecanal  NAD,h2o_c + nad_c + ttdcal_c --> 2.0 h_c + nadh_c + ttdca_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+ALDD15,Aldehyde dehydrogenase  pentadecanal  NAD,h2o_c + nad_c + ptdcal_c --> 2.0 h_c + nadh_c + ptdca_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+ALDD16,Aldehyde dehydrogenase  hexadecanal  NAD,h2o_c + hxdcal_c + nad_c --> 2.0 h_c + hdca_c + nadh_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+ALDD17,Aldehyde dehydrogenase  heptadecanal  NAD,h2o_c + hpdcal_c + nad_c --> 2.0 h_c + hpdca_c + nadh_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+ALDD18,Aldehyde dehydrogenase  octadecanal  NAD,h2o_c + nad_c + ocdcal_c --> 2.0 h_c + nadh_c + ocdca_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+ALDD1,Aldehyde dehydrogenase  formaldehyde  NAD,fald_c + h2o_c + nad_c --> for_c + 2.0 h_c + nadh_c,,999999.0,{'c'},BSU38830 or BSU39860 or BSU19310
+ALDD20x_1,Aldehyde dehydrogenase  NAD,h2o_c + imzacd_c + nad_c --> 2.0 h_c + imzac_c + nadh_c,,999999.0,{'c'},BSU19310 or BSU39860 or BSU38830
+ALDD2x,"Aldehyde dehydrogenase (acetaldehyde, NAD)",acald_c + h2o_c + nad_c --> ac_c + 2.0 h_c + nadh_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+ALDD3,Aldehyde dehydrogenase  propanal  NAD,h2o_c + nad_c + ppal_c --> 2.0 h_c + nadh_c + ppa_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+GLXO1,Glyoxylate oxidase,glx_c + h2o_c + nad_c --> 2.0 h_c + nadh_c + oxa_c,,999999.0,{'c'},BSU19310 or BSU38830 or BSU39860
+ALDD31_1,Aldehyde dehydrogenase  aminoacetaldehyde  NAD,amacald_c + h2o_c + nad_c --> gly_c + h_c + nadh_c,,999999.0,{'c'},BSU38830 or BSU39860 or BSU19310
+ALDD32,Aldehyde dehydrogenase  D Glucuronolactone  NADH,glcurn_c + 2.0 h2o_c + nad_c --> glcr_c + 3.0 h_c + nadh_c,,999999.0,{'c'},BSU39860 or BSU19310 or BSU38830
+ALDD4,"Aldehyde dehydrogenase (butanal, NAD)",btal_c + h2o_c + nad_c --> but_c + 2.0 h_c + nadh_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+ALDD4x,Aldehyde dehydrogenase  methylmalonate semialdehyde  NAD,h2o_c + mmalsa__S_c + nad_c --> 2.0 h_c + mmal_c + nadh_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+ALDD5,Aldehyde dehydrogenase  pentanal  NAD,h2o_c + nad_c + ptal_c --> 2.0 h_c + nadh_c + pta_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+ALDD6,Aldehyde dehydrogenase  hexanal  NAD,h2o_c + hxal_c + nad_c --> 2.0 h_c + hxa_c + nadh_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+ALDD7,Aldehyde dehydrogenase  heptanal  NAD,h2o_c + hpal_c + nad_c --> 2.0 h_c + hpa_c + nadh_c,,999999.0,{'c'},BSU39860 or BSU38830 or BSU19310
+ALDD8,Aldehyde dehydrogenase  octanal  NAD,h2o_c + nad_c + octal_c --> 2.0 h_c + nadh_c + octa_c,,999999.0,{'c'},BSU39860 or BSU19310 or BSU38830
+GLYALDDr,D-Glyceraldehyde dehydrogenase,glyald_c + h2o_c + nad_c --> glyc__R_c + 2.0 h_c + nadh_c,,999999.0,{'c'},BSU38830 or BSU19310 or BSU39860
+DIPEPabc12,Dipeptide transport via ABC system  met ala,atp_c + h2o_c + met_L_ala__L_e --> adp_c + h_c + met_L_ala__L_c + pi_c,,999999.0,"{'e', 'c'}",BSU12930 and BSU12940 and BSU12950 and BSU12960
+DIPEPabc13,Dipeptide transport via ABC system  gly asp,atp_c + gly_asp__L_e + h2o_c --> adp_c + gly_asp__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU12930 and BSU12940 and BSU12950 and BSU12960
+DIPEPabc14,Dipeptide transport via ABC system  gly pro L,atp_c + gly_pro__L_e + h2o_c --> adp_c + gly_pro__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU12930 and BSU12940 and BSU12950 and BSU12960
+DIPEPabc15,Dipeptide transport via ABC system  cgly,atp_c + cgly_e + h2o_c --> adp_c + cgly_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU12930 and BSU12940 and BSU12950 and BSU12960
+DIPEPabc2,Dipeptide transport via ABC system  ala gln,ala_L_gln__L_e + atp_c + h2o_c --> adp_c + ala_L_gln__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU12930 and BSU12940 and BSU12950 and BSU12960
+DIPEPabc3,Dipeptide transport via ABC system  ala glu,ala_L_glu__L_e + atp_c + h2o_c --> adp_c + ala_L_glu__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU12930 and BSU12940 and BSU12950 and BSU12960
+DIPEPabc4,Dipeptide transport via ABC system  ala gly,L_alagly_e + atp_c + h2o_c --> L_alagly_c + adp_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU12930 and BSU12940 and BSU12950 and BSU12960
+DIPEPabc5,Dipeptide transport via ABC system  ala his,ala_L_his__L_e + atp_c + h2o_c --> adp_c + ala_L_his__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU12930 and BSU12940 and BSU12950 and BSU12960
+DIPEPabc6,Dipeptide transport via ABC system  ala leu,ala_L_leu__L_e + atp_c + h2o_c --> adp_c + ala_L_leu__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU12930 and BSU12940 and BSU12950 and BSU12960
+DIPEPabc7,Dipeptide transport via ABC system  ala thr,ala_L_Thr__L_e + atp_c + h2o_c --> adp_c + ala_L_Thr__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU12930 and BSU12940 and BSU12950 and BSU12960
+DIPEPabc8,Dipeptide transport via ABC system  gly asn,atp_c + gly_asn__L_e + h2o_c --> adp_c + gly_asn__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU12930 and BSU12940 and BSU12950 and BSU12960
+DIPEPabc9,Dipeptide transport via ABC system  gly gln,atp_c + gly_gln__L_e + h2o_c --> adp_c + gly_gln__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU12930 and BSU12940 and BSU12950 and BSU12960
+RIBabc1,D ribose transport out via ABC system,atp_c + h2o_c + rib__D_c --> adp_c + h_c + pi_c + rib__D_e,,999999.0,"{'e', 'c'}",BSU35940 and BSU35960 and BSU35950 and BSU35930
+FRUK,Fructose-1-phosphate kinase,atp_c + f1p_c --> adp_c + fdp_c + h_c,,999999.0,{'c'},BSU14390
+FACOAL140,Fatty acid  CoA ligase  tetradecanoate,atp_c + coa_c + ttdca_c <=> amp_c + ppi_c + tdcoa_c,-999999.0,999999.0,{'c'},BSU10360 or BSU10270 or BSU18250 or BSU28560
+FACOAL140_ISO,Fatty acid  CoA ligase  Iso C140,atp_c + coa_c + fa1_c <=> amp_c + fa1coa_c + ppi_c,-999999.0,999999.0,{'c'},BSU18250 or BSU10360 or BSU28560 or BSU10270
+FACOAL150_ISO,Fatty acid  CoA ligase  Iso C150,atp_c + coa_c + fa3_c <=> amp_c + fa3coa_c + ppi_c,-999999.0,999999.0,{'c'},BSU10360 or BSU18250 or BSU28560 or BSU10270
+PPAKr,Propionate kinase,adp_c + ppap_c <=> atp_c + ppa_c,-999999.0,999999.0,{'c'},BSU29470
+ACOAD3,Acyl-CoA dehydrogenase (octanoyl-CoA),nad_c + occoa_c <=> h_c + nadh_c + oc2coa_c,-999999.0,999999.0,{'c'},BSU24150 or BSU37170
+ACOAD4_1,Acyl CoA dehydrogenase  decanoyl CoA,dccoa_c + nad_c <=> dc2coa_c + h_c + nadh_c,-999999.0,999999.0,{'c'},BSU37170 or BSU24150
+ACOAD5_1,Acyl CoA dehydrogenase  dodecanoyl CoA,ddcoa_c + nad_c <=> h_c + nadh_c + trans_dd2coa_c,-999999.0,999999.0,{'c'},BSU24150 or BSU37170
+ACOAD6,Acyl-CoA dehydrogenase (tetradecanoyl-CoA),nad_c + tdcoa_c <=> h_c + nadh_c + td2coa_c,-999999.0,999999.0,{'c'},BSU37170 or BSU24150
+ACOAD7,Acyl-CoA dehydrogenase (hexadecanoyl-CoA),nad_c + pmtcoa_c <=> h_c + hdd2coa_c + nadh_c,-999999.0,999999.0,{'c'},BSU24150 or BSU37170
+DADNK,Deoxyadenosine kinase,atp_c + dad_2_c --> adp_c + damp_c + h_c,,999999.0,{'c'},BSU00140
+CSNt2,Cytosine transport in via proton symport,csn_e + h_e --> csn_c + h_c,,999999.0,"{'e', 'c'}",BSU38710
+INSt2,Inosine transport in via proton symport,h_e + ins_e <=> h_c + ins_c,-999999.0,999999.0,"{'e', 'c'}",BSU38710
+DHAD3,Dihydroxy acid dehydratase  2 3 dihydroxy 3 methylpentanoate,23dhmp_c --> 2o3mpt_c + h2o_c,,999999.0,{'c'},BSU21870
+CELBpts,Cellobiose transport via PEPPyr PTS,cellb_e + pep_c --> 6pgg_c + pyr_c,,999999.0,"{'e', 'c'}",(BSU13900 and BSU13910 and BSU38390) or (BSU13900 and BSU13910 and BSU05810 and BSU05820 and BSU05830) or (BSU38570 and BSU38590 and BSU38580 and BSU13900 and BSU13910)
+MSO3abc,Methanesulfonate transport via ABC system,atp_c + h2o_c + mso3_e --> adp_c + h_c + mso3_c + pi_c,,999999.0,"{'e', 'c'}",BSU08840 and BSU08830 and BSU08850
+ISTNTabc,Isethionate transport via ABC system,atp_c + h2o_c + istnt_e --> adp_c + h_c + istnt_c + pi_c,,999999.0,"{'e', 'c'}",BSU08840 and BSU08830 and BSU08850
+CTBTabc,Crotonobetaine transport in via ABC system,atp_c + ctbt_e + h2o_c --> adp_c + ctbt_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU33830 and BSU33820 and BSU33810 and BSU33800
+CHLabc,Choline transport via ABC system,atp_c + chol_e + h2o_c --> adp_c + chol_c + h_c + pi_c,,999999.0,"{'e', 'c'}",(BSU33730 and BSU33720 and BSU33710 and BSU33700) or (BSU33830 and BSU33820 and BSU33810 and BSU33800)
+CITt15,Citrate transport in via Zn complex,cit_e + h_e + zn2_e --> cit_c + h_c + zn2_c,,999999.0,"{'e', 'c'}",BSU07610
+CHOLSabc_1,Choline sulfate transport in via ABC system,atp_c + chols_e + h2o_c --> adp_c + chols_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU33830 and BSU33820 and BSU33810 and BSU33800
+ECTOINEabc,Ecotine transport in via ABC system,atp_c + ectoine_e + h2o_c --> adp_c + ectoine_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU33830 and BSU33820 and BSU33810 and BSU33800
+ITCY,ITP:cytidine 5'-phosphotransferase,cytd_c + itp_c --> cmp_c + h_c + idp_c,,999999.0,{'c'},BSU27330
+PROLBabc,Proline betaine transport in via ABC system,atp_c + h2o_c + prolb_e --> adp_c + h_c + pi_c + prolb_c,,999999.0,"{'e', 'c'}",(BSU02980 and BSU02990 and BSU03000) or (BSU33830 and BSU33820 and BSU33810 and BSU33800)
+GLCpts,D-glucose transport via PEP:Pyr PTS,glc__D_e + pep_c --> g6p_c + pyr_c,,999999.0,"{'e', 'c'}",BSU13890 and BSU13900 and BSU13910
+MANpts,D-mannose transport via PEP:Pyr PTS,man_e + pep_c --> man6p_c + pyr_c,,999999.0,"{'e', 'c'}",BSU12010 and BSU13900 and BSU13910
+MNLpts,Mannitol transport via PEP:Pyr PTS,mnl_e + pep_c --> mnl1p_c + pyr_c,,999999.0,"{'e', 'c'}",BSU03981 and BSU13900 and BSU13910
+DIPEPabc10,Dipeptide transport via ABC system  gly glu,atp_c + gly_glu__L_e + h2o_c --> adp_c + gly_glu__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU12930 and BSU12940 and BSU12950 and BSU12960
+DIPEPabc11,Dipeptide transport via ABC system  gly met,atp_c + gly_met__L_e + h2o_c --> adp_c + gly_met__L_c + h_c + pi_c,,999999.0,"{'e', 'c'}",BSU12930 and BSU12940 and BSU12950 and BSU12960
+SUCpts,Sucrose transport via PEP:Pyr PTS,pep_c + sucr_e --> pyr_c + suc6p_c,,999999.0,"{'e', 'c'}",(BSU13900 and BSU13910 and BSU38050) or (BSU13900 and BSU13910 and BSU01680)
+TREpts,Trehalose transport via PEP:Pyr PTS,pep_c + tre_e --> pyr_c + tre6p_c,,999999.0,"{'e', 'c'}",BSU13900 and BSU13910 and BSU07800
+FERRICHabc,Ferrichrome transport via ABC system,atp_c + ferrich_e + h2o_c --> adp_c + ferrich_c + h_c + pi_c,,999999.0,"{'e', 'c'}",(BSU07520 and BSU07510 and BSU07500 and BSU07490) or (BSU33310 and BSU33290 and BSU33320 and BSU33300) or (BSU03800 and BSU03810 and BSU03820 and BSU03830)
+GPDDA2,Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine),g3pe_c + h2o_c --> etha_c + glyc3p_c + h_c,,999999.0,{'c'},BSU02130
+HACD3,3-hydroxyacyl-CoA dehydrogenase (3-oxooctanoyl-CoA),3oocoa_c + h_c + nadh_c <=> 3hocoa_c + nad_c,-999999.0,999999.0,{'c'},BSU32840
+HACD4,3-hydroxyacyl-CoA dehydrogenase (3-oxodecanoyl-CoA),3odcoa_c + h_c + nadh_c <=> 3hdcoa_c + nad_c,-999999.0,999999.0,{'c'},BSU32840
+HACD5,3-hydroxyacyl-CoA dehydrogenase (3-oxododecanoyl-CoA),3oddcoa_c + h_c + nadh_c <=> 3hddcoa_c + nad_c,-999999.0,999999.0,{'c'},BSU32840
+HACD6,3-hydroxyacyl-CoA dehydrogenase (3-oxotetradecanoyl-CoA),3otdcoa_c + h_c + nadh_c <=> 3htdcoa_c + nad_c,-999999.0,999999.0,{'c'},BSU32840
+HACD7,3-hydroxyacyl-CoA dehydrogenase (3-oxohexadecanoyl-CoA),3ohdcoa_c + h_c + nadh_c <=> 3hhdcoa_c + nad_c,-999999.0,999999.0,{'c'},BSU32840
+HACD9,3 hydroxyacyl CoA dehydrogenase  2 Methylacetoacetyl CoA,3hmbcoa_c + nad_c <=> 2maacoa_c + h_c + nadh_c,-999999.0,999999.0,{'c'},BSU32840
+HACOADr,3 hydroxyacyl CoA dehydrogenase,3hmp_c + nad_c --> h_c + mmalsa__S_c + nadh_c,,999999.0,{'c'},BSU32840
+ICHORS,Isochorismate synthase,chor_c <=> ichor_c,-999999.0,999999.0,{'c'},BSU30830 or BSU31990
+INSCR,Inositol catabolic reactions  lumped,2ins_c + atp_c --> adp_c + dhap_c + 2.0 h_c + msa_c,,999999.0,{'c'},BSU39670 and BSU39750 and BSU39740 and BSU39730 and BSU39720
+FACOAL161_ISO,Fatty acid  CoA ligase  Iso C161,atp_c + coa_c + fa5_c <=> amp_c + fa5coa_c + ppi_c,-999999.0,999999.0,{'c'},BSU28560 or BSU18250 or BSU10270 or BSU10360
+FACOAL170_ISO,Fatty acid  CoA ligase  Iso C170,atp_c + coa_c + fa11_c <=> amp_c + fa11coa_c + ppi_c,-999999.0,999999.0,{'c'},BSU10360 or BSU18250 or BSU10270 or BSU28560
+FACOAL170_anteiso,Fatty acid  CoA ligase  anteiso C170,atp_c + coa_c + fa12_c <=> amp_c + fa12coa_c + ppi_c,-999999.0,999999.0,{'c'},BSU28560 or BSU10270 or BSU10360 or BSU18250
+FACOAL171_ISO,Fatty acid  CoA ligase  Iso C171,atp_c + coa_c + fa9_c <=> amp_c + fa9coa_c + ppi_c,-999999.0,999999.0,{'c'},BSU10270 or BSU10360 or BSU18250 or BSU28560
+FACOAL171_anteiso,Fatty acid  CoA ligase  anteiso C171,atp_c + coa_c + fa10_c <=> amp_c + fa10coa_c + ppi_c,-999999.0,999999.0,{'c'},BSU10270 or BSU10360 or BSU18250 or BSU28560
+FACOAL180_2,Fatty acid  CoA ligase  octadecanoate,atp_c + coa_c + ocdca_c <=> amp_c + ppi_c + strcoa_c,-999999.0,999999.0,{'c'},BSU10270 or BSU10360 or BSU18250 or BSU28560
+FACOAL181,Fatty acid  CoA ligase  octadecenoate,atp_c + coa_c + ocdcea_c <=> amp_c + odecoa_c + ppi_c,-999999.0,999999.0,{'c'},BSU18250 or BSU10270 or BSU10360 or BSU28560
+KAS13,B-ketoacyl synthetase (octadecanoate),accoa_c + 23.0 h_c + 8.0 malcoa_c + 16.0 nadph_c --> 8.0 co2_c + 9.0 coa_c + 7.0 h2o_c + 16.0 nadp_c + ocdca_c,,999999.0,{'c'},(BSU15900 and BSU11340 and BSU15910 and BSU11330 and BSU11720 and BSU04030) or (BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370)
+KAS17,B-ketoacyl synthetase (n-C18:1),accoa_c + 22.0 h_c + 8.0 malcoa_c + 15.0 nadph_c --> 8.0 co2_c + 9.0 coa_c + 7.0 h2o_c + 15.0 nadp_c + ocdcea_c,,999999.0,{'c'},(BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370) or (BSU15900 and BSU11340 and BSU15910 and BSU11330 and BSU11720 and BSU04030)
+FACOAL150_anteiso,Fatty acid  CoA ligase  anteiso C150,atp_c + coa_c + fa4_c <=> amp_c + fa4coa_c + ppi_c,-999999.0,999999.0,{'c'},BSU28560 or BSU18250 or BSU10360 or BSU10270
+FACOAL160,Fatty acid  CoA ligase  hexadecanoate,atp_c + coa_c + hdca_c <=> amp_c + pmtcoa_c + ppi_c,-999999.0,999999.0,{'c'},BSU10270 or BSU10360 or BSU18250 or BSU28560
+FACOAL160_ISO,Fatty acid  CoA ligase  Iso C160,atp_c + coa_c + fa6_c <=> amp_c + fa6coa_c + ppi_c,-999999.0,999999.0,{'c'},BSU10270 or BSU10360 or BSU18250 or BSU28560
+FACOAL161,Fatty acid  CoA ligase  hexadecenoate,atp_c + coa_c + hdcea_c <=> amp_c + hdcoa_c + ppi_c,-999999.0,999999.0,{'c'},BSU28560 or BSU10270 or BSU10360 or BSU18250
+KAS2,B-ketoacyl synthetase (n-C14:0),accoa_c + 17.0 h_c + 6.0 malcoa_c + 12.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + 5.0 h2o_c + 12.0 nadp_c + ttdca_c,,999999.0,{'c'},(BSU15900 and BSU11340 and BSU15910 and BSU11330 and BSU11720 and BSU04030) or (BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370)
+KAS3,B-ketoacyl synthetase (Iso-C15:0),14.0 h_c + ivcoa_c + 5.0 malcoa_c + 10.0 nadph_c --> 5.0 co2_c + 6.0 coa_c + fa3_c + 4.0 h2o_c + 10.0 nadp_c,,999999.0,{'c'},(BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370) or (BSU15900 and BSU11340 and BSU15910 and BSU11330 and BSU11720 and BSU04030)
+KAS4,B-ketoacyl synthetase (Anteiso-C15:0),2mbcoa_c + 14.0 h_c + 5.0 malcoa_c + 10.0 nadph_c --> 5.0 co2_c + 6.0 coa_c + fa4_c + 4.0 h2o_c + 10.0 nadp_c,,999999.0,{'c'},(BSU15900 and BSU11340 and BSU15910 and BSU11330 and BSU11720 and BSU04030) or (BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370)
+KAS5,B-ketoacyl synthetase (Iso-C16:1),16.0 h_c + ibcoa_c + 6.0 malcoa_c + 11.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + fa5_c + 5.0 h2o_c + 11.0 nadp_c,,999999.0,{'c'},(BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370) or (BSU15900 and BSU11340 and BSU15910 and BSU11330 and BSU11720 and BSU04030)
+KAS6,B-ketoacyl synthetase (Iso-C16:0),17.0 h_c + ibcoa_c + 6.0 malcoa_c + 12.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + fa6_c + 5.0 h2o_c + 12.0 nadp_c,,999999.0,{'c'},(BSU15900 and BSU11340 and BSU15910 and BSU11330 and BSU11720 and BSU04030) or (BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370)
+KAS7,B-ketoacyl synthetase (n-C16:1),accoa_c + 19.0 h_c + 7.0 malcoa_c + 13.0 nadph_c --> 7.0 co2_c + 8.0 coa_c + 6.0 h2o_c + hdcea_c + 13.0 nadp_c,,999999.0,{'c'},(BSU15900 and BSU11340 and BSU15910 and BSU11330 and BSU11720 and BSU04030) or (BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370)
+KAS8,"B-ketoacyl synthetase (palmitate, n-C16:0)",accoa_c + 20.0 h_c + 7.0 malcoa_c + 14.0 nadph_c --> 7.0 co2_c + 8.0 coa_c + 6.0 h2o_c + hdca_c + 14.0 nadp_c,,999999.0,{'c'},(BSU15900 and BSU11340 and BSU15910 and BSU11720 and BSU04030) or (BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370)
+KAS9,B-ketoacyl synthetase (Iso-C17:1),16.0 h_c + ivcoa_c + 6.0 malcoa_c + 11.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + fa9_c + 5.0 h2o_c + 11.0 nadp_c,,999999.0,{'c'},(BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370) or (BSU15900 and BSU11340 and BSU15910 and BSU11330 and BSU11720 and BSU04030)
+KAS10,B-ketoacyl synthetase (Anteiso-C17:1),2mbcoa_c + 16.0 h_c + 6.0 malcoa_c + 11.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + fa10_c + 5.0 h2o_c + 11.0 nadp_c,,999999.0,{'c'},(BSU15900 and BSU11340 and BSU15910 and BSU11330 and BSU11720 and BSU04030) or (BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370)
+KAS11,B-ketoacyl synthetase (Iso-C17:0),17.0 h_c + ivcoa_c + 6.0 malcoa_c + 12.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + fa11_c + 5.0 h2o_c + 12.0 nadp_c,,999999.0,{'c'},(BSU15900 and BSU11340 and BSU15910 and BSU11330 and BSU11720 and BSU04030) or (BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370)
+PUNP7,Purine-nucleoside phosphorylase (Xanthosine),pi_c + xtsn_c <=> r1p_c + xan_c,-999999.0,999999.0,{'c'},BSU23490 or BSU19630
+PUNP8,Purine nucleoside phosphorylase  nebularine,h_c + nebari_c + pi_c <=> purine_c + r1p_c,-999999.0,999999.0,{'c'},BSU23490 or BSU19630
+PUNP1,Purine-nucleoside phosphorylase (Adenosine),adn_c + pi_c <=> ade_c + r1p_c,-999999.0,999999.0,{'c'},BSU23490 or BSU19630
+PUNP2,Purine-nucleoside phosphorylase (Deoxyadenosine),dad_2_c + pi_c <=> 2dr1p_c + ade_c,-999999.0,999999.0,{'c'},BSU19630 or BSU23490
+KAS12,B-ketoacyl synthetase (Anteiso-C17:0),2mbcoa_c + 17.0 h_c + 6.0 malcoa_c + 12.0 nadph_c --> 6.0 co2_c + 7.0 coa_c + fa12_c + 5.0 h2o_c + 12.0 nadp_c,,999999.0,{'c'},(BSU15900 and BSU11340 and BSU15910 and BSU11720 and BSU04030) or (BSU15900 and BSU11340 and BSU15910 and BSU10170 and BSU08650 and BSU36370)
+LAAL34,L amino acid ligase  ser trp,atp_c + ser__L_c + trp__L_c --> adp_c + h_c + pi_c + ser_L_trp__L_c,,999999.0,{'c'},BSU37710
+LAAL35,L amino acid ligase  gly gln,atp_c + gln__L_c + gly_c --> adp_c + gly_gln__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+LAAL36,L amino acid ligase  ala gln,ala__L_c + atp_c + gln__L_c --> adp_c + ala_L_gln__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+LAAL37,L amino acid ligase  ser gln,atp_c + gln__L_c + ser__L_c --> adp_c + h_c + pi_c + ser_L_gln__L_c,,999999.0,{'c'},BSU37710
+LAAL38,L amino acid ligase  thr gln,atp_c + gln__L_c + thr__L_c --> adp_c + h_c + pi_c + thr_L_gln__L_c,,999999.0,{'c'},BSU37710
+LAAL39,L amino acid ligase  ala asn,ala__L_c + asn__L_c + atp_c --> adp_c + ala_L_asn__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+PANTS,Pantothenate synthase,ala_B_c + atp_c + pant__R_c --> amp_c + h_c + pnto__R_c + ppi_c,,999999.0,{'c'},BSU22420
+LAAL4,L amino acid ligase  thr gly,atp_c + gly_c + thr__L_c --> L_thrgly_c + adp_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+LAAL40,L amino acid ligase  ala his,ala__L_c + atp_c + his__L_c --> adp_c + ala_L_his__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+LAAL41,L amino acid ligase  ser his,atp_c + his__L_c + ser__L_c --> adp_c + h_c + pi_c + ser_L_his__L_c,,999999.0,{'c'},BSU37710
+LAAL42,L amino acid ligase  met his,atp_c + his__L_c + met__L_c --> adp_c + h_c + met_L_his__L_c + pi_c,,999999.0,{'c'},BSU37710
+PAPPT3,"Phospho-N-acetylmuramoyl-pentapeptide-transferase (meso-2,6-diaminopimelate)",udcpp_c + ugmda_c --> uagmda_c + ump_c,,999999.0,{'c'},BSU15190
+LAAL5,L amino acid ligase  Ala Ala,2.0 ala__L_c + atp_c --> adp_c + diala__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+LAAL6,L amino acid ligase  Ser Ala,ala__L_c + atp_c + ser__L_c --> adp_c + h_c + pi_c + ser_L_ala__L_c,,999999.0,{'c'},BSU37710
+PC,Pyruvate carboxylase,atp_c + hco3_c + pyr_c --> adp_c + h_c + oaa_c + pi_c,,999999.0,{'c'},BSU14860
+LAAL7,L amino acid ligase  Ala Ser,ala__L_c + atp_c + ser__L_c --> adp_c + ala_L_ser__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+LAAL8,L amino acid ligase  Ser Ser,atp_c + 2.0 ser__L_c --> adp_c + h_c + pi_c + ser_L_ser__L_c,,999999.0,{'c'},BSU37710
+LAAL9,L amino acid ligase  Gly Cys,atp_c + cys__L_c + gly_c --> adp_c + gly_cys__L_c + h_c + pi_c,,999999.0,{'c'},BSU37710
+PBUTT,Phosphate butyryltransferase,btcoa_c + pi_c <=> butpi_c + coa_c,-999999.0,999999.0,{'c'},BSU24090 or BSU37660
+MLTG3,Maltodextrin glucosidase (maltopentaose),h2o_c + maltpt_c --> glc__D_c + maltttr_c,,999999.0,{'c'},BSU34560
+MLTG4,Maltodextrin glucosidase (maltohexaose),h2o_c + malthx_c --> glc__D_c + maltpt_c,,999999.0,{'c'},BSU34560
+PDH,Pyruvate dehydrogenase,coa_c + nad_c + pyr_c --> accoa_c + co2_c + nadh_c,,999999.0,{'c'},(BSU14580 and BSU14590) and BSU14600 and BSU14610
+MLTG5,Maltodextrin glucosidase (maltoheptaose),h2o_c + malthp_c --> glc__D_c + malthx_c,,999999.0,{'c'},BSU34560
+MLTG6,Maltodextrin glucosidase  dextrin,dextrin_c + 2.0 h2o_c --> 2.0 glc__D_c,,999999.0,{'c'},BSU34560
+MLTG7,Maltodextrin glucosidase  isomaltose,h2o_c + isomal_c --> 2.0 glc__D_c,,999999.0,{'c'},BSU34560
+PFK_2,Phosphofructokinase,atp_c + tag6p__D_c --> adp_c + h_c + tagdp__D_c,,999999.0,{'c'},BSU29190
+TARTRDH2,Tartrate dehydrogenase,nad_c + tartr__M_c <=> h_c + nadh_c + oxglyc_c,-999999.0,999999.0,{'c'},BSU04000
+PUNP3,Purine-nucleoside phosphorylase (Guanosine),gsn_c + pi_c <=> gua_c + r1p_c,-999999.0,999999.0,{'c'},BSU23490 or BSU19630
+PUNP4,Purine-nucleoside phosphorylase (Deoxyguanosine),dgsn_c + pi_c <=> 2dr1p_c + gua_c,-999999.0,999999.0,{'c'},BSU19630 or BSU23490
+PFK,Phosphofructokinase,atp_c + f6p_c --> adp_c + fdp_c + h_c,,999999.0,{'c'},BSU29190
+METSRabc,L methionine R oxide transport via ABC system,atp_c + h2o_c + metox__R_e --> adp_c + h_c + metox__R_c + pi_c,,999999.0,"{'e', 'c'}",(BSU32730 and BSU32740 and BSU32750) or (BSU29380 and BSU29370 and BSU29360 and BSU29350 and BSU29340)
+PRAMPC_1,Phosphoribosyl AMP cyclohydrolase,h2o_c + h_c + prbamp_c --> prfp_c,,999999.0,{'c'},BSU34860
+PSP_L,Phosphoserine phosphatase (L-serine),h2o_c + pser__L_c --> pi_c + ser__L_c,,999999.0,{'c'},BSU04740
+PGAMT,Phosphoglucosamine mutase,gam1p_c <=> gam6p_c,-999999.0,999999.0,{'c'},BSU01770
+TECA2S45,Glycerol teichoic acid  n45   unlinked  D ala substituted,45.0 ala__D_c + 45.0 atp_c + 45.0 cdpglyc_c + 45.0 h2o_c + uacgam_c + uacmam_c --> 45.0 amp_c + 45.0 cmp_c + gtca2_45_BS_c + 91.0 h_c + 45.0 ppi_c + udp_c + ump_c,,999999.0,{'c'},BSU38500 and BSU38510 and BSU38520 and BSU38530 and BSU35750 and BSU35760 and BSU35720 and BSU35710 and BSU35700 and BSU35530
+RNDR1,Ribonucleoside-diphosphate reductase (ADP),adp_c + trdrd_c --> dadp_c + h2o_c + trdox_c,,999999.0,{'c'},BSU17380 and BSU17390 and BSU17370
+PGMT,Phosphoglucomutase,g1p_c <=> g6p_c,-999999.0,999999.0,{'c'},BSU01770
+RNDR2,Ribonucleoside-diphosphate reductase (GDP),gdp_c + trdrd_c --> dgdp_c + h2o_c + trdox_c,,999999.0,{'c'},BSU17380 and BSU17390 and BSU17370
+PGCD,Phosphoglycerate dehydrogenase,3pg_c + nad_c <=> 3php_c + h_c + nadh_c,-999999.0,999999.0,{'c'},BSU23070
+RNDR3,Ribonucleoside-diphosphate reductase (CDP),cdp_c + trdrd_c --> dcdp_c + h2o_c + trdox_c,,999999.0,{'c'},BSU17380 and BSU17390 and BSU17370
+TECA3S45,Glycerol teichoic acid  n45   unlinked  glucose substituted,45.0 cdpglyc_c + h2o_c + uacgam_c + uacmam_c + 45.0 udpg_c --> 45.0 cmp_c + gtca3_45_BS_c + 91.0 h_c + 46.0 udp_c + ump_c,,999999.0,{'c'},BSU35750 and BSU35760 and BSU35730 and BSU35720 and BSU35710 and BSU35700 and BSU35530
+GND,Phosphogluconate dehydrogenase,6pgc_c + nadp_c <=> co2_c + nadph_c + ru5p__D_c,-999999.0,999999.0,{'c'},BSU23860
+PGK,Phosphoglycerate kinase,3pg_c + atp_c <=> 13dpg_c + adp_c,-999999.0,999999.0,{'c'},BSU33930
+PGLYCP,Phosphoglycolate phosphatase,2pglyc_c + h2o_c --> glyclt_c + pi_c,,999999.0,{'c'},BSU09240
+PGM,Phosphoglycerate mutase,2pg_c <=> 3pg_c,-999999.0,999999.0,{'c'},BSU33910
+PHCYT_BS,Phosphatidate cytidylyltransferase,0.01 12dag3p_BS_c + ctp_c + h_c --> 0.01 cdpdag_BS_c + ppi_c,,999999.0,{'c'},BSU16540
