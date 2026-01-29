@@ -6,6 +6,10 @@ This repository contains one of the five computational biology analyses conducte
 
 The initial model development was performed using Google Colab notebooks. Significant updates and the final code were subsequently integrated into this repository.
 
+- **DPAHelix Members involved (No specific order)**: Alison Yuliana Anaya Quintero, Melissa Yoely Santayygo Acosta
+- **Advisor**: LBG Mauricio Reyes-Elizondo
+- **PI**: Dr J Claudio Moreno-Rocha
+
 ## Databases Used
 1. **KEGG**: https://www.kegg.jp/
 2. **BioCyc**: https://biocyc.org/
